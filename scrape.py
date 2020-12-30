@@ -1,11 +1,22 @@
 import requests
 import pandas as pd
+import re
 from bs4 import BeautifulSoup
 from pathlib import Path
 
-month_range = ['october', 'november', 'december', 'january', 'february', 'march', 'april', 'may', 'june']
-
 for year in range(1981, 2019):
+    url = 'https://www.basketball-reference.com/leagues/NBA_{}_games.html'.format(year)
+    page = requests.get(url)
+    soup = BeautifulSoup(page.content, 'html.parser')
+    
+    month_filter_container = soup.find('div', class_='filter')
+
+    month_range = []
+    for div in month_filter_container.find_all('div'):
+        month_range.append(re.sub('[^a-z]+', '', div.get_text().lower()))
+
+    print(month_range)
+
     for month in month_range:
         url = 'https://www.basketball-reference.com/leagues/NBA_{}_games-{}.html'.format(year, month)
         page = requests.get(url)
