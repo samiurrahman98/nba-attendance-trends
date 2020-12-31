@@ -1,161 +1,161 @@
-Date,Visitor/Neutral,PTS_1,Home/Neutral,PTS_2,_1,_2,Attend.,Notes
-"Tue, Dec 1, 1987",Boston Celtics,106,Atlanta Hawks,120,Box Score,,"16,451",
-"Tue, Dec 1, 1987",Chicago Bulls,98,Golden State Warriors,97,Box Score,,"15,025",
-"Tue, Dec 1, 1987",Denver Nuggets,101,Houston Rockets,106,Box Score,,"16,611",
-"Tue, Dec 1, 1987",Detroit Pistons,124,New Jersey Nets,115,Box Score,OT,"8,232",
-"Tue, Dec 1, 1987",Seattle SuperSonics,112,New York Knicks,109,Box Score,,"11,424",
-"Tue, Dec 1, 1987",Phoenix Suns,100,Portland Trail Blazers,102,Box Score,,"12,666",
-"Tue, Dec 1, 1987",Los Angeles Lakers,125,Sacramento Kings,120,Box Score,OT,"10,333",
-"Wed, Dec 2, 1987",New Jersey Nets,99,Boston Celtics,130,Box Score,,"14,890",
-"Wed, Dec 2, 1987",Seattle SuperSonics,102,Cleveland Cavaliers,104,Box Score,,"6,207",
-"Wed, Dec 2, 1987",Sacramento Kings,120,Denver Nuggets,147,Box Score,,"7,779",
-"Wed, Dec 2, 1987",Milwaukee Bucks,105,Detroit Pistons,115,Box Score,,"18,780",
-"Wed, Dec 2, 1987",Washington Bullets,102,Indiana Pacers,108,Box Score,,"8,220",
-"Wed, Dec 2, 1987",Philadelphia 76ers,85,Los Angeles Clippers,88,Box Score,,"8,232",
-"Wed, Dec 2, 1987",Portland Trail Blazers,117,Los Angeles Lakers,104,Box Score,,"17,505",
-"Wed, Dec 2, 1987",Houston Rockets,93,San Antonio Spurs,97,Box Score,,"8,025",
-"Wed, Dec 2, 1987",Chicago Bulls,105,Utah Jazz,101,Box Score,,"12,212",
-"Thu, Dec 3, 1987",New York Knicks,114,Phoenix Suns,120,Box Score,,"9,678",
-"Thu, Dec 3, 1987",Atlanta Hawks,102,Washington Bullets,94,Box Score,,"6,464",
-"Fri, Dec 4, 1987",New Jersey Nets,102,Atlanta Hawks,139,Box Score,,"9,868",
-"Fri, Dec 4, 1987",Golden State Warriors,95,Dallas Mavericks,116,Box Score,,"17,007",
-"Fri, Dec 4, 1987",Chicago Bulls,89,Denver Nuggets,105,Box Score,,"17,022",
-"Fri, Dec 4, 1987",Boston Celtics,105,Detroit Pistons,128,Box Score,,"34,523",
-"Fri, Dec 4, 1987",Cleveland Cavaliers,108,Indiana Pacers,90,Box Score,,"11,151",
-"Fri, Dec 4, 1987",Sacramento Kings,84,Los Angeles Clippers,98,Box Score,,"3,205",
-"Fri, Dec 4, 1987",Los Angeles Lakers,83,Milwaukee Bucks,85,Box Score,,"11,052",
-"Fri, Dec 4, 1987",Seattle SuperSonics,105,Philadelphia 76ers,118,Box Score,,"13,115",
-"Fri, Dec 4, 1987",New York Knicks,92,Utah Jazz,104,Box Score,,"12,212",
-"Sat, Dec 5, 1987",Los Angeles Lakers,95,Cleveland Cavaliers,97,Box Score,,"20,015",
-"Sat, Dec 5, 1987",Denver Nuggets,96,Dallas Mavericks,109,Box Score,,"17,007",
-"Sat, Dec 5, 1987",Golden State Warriors,96,Houston Rockets,121,Box Score,,"16,611",
-"Sat, Dec 5, 1987",Portland Trail Blazers,133,Phoenix Suns,115,Box Score,,"11,411",
-"Sat, Dec 5, 1987",Utah Jazz,126,Sacramento Kings,117,Box Score,,"10,333",
-"Sat, Dec 5, 1987",Chicago Bulls,101,San Antonio Spurs,110,Box Score,,"15,786",
-"Sat, Dec 5, 1987",Seattle SuperSonics,115,Washington Bullets,99,Box Score,,"11,604",
-"Sun, Dec 6, 1987",Phoenix Suns,97,Los Angeles Clippers,96,Box Score,,"5,467",
-"Sun, Dec 6, 1987",New York Knicks,99,Portland Trail Blazers,117,Box Score,,"12,666",
-"Tue, Dec 8, 1987",Philadelphia 76ers,109,Chicago Bulls,96,Box Score,,"17,715",
-"Tue, Dec 8, 1987",Portland Trail Blazers,117,Detroit Pistons,127,Box Score,,"17,267",
-"Tue, Dec 8, 1987",Sacramento Kings,97,Houston Rockets,106,Box Score,,"16,611",
-"Tue, Dec 8, 1987",Milwaukee Bucks,101,Indiana Pacers,103,Box Score,,"8,535",
-"Tue, Dec 8, 1987",Atlanta Hawks,90,Los Angeles Clippers,79,Box Score,,"9,245",
-"Tue, Dec 8, 1987",Los Angeles Lakers,98,New Jersey Nets,81,Box Score,,"18,008",
-"Tue, Dec 8, 1987",Washington Bullets,92,New York Knicks,116,Box Score,,"12,931",
-"Tue, Dec 8, 1987",Utah Jazz,100,San Antonio Spurs,105,Box Score,,"5,263",
-"Tue, Dec 8, 1987",Cleveland Cavaliers,96,Seattle SuperSonics,107,Box Score,,"8,520",
-"Wed, Dec 9, 1987",Denver Nuggets,124,Boston Celtics,119,Box Score,,"14,890",
-"Wed, Dec 9, 1987",Sacramento Kings,98,Dallas Mavericks,125,Box Score,,"16,393",
-"Wed, Dec 9, 1987",Cleveland Cavaliers,112,Golden State Warriors,113,Box Score,,"10,257",
-"Wed, Dec 9, 1987",Portland Trail Blazers,86,Philadelphia 76ers,94,Box Score,,"12,764",
-"Wed, Dec 9, 1987",Atlanta Hawks,105,Phoenix Suns,117,Box Score,,"10,795",
-"Wed, Dec 9, 1987",Los Angeles Lakers,112,Washington Bullets,120,Box Score,OT,"18,643",
-"Thu, Dec 10, 1987",Milwaukee Bucks,105,Chicago Bulls,111,Box Score,,"17,820",
-"Thu, Dec 10, 1987",Utah Jazz,93,Houston Rockets,98,Box Score,,"16,611",
-"Thu, Dec 10, 1987",Seattle SuperSonics,96,Los Angeles Clippers,113,Box Score,,"5,852",
-"Thu, Dec 10, 1987",Indiana Pacers,108,New Jersey Nets,91,Box Score,,"7,846",
-"Thu, Dec 10, 1987",Denver Nuggets,97,New York Knicks,113,Box Score,,"9,499",
-"Fri, Dec 11, 1987",Los Angeles Lakers,115,Boston Celtics,114,Box Score,,"14,890",
-"Fri, Dec 11, 1987",Phoenix Suns,104,Dallas Mavericks,108,Box Score,OT,"17,007",
-"Fri, Dec 11, 1987",Washington Bullets,108,Detroit Pistons,114,Box Score,,"17,884",
-"Fri, Dec 11, 1987",Atlanta Hawks,109,Golden State Warriors,93,Box Score,,"13,972",
-"Fri, Dec 11, 1987",Portland Trail Blazers,112,Milwaukee Bucks,125,Box Score,,"11,052",
-"Fri, Dec 11, 1987",Cleveland Cavaliers,115,Sacramento Kings,113,Box Score,,"10,333",
-"Sat, Dec 12, 1987",Houston Rockets,103,Chicago Bulls,112,Box Score,,"18,096",
-"Sat, Dec 12, 1987",New York Knicks,96,Detroit Pistons,124,Box Score,,"21,368",
-"Sat, Dec 12, 1987",Portland Trail Blazers,108,Indiana Pacers,101,Box Score,,"11,485",
-"Sat, Dec 12, 1987",Washington Bullets,122,New Jersey Nets,107,Box Score,,"11,746",
-"Sat, Dec 12, 1987",Denver Nuggets,131,Philadelphia 76ers,121,Box Score,,"9,857",
-"Sat, Dec 12, 1987",Phoenix Suns,110,San Antonio Spurs,129,Box Score,,"7,262",
-"Sat, Dec 12, 1987",Los Angeles Clippers,95,Seattle SuperSonics,116,Box Score,,"10,623",
-"Sat, Dec 12, 1987",Golden State Warriors,93,Utah Jazz,127,Box Score,,"12,212",
-"Sun, Dec 13, 1987",Cleveland Cavaliers,89,Los Angeles Lakers,90,Box Score,,"17,505",
-"Sun, Dec 13, 1987",Dallas Mavericks,113,Milwaukee Bucks,99,Box Score,,"11,052",
-"Sun, Dec 13, 1987",Atlanta Hawks,106,Sacramento Kings,100,Box Score,,"10,333",
-"Mon, Dec 14, 1987",Seattle SuperSonics,95,Utah Jazz,116,Box Score,,"12,212",
-"Tue, Dec 15, 1987",Indiana Pacers,91,Atlanta Hawks,93,Box Score,,"13,118",
-"Tue, Dec 15, 1987",Dallas Mavericks,93,Cleveland Cavaliers,106,Box Score,,"6,852",
-"Tue, Dec 15, 1987",Chicago Bulls,123,Detroit Pistons,127,Box Score,OT,"23,729",
-"Tue, Dec 15, 1987",Phoenix Suns,97,Los Angeles Lakers,122,Box Score,,"17,371",
-"Tue, Dec 15, 1987",San Antonio Spurs,98,New Jersey Nets,104,Box Score,,"8,010",
-"Tue, Dec 15, 1987",Milwaukee Bucks,103,New York Knicks,98,Box Score,,"9,016",
-"Tue, Dec 15, 1987",Seattle SuperSonics,109,Portland Trail Blazers,128,Box Score,,"12,666",
-"Tue, Dec 15, 1987",Los Angeles Clippers,108,Sacramento Kings,128,Box Score,,"10,333",
-"Tue, Dec 15, 1987",Boston Celtics,122,Washington Bullets,102,Box Score,,"15,896",
-"Wed, Dec 16, 1987",Utah Jazz,111,Boston Celtics,121,Box Score,,"14,890",
-"Wed, Dec 16, 1987",Houston Rockets,113,Denver Nuggets,132,Box Score,,"13,834",
-"Wed, Dec 16, 1987",Dallas Mavericks,109,New Jersey Nets,105,Box Score,OT,"9,877",
-"Wed, Dec 16, 1987",San Antonio Spurs,102,Philadelphia 76ers,114,Box Score,,"9,278",
-"Thu, Dec 17, 1987",Cleveland Cavaliers,100,Chicago Bulls,111,Box Score,,"17,560",
-"Thu, Dec 17, 1987",Los Angeles Lakers,113,Golden State Warriors,106,Box Score,,"15,025",
-"Thu, Dec 17, 1987",Houston Rockets,92,Los Angeles Clippers,98,Box Score,,"6,519",
-"Thu, Dec 17, 1987",Philadelphia 76ers,106,New York Knicks,96,Box Score,,"13,027",
-"Thu, Dec 17, 1987",Sacramento Kings,109,Seattle SuperSonics,114,Box Score,,"10,238",
-"Thu, Dec 17, 1987",Indiana Pacers,111,Washington Bullets,115,Box Score,OT,"5,433",
-"Fri, Dec 18, 1987",New Jersey Nets,94,Cleveland Cavaliers,103,Box Score,,"6,493",
-"Fri, Dec 18, 1987",Dallas Mavericks,112,Detroit Pistons,117,Box Score,,"19,426",
-"Fri, Dec 18, 1987",Utah Jazz,97,Indiana Pacers,121,Box Score,,"10,613",
-"Fri, Dec 18, 1987",Atlanta Hawks,94,Milwaukee Bucks,87,Box Score,,"11,052",
-"Fri, Dec 18, 1987",Portland Trail Blazers,129,Phoenix Suns,114,Box Score,,"9,971",
-"Fri, Dec 18, 1987",Denver Nuggets,114,San Antonio Spurs,133,Box Score,,"7,401",
-"Sat, Dec 19, 1987",Utah Jazz,124,Atlanta Hawks,130,Box Score,OT,"12,215",
-"Sat, Dec 19, 1987",Seattle SuperSonics,129,Golden State Warriors,102,Box Score,,"12,998",
-"Sat, Dec 19, 1987",Denver Nuggets,121,Houston Rockets,117,Box Score,,"16,611",
-"Sat, Dec 19, 1987",Los Angeles Lakers,108,Los Angeles Clippers,97,Box Score,,"14,417",
-"Sat, Dec 19, 1987",New Jersey Nets,93,New York Knicks,125,Box Score,,"10,756",
-"Sat, Dec 19, 1987",Dallas Mavericks,90,Philadelphia 76ers,95,Box Score,,"12,477",
-"Sat, Dec 19, 1987",Chicago Bulls,96,Washington Bullets,109,Box Score,,"14,353",
-"Sun, Dec 20, 1987",Philadelphia 76ers,87,Boston Celtics,124,Box Score,,"14,890",
-"Sun, Dec 20, 1987",Indiana Pacers,116,Cleveland Cavaliers,127,Box Score,,"8,115",
-"Sun, Dec 20, 1987",Seattle SuperSonics,94,Los Angeles Lakers,103,Box Score,,"17,505",
-"Sun, Dec 20, 1987",San Antonio Spurs,126,Portland Trail Blazers,148,Box Score,,"12,666",
-"Sun, Dec 20, 1987",Phoenix Suns,120,Sacramento Kings,109,Box Score,,"10,333",
-"Mon, Dec 21, 1987",Utah Jazz,95,New Jersey Nets,106,Box Score,,"7,651",
-"Tue, Dec 22, 1987",Dallas Mavericks,111,Chicago Bulls,100,Box Score,,"18,103",
-"Tue, Dec 22, 1987",Phoenix Suns,104,Denver Nuggets,119,Box Score,,"8,823",
-"Tue, Dec 22, 1987",Atlanta Hawks,103,Houston Rockets,122,Box Score,,"16,611",
-"Tue, Dec 22, 1987",New York Knicks,105,Milwaukee Bucks,122,Box Score,,"11,052",
-"Tue, Dec 22, 1987",Boston Celtics,118,Philadelphia 76ers,115,Box Score,,"18,168",
-"Tue, Dec 22, 1987",Golden State Warriors,91,Portland Trail Blazers,136,Box Score,,"12,666",
-"Tue, Dec 22, 1987",San Antonio Spurs,96,Sacramento Kings,120,Box Score,,"10,333",
-"Tue, Dec 22, 1987",Cleveland Cavaliers,106,Washington Bullets,102,Box Score,,"4,464",
-"Wed, Dec 23, 1987",Utah Jazz,91,Cleveland Cavaliers,83,Box Score,,"9,202",
-"Wed, Dec 23, 1987",Denver Nuggets,117,Golden State Warriors,129,Box Score,,"10,071",
-"Wed, Dec 23, 1987",Dallas Mavericks,110,Indiana Pacers,109,Box Score,,"14,572",
-"Wed, Dec 23, 1987",San Antonio Spurs,111,Los Angeles Clippers,97,Box Score,,"7,763",
-"Wed, Dec 23, 1987",Sacramento Kings,103,Los Angeles Lakers,117,Box Score,,"17,505",
-"Wed, Dec 23, 1987",Philadelphia 76ers,110,New Jersey Nets,106,Box Score,,"9,122",
-"Wed, Dec 23, 1987",Chicago Bulls,89,New York Knicks,90,Box Score,,"19,591",
-"Wed, Dec 23, 1987",Seattle SuperSonics,103,Phoenix Suns,102,Box Score,,"10,351",
-"Fri, Dec 25, 1987",Detroit Pistons,91,New York Knicks,87,Box Score,,"14,549",
-"Fri, Dec 25, 1987",Atlanta Hawks,106,Philadelphia 76ers,100,Box Score,,"14,133",
-"Sat, Dec 26, 1987",New York Knicks,98,Atlanta Hawks,125,Box Score,,"16,451",
-"Sat, Dec 26, 1987",Portland Trail Blazers,117,Cleveland Cavaliers,120,Box Score,,"14,225",
-"Sat, Dec 26, 1987",Houston Rockets,100,Dallas Mavericks,105,Box Score,,"17,007",
-"Sat, Dec 26, 1987",Seattle SuperSonics,111,Denver Nuggets,115,Box Score,,"12,403",
-"Sat, Dec 26, 1987",New Jersey Nets,75,Detroit Pistons,110,Box Score,,"23,330",
-"Sat, Dec 26, 1987",Chicago Bulls,92,Indiana Pacers,106,Box Score,,"16,041",
-"Sat, Dec 26, 1987",Boston Celtics,106,Los Angeles Clippers,97,Box Score,,"15,167",
-"Sat, Dec 26, 1987",Washington Bullets,97,Milwaukee Bucks,102,Box Score,,"11,052",
-"Sat, Dec 26, 1987",Sacramento Kings,112,Phoenix Suns,110,Box Score,,"10,328",
-"Sat, Dec 26, 1987",Golden State Warriors,96,San Antonio Spurs,105,Box Score,,"10,632",
-"Sat, Dec 26, 1987",Los Angeles Lakers,117,Utah Jazz,109,Box Score,,"12,212",
-"Sun, Dec 27, 1987",Cleveland Cavaliers,83,New Jersey Nets,101,Box Score,,"9,216",
-"Sun, Dec 27, 1987",Boston Celtics,114,Sacramento Kings,102,Box Score,,"10,333",
-"Mon, Dec 28, 1987",Philadelphia 76ers,101,Phoenix Suns,117,Box Score,,"13,041",
-"Mon, Dec 28, 1987",Denver Nuggets,100,Seattle SuperSonics,108,Box Score,,"13,007",
-"Tue, Dec 29, 1987",Atlanta Hawks,108,Chicago Bulls,98,Box Score,,"18,678",
-"Tue, Dec 29, 1987",Sacramento Kings,117,Dallas Mavericks,126,Box Score,,"17,007",
-"Tue, Dec 29, 1987",Utah Jazz,98,Denver Nuggets,97,Box Score,,"10,621",
-"Tue, Dec 29, 1987",Houston Rockets,101,Detroit Pistons,91,Box Score,,"26,498",
-"Tue, Dec 29, 1987",Philadelphia 76ers,115,Los Angeles Lakers,131,Box Score,,"17,505",
-"Tue, Dec 29, 1987",Milwaukee Bucks,106,New Jersey Nets,88,Box Score,,"9,035",
-"Tue, Dec 29, 1987",Portland Trail Blazers,110,New York Knicks,123,Box Score,,"13,798",
-"Wed, Dec 30, 1987",Atlanta Hawks,117,Cleveland Cavaliers,110,Box Score,,"19,029",
-"Wed, Dec 30, 1987",Detroit Pistons,105,Indiana Pacers,95,Box Score,,"12,945",
-"Wed, Dec 30, 1987",Phoenix Suns,121,Los Angeles Clippers,102,Box Score,,"7,420",
-"Wed, Dec 30, 1987",Houston Rockets,102,Milwaukee Bucks,93,Box Score,,"11,052",
-"Wed, Dec 30, 1987",Sacramento Kings,108,San Antonio Spurs,140,Box Score,,"7,294",
-"Wed, Dec 30, 1987",Boston Celtics,105,Seattle SuperSonics,111,Box Score,,"14,850",
-"Wed, Dec 30, 1987",Golden State Warriors,103,Utah Jazz,104,Box Score,,"12,212",
-"Wed, Dec 30, 1987",Portland Trail Blazers,117,Washington Bullets,112,Box Score,,"6,338",
+"Date","Start (ET)","Visitor/Neutral","Visitor/Neutral PTS","Home/Neutral","Home/Neutral PTS","Attendance","Notes"
+"1987-12-01","","Boston Celtics",106,"Atlanta Hawks",120,16451,""
+"1987-12-01","","Chicago Bulls",98,"Golden State Warriors",97,15025,""
+"1987-12-01","","Denver Nuggets",101,"Houston Rockets",106,16611,""
+"1987-12-01","","Detroit Pistons",124,"New Jersey Nets",115,8232,""
+"1987-12-01","","Seattle SuperSonics",112,"New York Knicks",109,11424,""
+"1987-12-01","","Phoenix Suns",100,"Portland Trail Blazers",102,12666,""
+"1987-12-01","","Los Angeles Lakers",125,"Sacramento Kings",120,10333,""
+"1987-12-02","","New Jersey Nets",99,"Boston Celtics",130,14890,""
+"1987-12-02","","Seattle SuperSonics",102,"Cleveland Cavaliers",104,6207,""
+"1987-12-02","","Sacramento Kings",120,"Denver Nuggets",147,7779,""
+"1987-12-02","","Milwaukee Bucks",105,"Detroit Pistons",115,18780,""
+"1987-12-02","","Washington Bullets",102,"Indiana Pacers",108,8220,""
+"1987-12-02","","Philadelphia 76ers",85,"Los Angeles Clippers",88,8232,""
+"1987-12-02","","Portland Trail Blazers",117,"Los Angeles Lakers",104,17505,""
+"1987-12-02","","Houston Rockets",93,"San Antonio Spurs",97,8025,""
+"1987-12-02","","Chicago Bulls",105,"Utah Jazz",101,12212,""
+"1987-12-03","","New York Knicks",114,"Phoenix Suns",120,9678,""
+"1987-12-03","","Atlanta Hawks",102,"Washington Bullets",94,6464,""
+"1987-12-04","","New Jersey Nets",102,"Atlanta Hawks",139,9868,""
+"1987-12-04","","Golden State Warriors",95,"Dallas Mavericks",116,17007,""
+"1987-12-04","","Chicago Bulls",89,"Denver Nuggets",105,17022,""
+"1987-12-04","","Boston Celtics",105,"Detroit Pistons",128,34523,""
+"1987-12-04","","Cleveland Cavaliers",108,"Indiana Pacers",90,11151,""
+"1987-12-04","","Sacramento Kings",84,"Los Angeles Clippers",98,3205,""
+"1987-12-04","","Los Angeles Lakers",83,"Milwaukee Bucks",85,11052,""
+"1987-12-04","","Seattle SuperSonics",105,"Philadelphia 76ers",118,13115,""
+"1987-12-04","","New York Knicks",92,"Utah Jazz",104,12212,""
+"1987-12-05","","Los Angeles Lakers",95,"Cleveland Cavaliers",97,20015,""
+"1987-12-05","","Denver Nuggets",96,"Dallas Mavericks",109,17007,""
+"1987-12-05","","Golden State Warriors",96,"Houston Rockets",121,16611,""
+"1987-12-05","","Portland Trail Blazers",133,"Phoenix Suns",115,11411,""
+"1987-12-05","","Utah Jazz",126,"Sacramento Kings",117,10333,""
+"1987-12-05","","Chicago Bulls",101,"San Antonio Spurs",110,15786,""
+"1987-12-05","","Seattle SuperSonics",115,"Washington Bullets",99,11604,""
+"1987-12-06","","Phoenix Suns",97,"Los Angeles Clippers",96,5467,""
+"1987-12-06","","New York Knicks",99,"Portland Trail Blazers",117,12666,""
+"1987-12-08","","Philadelphia 76ers",109,"Chicago Bulls",96,17715,""
+"1987-12-08","","Portland Trail Blazers",117,"Detroit Pistons",127,17267,""
+"1987-12-08","","Sacramento Kings",97,"Houston Rockets",106,16611,""
+"1987-12-08","","Milwaukee Bucks",101,"Indiana Pacers",103,8535,""
+"1987-12-08","","Atlanta Hawks",90,"Los Angeles Clippers",79,9245,""
+"1987-12-08","","Los Angeles Lakers",98,"New Jersey Nets",81,18008,""
+"1987-12-08","","Washington Bullets",92,"New York Knicks",116,12931,""
+"1987-12-08","","Utah Jazz",100,"San Antonio Spurs",105,5263,""
+"1987-12-08","","Cleveland Cavaliers",96,"Seattle SuperSonics",107,8520,""
+"1987-12-09","","Denver Nuggets",124,"Boston Celtics",119,14890,""
+"1987-12-09","","Sacramento Kings",98,"Dallas Mavericks",125,16393,""
+"1987-12-09","","Cleveland Cavaliers",112,"Golden State Warriors",113,10257,""
+"1987-12-09","","Portland Trail Blazers",86,"Philadelphia 76ers",94,12764,""
+"1987-12-09","","Atlanta Hawks",105,"Phoenix Suns",117,10795,""
+"1987-12-09","","Los Angeles Lakers",112,"Washington Bullets",120,18643,""
+"1987-12-10","","Milwaukee Bucks",105,"Chicago Bulls",111,17820,""
+"1987-12-10","","Utah Jazz",93,"Houston Rockets",98,16611,""
+"1987-12-10","","Seattle SuperSonics",96,"Los Angeles Clippers",113,5852,""
+"1987-12-10","","Indiana Pacers",108,"New Jersey Nets",91,7846,""
+"1987-12-10","","Denver Nuggets",97,"New York Knicks",113,9499,""
+"1987-12-11","","Los Angeles Lakers",115,"Boston Celtics",114,14890,""
+"1987-12-11","","Phoenix Suns",104,"Dallas Mavericks",108,17007,""
+"1987-12-11","","Washington Bullets",108,"Detroit Pistons",114,17884,""
+"1987-12-11","","Atlanta Hawks",109,"Golden State Warriors",93,13972,""
+"1987-12-11","","Portland Trail Blazers",112,"Milwaukee Bucks",125,11052,""
+"1987-12-11","","Cleveland Cavaliers",115,"Sacramento Kings",113,10333,""
+"1987-12-12","","Houston Rockets",103,"Chicago Bulls",112,18096,""
+"1987-12-12","","New York Knicks",96,"Detroit Pistons",124,21368,""
+"1987-12-12","","Portland Trail Blazers",108,"Indiana Pacers",101,11485,""
+"1987-12-12","","Washington Bullets",122,"New Jersey Nets",107,11746,""
+"1987-12-12","","Denver Nuggets",131,"Philadelphia 76ers",121,9857,""
+"1987-12-12","","Phoenix Suns",110,"San Antonio Spurs",129,7262,""
+"1987-12-12","","Los Angeles Clippers",95,"Seattle SuperSonics",116,10623,""
+"1987-12-12","","Golden State Warriors",93,"Utah Jazz",127,12212,""
+"1987-12-13","","Cleveland Cavaliers",89,"Los Angeles Lakers",90,17505,""
+"1987-12-13","","Dallas Mavericks",113,"Milwaukee Bucks",99,11052,""
+"1987-12-13","","Atlanta Hawks",106,"Sacramento Kings",100,10333,""
+"1987-12-14","","Seattle SuperSonics",95,"Utah Jazz",116,12212,""
+"1987-12-15","","Indiana Pacers",91,"Atlanta Hawks",93,13118,""
+"1987-12-15","","Dallas Mavericks",93,"Cleveland Cavaliers",106,6852,""
+"1987-12-15","","Chicago Bulls",123,"Detroit Pistons",127,23729,""
+"1987-12-15","","Phoenix Suns",97,"Los Angeles Lakers",122,17371,""
+"1987-12-15","","San Antonio Spurs",98,"New Jersey Nets",104,8010,""
+"1987-12-15","","Milwaukee Bucks",103,"New York Knicks",98,9016,""
+"1987-12-15","","Seattle SuperSonics",109,"Portland Trail Blazers",128,12666,""
+"1987-12-15","","Los Angeles Clippers",108,"Sacramento Kings",128,10333,""
+"1987-12-15","","Boston Celtics",122,"Washington Bullets",102,15896,""
+"1987-12-16","","Utah Jazz",111,"Boston Celtics",121,14890,""
+"1987-12-16","","Houston Rockets",113,"Denver Nuggets",132,13834,""
+"1987-12-16","","Dallas Mavericks",109,"New Jersey Nets",105,9877,""
+"1987-12-16","","San Antonio Spurs",102,"Philadelphia 76ers",114,9278,""
+"1987-12-17","","Cleveland Cavaliers",100,"Chicago Bulls",111,17560,""
+"1987-12-17","","Los Angeles Lakers",113,"Golden State Warriors",106,15025,""
+"1987-12-17","","Houston Rockets",92,"Los Angeles Clippers",98,6519,""
+"1987-12-17","","Philadelphia 76ers",106,"New York Knicks",96,13027,""
+"1987-12-17","","Sacramento Kings",109,"Seattle SuperSonics",114,10238,""
+"1987-12-17","","Indiana Pacers",111,"Washington Bullets",115,5433,""
+"1987-12-18","","New Jersey Nets",94,"Cleveland Cavaliers",103,6493,""
+"1987-12-18","","Dallas Mavericks",112,"Detroit Pistons",117,19426,""
+"1987-12-18","","Utah Jazz",97,"Indiana Pacers",121,10613,""
+"1987-12-18","","Atlanta Hawks",94,"Milwaukee Bucks",87,11052,""
+"1987-12-18","","Portland Trail Blazers",129,"Phoenix Suns",114,9971,""
+"1987-12-18","","Denver Nuggets",114,"San Antonio Spurs",133,7401,""
+"1987-12-19","","Utah Jazz",124,"Atlanta Hawks",130,12215,""
+"1987-12-19","","Seattle SuperSonics",129,"Golden State Warriors",102,12998,""
+"1987-12-19","","Denver Nuggets",121,"Houston Rockets",117,16611,""
+"1987-12-19","","Los Angeles Lakers",108,"Los Angeles Clippers",97,14417,""
+"1987-12-19","","New Jersey Nets",93,"New York Knicks",125,10756,""
+"1987-12-19","","Dallas Mavericks",90,"Philadelphia 76ers",95,12477,""
+"1987-12-19","","Chicago Bulls",96,"Washington Bullets",109,14353,""
+"1987-12-20","","Philadelphia 76ers",87,"Boston Celtics",124,14890,""
+"1987-12-20","","Indiana Pacers",116,"Cleveland Cavaliers",127,8115,""
+"1987-12-20","","Seattle SuperSonics",94,"Los Angeles Lakers",103,17505,""
+"1987-12-20","","San Antonio Spurs",126,"Portland Trail Blazers",148,12666,""
+"1987-12-20","","Phoenix Suns",120,"Sacramento Kings",109,10333,""
+"1987-12-21","","Utah Jazz",95,"New Jersey Nets",106,7651,""
+"1987-12-22","","Dallas Mavericks",111,"Chicago Bulls",100,18103,""
+"1987-12-22","","Phoenix Suns",104,"Denver Nuggets",119,8823,""
+"1987-12-22","","Atlanta Hawks",103,"Houston Rockets",122,16611,""
+"1987-12-22","","New York Knicks",105,"Milwaukee Bucks",122,11052,""
+"1987-12-22","","Boston Celtics",118,"Philadelphia 76ers",115,18168,""
+"1987-12-22","","Golden State Warriors",91,"Portland Trail Blazers",136,12666,""
+"1987-12-22","","San Antonio Spurs",96,"Sacramento Kings",120,10333,""
+"1987-12-22","","Cleveland Cavaliers",106,"Washington Bullets",102,4464,""
+"1987-12-23","","Utah Jazz",91,"Cleveland Cavaliers",83,9202,""
+"1987-12-23","","Denver Nuggets",117,"Golden State Warriors",129,10071,""
+"1987-12-23","","Dallas Mavericks",110,"Indiana Pacers",109,14572,""
+"1987-12-23","","San Antonio Spurs",111,"Los Angeles Clippers",97,7763,""
+"1987-12-23","","Sacramento Kings",103,"Los Angeles Lakers",117,17505,""
+"1987-12-23","","Philadelphia 76ers",110,"New Jersey Nets",106,9122,""
+"1987-12-23","","Chicago Bulls",89,"New York Knicks",90,19591,""
+"1987-12-23","","Seattle SuperSonics",103,"Phoenix Suns",102,10351,""
+"1987-12-25","","Detroit Pistons",91,"New York Knicks",87,14549,""
+"1987-12-25","","Atlanta Hawks",106,"Philadelphia 76ers",100,14133,""
+"1987-12-26","","New York Knicks",98,"Atlanta Hawks",125,16451,""
+"1987-12-26","","Portland Trail Blazers",117,"Cleveland Cavaliers",120,14225,""
+"1987-12-26","","Houston Rockets",100,"Dallas Mavericks",105,17007,""
+"1987-12-26","","Seattle SuperSonics",111,"Denver Nuggets",115,12403,""
+"1987-12-26","","New Jersey Nets",75,"Detroit Pistons",110,23330,""
+"1987-12-26","","Chicago Bulls",92,"Indiana Pacers",106,16041,""
+"1987-12-26","","Boston Celtics",106,"Los Angeles Clippers",97,15167,""
+"1987-12-26","","Washington Bullets",97,"Milwaukee Bucks",102,11052,""
+"1987-12-26","","Sacramento Kings",112,"Phoenix Suns",110,10328,""
+"1987-12-26","","Golden State Warriors",96,"San Antonio Spurs",105,10632,""
+"1987-12-26","","Los Angeles Lakers",117,"Utah Jazz",109,12212,""
+"1987-12-27","","Cleveland Cavaliers",83,"New Jersey Nets",101,9216,""
+"1987-12-27","","Boston Celtics",114,"Sacramento Kings",102,10333,""
+"1987-12-28","","Philadelphia 76ers",101,"Phoenix Suns",117,13041,""
+"1987-12-28","","Denver Nuggets",100,"Seattle SuperSonics",108,13007,""
+"1987-12-29","","Atlanta Hawks",108,"Chicago Bulls",98,18678,""
+"1987-12-29","","Sacramento Kings",117,"Dallas Mavericks",126,17007,""
+"1987-12-29","","Utah Jazz",98,"Denver Nuggets",97,10621,""
+"1987-12-29","","Houston Rockets",101,"Detroit Pistons",91,26498,""
+"1987-12-29","","Philadelphia 76ers",115,"Los Angeles Lakers",131,17505,""
+"1987-12-29","","Milwaukee Bucks",106,"New Jersey Nets",88,9035,""
+"1987-12-29","","Portland Trail Blazers",110,"New York Knicks",123,13798,""
+"1987-12-30","","Atlanta Hawks",117,"Cleveland Cavaliers",110,19029,""
+"1987-12-30","","Detroit Pistons",105,"Indiana Pacers",95,12945,""
+"1987-12-30","","Phoenix Suns",121,"Los Angeles Clippers",102,7420,""
+"1987-12-30","","Houston Rockets",102,"Milwaukee Bucks",93,11052,""
+"1987-12-30","","Sacramento Kings",108,"San Antonio Spurs",140,7294,""
+"1987-12-30","","Boston Celtics",105,"Seattle SuperSonics",111,14850,""
+"1987-12-30","","Golden State Warriors",103,"Utah Jazz",104,12212,""
+"1987-12-30","","Portland Trail Blazers",117,"Washington Bullets",112,6338,""

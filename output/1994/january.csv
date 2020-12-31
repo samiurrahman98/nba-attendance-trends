@@ -1,195 +1,195 @@
-Date,Visitor/Neutral,PTS_1,Home/Neutral,PTS_2,_1,_2,Attend.,Notes
-"Sun, Jan 2, 1994",New Jersey Nets,101,Boston Celtics,97,Box Score,,"14,890",
-"Sun, Jan 2, 1994",Philadelphia 76ers,96,Denver Nuggets,80,Box Score,,"13,496",
-"Sun, Jan 2, 1994",Miami Heat,93,Detroit Pistons,85,Box Score,,"19,274",
-"Sun, Jan 2, 1994",Charlotte Hornets,124,New York Knicks,123,Box Score,OT,"19,763",
-"Sun, Jan 2, 1994",Utah Jazz,92,Portland Trail Blazers,90,Box Score,,"12,888",
-"Sun, Jan 2, 1994",Dallas Mavericks,116,Sacramento Kings,119,Box Score,,"17,317",
-"Sun, Jan 2, 1994",Los Angeles Lakers,92,San Antonio Spurs,94,Box Score,,"18,017",
-"Mon, Jan 3, 1994",Dallas Mavericks,85,Utah Jazz,115,Box Score,,"19,911",
-"Tue, Jan 4, 1994",Charlotte Hornets,94,Atlanta Hawks,133,Box Score,,"12,071",
-"Tue, Jan 4, 1994",Detroit Pistons,91,Chicago Bulls,97,Box Score,,"18,676",
-"Tue, Jan 4, 1994",Los Angeles Lakers,119,Denver Nuggets,118,Box Score,,"17,171",
-"Tue, Jan 4, 1994",Sacramento Kings,112,Golden State Warriors,115,Box Score,,"15,025",
-"Tue, Jan 4, 1994",Portland Trail Blazers,95,Houston Rockets,106,Box Score,,"16,611",
-"Tue, Jan 4, 1994",Cleveland Cavaliers,99,Indiana Pacers,104,Box Score,,"10,012",
-"Tue, Jan 4, 1994",New Jersey Nets,83,Miami Heat,100,Box Score,,"15,082",
-"Tue, Jan 4, 1994",Orlando Magic,95,New York Knicks,100,Box Score,,"19,763",
-"Tue, Jan 4, 1994",Seattle SuperSonics,112,Phoenix Suns,106,Box Score,,"19,023",
-"Tue, Jan 4, 1994",Philadelphia 76ers,84,San Antonio Spurs,107,Box Score,,"16,767",
-"Wed, Jan 5, 1994",Boston Celtics,101,Cleveland Cavaliers,96,Box Score,,"16,821",
-"Wed, Jan 5, 1994",Houston Rockets,114,Dallas Mavericks,102,Box Score,,"11,721",
-"Wed, Jan 5, 1994",Seattle SuperSonics,106,Los Angeles Clippers,98,Box Score,,"11,838",
-"Wed, Jan 5, 1994",Denver Nuggets,95,Minnesota Timberwolves,109,Box Score,,"17,134",
-"Wed, Jan 5, 1994",Milwaukee Bucks,100,New Jersey Nets,91,Box Score,,"12,319",
-"Wed, Jan 5, 1994",Chicago Bulls,90,Orlando Magic,105,Box Score,,"15,291",
-"Wed, Jan 5, 1994",Los Angeles Lakers,98,Sacramento Kings,106,Box Score,,"17,317",
-"Wed, Jan 5, 1994",Phoenix Suns,107,Utah Jazz,91,Box Score,,"19,911",
-"Wed, Jan 5, 1994",Indiana Pacers,95,Washington Bullets,97,Box Score,,"10,041",
-"Thu, Jan 6, 1994",Portland Trail Blazers,116,Charlotte Hornets,110,Box Score,,"23,698",
-"Thu, Jan 6, 1994",San Antonio Spurs,98,Golden State Warriors,102,Box Score,,"15,025",
-"Thu, Jan 6, 1994",New York Knicks,92,Milwaukee Bucks,86,Box Score,,"13,874",
-"Fri, Jan 7, 1994",Portland Trail Blazers,85,Atlanta Hawks,100,Box Score,,"13,549",
-"Fri, Jan 7, 1994",Cleveland Cavaliers,99,Boston Celtics,85,Box Score,,"14,890",
-"Fri, Jan 7, 1994",Philadelphia 76ers,103,Dallas Mavericks,93,Box Score,,"11,848",
-"Fri, Jan 7, 1994",San Antonio Spurs,84,Denver Nuggets,76,Box Score,,"16,291",
-"Fri, Jan 7, 1994",Los Angeles Clippers,108,Los Angeles Lakers,111,Box Score,,"14,321",
-"Fri, Jan 7, 1994",Phoenix Suns,110,Minnesota Timberwolves,103,Box Score,,"19,006",
-"Fri, Jan 7, 1994",Sacramento Kings,93,Seattle SuperSonics,102,Box Score,,"14,709",
-"Fri, Jan 7, 1994",Miami Heat,110,Utah Jazz,104,Box Score,,"19,911",
-"Fri, Jan 7, 1994",Chicago Bulls,99,Washington Bullets,92,Box Score,,"17,133",
-"Sat, Jan 8, 1994",Cleveland Cavaliers,89,Atlanta Hawks,102,Box Score,,"16,368",
-"Sat, Jan 8, 1994",New York Knicks,99,Charlotte Hornets,102,Box Score,,"23,698",
-"Sat, Jan 8, 1994",Dallas Mavericks,81,Chicago Bulls,100,Box Score,,"18,392",
-"Sat, Jan 8, 1994",Sacramento Kings,98,Denver Nuggets,104,Box Score,,"14,709",
-"Sat, Jan 8, 1994",Indiana Pacers,101,Detroit Pistons,92,Box Score,,"19,878",
-"Sat, Jan 8, 1994",Philadelphia 76ers,93,Houston Rockets,100,Box Score,,"16,611",
-"Sat, Jan 8, 1994",Miami Heat,109,Los Angeles Clippers,90,Box Score,,"11,866",
-"Sat, Jan 8, 1994",New Jersey Nets,90,Milwaukee Bucks,87,Box Score,,"15,196",
-"Sat, Jan 8, 1994",Boston Celtics,90,Minnesota Timberwolves,108,Box Score,,"18,377",
-"Sat, Jan 8, 1994",Washington Bullets,101,Orlando Magic,112,Box Score,,"15,291",
-"Sat, Jan 8, 1994",Utah Jazz,87,Seattle SuperSonics,108,Box Score,,"14,813",
-"Sun, Jan 9, 1994",San Antonio Spurs,95,Los Angeles Lakers,89,Box Score,,"11,069",
-"Sun, Jan 9, 1994",Portland Trail Blazers,85,New York Knicks,99,Box Score,,"19,763",
-"Sun, Jan 9, 1994",Golden State Warriors,107,Phoenix Suns,122,Box Score,,"19,023",
-"Mon, Jan 10, 1994",Houston Rockets,100,Orlando Magic,115,Box Score,,"15,291",
-"Mon, Jan 10, 1994",Boston Celtics,94,Philadelphia 76ers,99,Box Score,,"15,293",
-"Tue, Jan 11, 1994",Denver Nuggets,94,Detroit Pistons,86,Box Score,,"17,685",
-"Tue, Jan 11, 1994",Golden State Warriors,122,Los Angeles Lakers,117,Box Score,,"11,735",
-"Tue, Jan 11, 1994",Indiana Pacers,82,Milwaukee Bucks,76,Box Score,,"13,364",
-"Tue, Jan 11, 1994",Washington Bullets,115,New Jersey Nets,100,Box Score,,"9,156",
-"Tue, Jan 11, 1994",Los Angeles Clippers,77,New York Knicks,98,Box Score,,"19,763",
-"Tue, Jan 11, 1994",Charlotte Hornets,95,Phoenix Suns,93,Box Score,,"19,023",
-"Tue, Jan 11, 1994",Seattle SuperSonics,99,Portland Trail Blazers,108,Box Score,,"12,888",
-"Tue, Jan 11, 1994",Miami Heat,95,Sacramento Kings,103,Box Score,,"17,317",
-"Tue, Jan 11, 1994",Minnesota Timberwolves,98,San Antonio Spurs,108,Box Score,,"17,664",
-"Wed, Jan 12, 1994",Chicago Bulls,81,Atlanta Hawks,92,Box Score,,"15,273",
-"Wed, Jan 12, 1994",Houston Rockets,94,Boston Celtics,84,Box Score,,"14,890",
-"Wed, Jan 12, 1994",Minnesota Timberwolves,103,Dallas Mavericks,85,Box Score,,"10,550",
-"Wed, Jan 12, 1994",Miami Heat,92,Golden State Warriors,100,Box Score,,"15,025",
-"Wed, Jan 12, 1994",Denver Nuggets,96,Indiana Pacers,107,Box Score,,"9,335",
-"Wed, Jan 12, 1994",Cleveland Cavaliers,118,Orlando Magic,109,Box Score,,"15,291",
-"Wed, Jan 12, 1994",Los Angeles Clippers,98,Philadelphia 76ers,117,Box Score,,"8,256",
-"Thu, Jan 13, 1994",New Jersey Nets,93,Cleveland Cavaliers,104,Box Score,,"17,756",
-"Thu, Jan 13, 1994",New York Knicks,94,Detroit Pistons,80,Box Score,,"19,431",
-"Thu, Jan 13, 1994",Utah Jazz,101,Milwaukee Bucks,83,Box Score,,"13,864",
-"Thu, Jan 13, 1994",Charlotte Hornets,104,Sacramento Kings,115,Box Score,,"17,317",
-"Thu, Jan 13, 1994",Phoenix Suns,88,San Antonio Spurs,107,Box Score,,"34,027",
-"Thu, Jan 13, 1994",Houston Rockets,102,Washington Bullets,120,Box Score,,"16,024",
-"Fri, Jan 14, 1994",Dallas Mavericks,96,Atlanta Hawks,113,Box Score,,"11,217",
-"Fri, Jan 14, 1994",Los Angeles Clippers,102,Boston Celtics,95,Box Score,,"14,890",
-"Fri, Jan 14, 1994",Utah Jazz,91,Chicago Bulls,107,Box Score,,"18,676",
-"Fri, Jan 14, 1994",Seattle SuperSonics,100,Golden State Warriors,121,Box Score,,"15,025",
-"Fri, Jan 14, 1994",Charlotte Hornets,130,Los Angeles Lakers,122,Box Score,,"16,011",
-"Fri, Jan 14, 1994",Orlando Magic,92,Minnesota Timberwolves,96,Box Score,,"19,006",
-"Fri, Jan 14, 1994",Denver Nuggets,96,New Jersey Nets,103,Box Score,,"20,049",
-"Fri, Jan 14, 1994",Indiana Pacers,102,Philadelphia 76ers,104,Box Score,OT,"13,535",
-"Fri, Jan 14, 1994",Miami Heat,110,Portland Trail Blazers,115,Box Score,,"12,888",
-"Sat, Jan 15, 1994",Houston Rockets,76,Chicago Bulls,82,Box Score,,"18,676",
-"Sat, Jan 15, 1994",Philadelphia 76ers,67,Cleveland Cavaliers,110,Box Score,,"18,689",
-"Sat, Jan 15, 1994",San Antonio Spurs,104,Dallas Mavericks,87,Box Score,,"14,061",
-"Sat, Jan 15, 1994",Atlanta Hawks,91,Indiana Pacers,94,Box Score,,"14,376",
-"Sat, Jan 15, 1994",Orlando Magic,113,Milwaukee Bucks,105,Box Score,,"18,633",
-"Sat, Jan 15, 1994",Detroit Pistons,88,New York Knicks,97,Box Score,,"19,763",
-"Sat, Jan 15, 1994",Phoenix Suns,119,Sacramento Kings,103,Box Score,,"17,317",
-"Sat, Jan 15, 1994",Miami Heat,78,Seattle SuperSonics,97,Box Score,,"14,787",
-"Sat, Jan 15, 1994",Los Angeles Clippers,109,Washington Bullets,118,Box Score,,"15,330",
-"Sun, Jan 16, 1994",Denver Nuggets,100,Boston Celtics,105,Box Score,,"14,890",
-"Sun, Jan 16, 1994",Utah Jazz,94,New Jersey Nets,99,Box Score,,"16,105",
-"Sun, Jan 16, 1994",Charlotte Hornets,101,Portland Trail Blazers,106,Box Score,,"12,888",
-"Mon, Jan 17, 1994",Milwaukee Bucks,98,Atlanta Hawks,102,Box Score,,"8,461",
-"Mon, Jan 17, 1994",Philadelphia 76ers,91,Chicago Bulls,121,Box Score,,"18,182",
-"Mon, Jan 17, 1994",Orlando Magic,107,Cleveland Cavaliers,114,Box Score,,"20,273",
-"Mon, Jan 17, 1994",Utah Jazz,109,Detroit Pistons,94,Box Score,,"19,137",
-"Mon, Jan 17, 1994",Phoenix Suns,99,Golden State Warriors,104,Box Score,,"15,025",
-"Mon, Jan 17, 1994",Minnesota Timberwolves,94,New York Knicks,106,Box Score,,"19,763",
-"Mon, Jan 17, 1994",San Antonio Spurs,100,Washington Bullets,87,Box Score,,"18,756",
-"Tue, Jan 18, 1994",Portland Trail Blazers,104,Denver Nuggets,103,Box Score,OT,"14,295",
-"Tue, Jan 18, 1994",Boston Celtics,95,Houston Rockets,83,Box Score,,"16,611",
-"Tue, Jan 18, 1994",Los Angeles Clippers,126,Miami Heat,124,Box Score,,"14,901",
-"Tue, Jan 18, 1994",Detroit Pistons,91,Milwaukee Bucks,123,Box Score,,"12,879",
-"Tue, Jan 18, 1994",Dallas Mavericks,103,Phoenix Suns,113,Box Score,,"19,023",
-"Tue, Jan 18, 1994",Los Angeles Lakers,88,Seattle SuperSonics,103,Box Score,,"14,627",
-"Wed, Jan 19, 1994",Golden State Warriors,120,Atlanta Hawks,119,Box Score,,"10,970",
-"Wed, Jan 19, 1994",Philadelphia 76ers,103,Charlotte Hornets,115,Box Score,,"23,698",
-"Wed, Jan 19, 1994",Washington Bullets,83,Chicago Bulls,84,Box Score,,"17,853",
-"Wed, Jan 19, 1994",Boston Celtics,89,Dallas Mavericks,84,Box Score,,"11,161",
-"Wed, Jan 19, 1994",Miami Heat,92,Indiana Pacers,109,Box Score,,"9,772",
-"Wed, Jan 19, 1994",Minnesota Timberwolves,91,New Jersey Nets,112,Box Score,,"9,158",
-"Wed, Jan 19, 1994",San Antonio Spurs,108,New York Knicks,120,Box Score,,"19,763",
-"Wed, Jan 19, 1994",Los Angeles Clippers,96,Orlando Magic,108,Box Score,,"15,291",
-"Wed, Jan 19, 1994",Seattle SuperSonics,114,Sacramento Kings,95,Box Score,,"17,317",
-"Wed, Jan 19, 1994",Cleveland Cavaliers,92,Utah Jazz,104,Box Score,,"19,729",
-"Thu, Jan 20, 1994",Houston Rockets,106,Denver Nuggets,111,Box Score,2OT,"17,171",
-"Thu, Jan 20, 1994",Phoenix Suns,102,Los Angeles Lakers,107,Box Score,,"14,741",
-"Thu, Jan 20, 1994",San Antonio Spurs,83,Minnesota Timberwolves,93,Box Score,,"17,749",
-"Fri, Jan 21, 1994",New Jersey Nets,113,Atlanta Hawks,111,Box Score,OT,"14,617",
-"Fri, Jan 21, 1994",Golden State Warriors,116,Boston Celtics,124,Box Score,,"14,890",
-"Fri, Jan 21, 1994",Indiana Pacers,95,Chicago Bulls,96,Box Score,,"18,498",
-"Fri, Jan 21, 1994",Seattle SuperSonics,91,Dallas Mavericks,87,Box Score,,"14,101",
-"Fri, Jan 21, 1994",Cleveland Cavaliers,106,Los Angeles Clippers,90,Box Score,,"9,298","at Inglewood, CA"
-"Fri, Jan 21, 1994",Detroit Pistons,118,Miami Heat,98,Box Score,,"14,925",
-"Fri, Jan 21, 1994",Charlotte Hornets,110,Milwaukee Bucks,113,Box Score,,"17,764",
-"Fri, Jan 21, 1994",New York Knicks,103,Orlando Magic,106,Box Score,,"15,291",
-"Fri, Jan 21, 1994",Los Angeles Lakers,93,Portland Trail Blazers,111,Box Score,,"12,888",
-"Fri, Jan 21, 1994",Sacramento Kings,83,Utah Jazz,112,Box Score,,"19,911",
-"Sat, Jan 22, 1994",Milwaukee Bucks,80,Charlotte Hornets,91,Box Score,,"23,698",
-"Sat, Jan 22, 1994",Seattle SuperSonics,91,Denver Nuggets,98,Box Score,,"17,171",
-"Sat, Jan 22, 1994",Utah Jazz,101,Houston Rockets,106,Box Score,,"16,611",
-"Sat, Jan 22, 1994",Chicago Bulls,90,Indiana Pacers,81,Box Score,,"16,578",
-"Sat, Jan 22, 1994",Atlanta Hawks,98,Minnesota Timberwolves,81,Box Score,,"19,006",
-"Sat, Jan 22, 1994",Golden State Warriors,98,New Jersey Nets,124,Box Score,,"20,049",
-"Sat, Jan 22, 1994",Orlando Magic,121,Philadelphia 76ers,112,Box Score,,"18,168",
-"Sat, Jan 22, 1994",Portland Trail Blazers,117,Phoenix Suns,118,Box Score,,"19,023",
-"Sat, Jan 22, 1994",Cleveland Cavaliers,119,Sacramento Kings,109,Box Score,OT,"17,317",
-"Sat, Jan 22, 1994",Dallas Mavericks,83,San Antonio Spurs,103,Box Score,,"19,003",
-"Sat, Jan 22, 1994",Detroit Pistons,93,Washington Bullets,98,Box Score,,"12,756","at Baltimore, MD"
-"Sun, Jan 23, 1994",Washington Bullets,80,Miami Heat,113,Box Score,,"14,802",
-"Sun, Jan 23, 1994",Philadelphia 76ers,99,New York Knicks,92,Box Score,,"19,763",
-"Mon, Jan 24, 1994",Dallas Mavericks,102,Boston Celtics,110,Box Score,,"14,890",
-"Mon, Jan 24, 1994",Chicago Bulls,92,Detroit Pistons,86,Box Score,,"20,249",
-"Mon, Jan 24, 1994",Milwaukee Bucks,96,Indiana Pacers,88,Box Score,,"9,093",
-"Mon, Jan 24, 1994",Seattle SuperSonics,90,Utah Jazz,95,Box Score,,"19,911",
-"Tue, Jan 25, 1994",Cleveland Cavaliers,93,Houston Rockets,96,Box Score,,"13,006",
-"Tue, Jan 25, 1994",Charlotte Hornets,98,Miami Heat,119,Box Score,,"15,200",
-"Tue, Jan 25, 1994",Atlanta Hawks,95,Milwaukee Bucks,90,Box Score,,"13,801",
-"Tue, Jan 25, 1994",Phoenix Suns,96,New York Knicks,98,Box Score,,"19,763",
-"Tue, Jan 25, 1994",Washington Bullets,89,Orlando Magic,112,Box Score,,"15,291",
-"Tue, Jan 25, 1994",New Jersey Nets,117,Portland Trail Blazers,122,Box Score,,"12,888",
-"Tue, Jan 25, 1994",Sacramento Kings,91,San Antonio Spurs,107,Box Score,,"17,630",
-"Tue, Jan 25, 1994",Los Angeles Clippers,111,Seattle SuperSonics,103,Box Score,,"14,348",
-"Wed, Jan 26, 1994",Phoenix Suns,107,Atlanta Hawks,116,Box Score,,"14,689",
-"Wed, Jan 26, 1994",Miami Heat,98,Boston Celtics,103,Box Score,,"14,890",
-"Wed, Jan 26, 1994",Orlando Magic,145,Charlotte Hornets,120,Box Score,,"23,698",
-"Wed, Jan 26, 1994",Detroit Pistons,92,Golden State Warriors,108,Box Score,,"15,025",
-"Wed, Jan 26, 1994",Indiana Pacers,99,Los Angeles Lakers,103,Box Score,,"11,577",
-"Wed, Jan 26, 1994",Utah Jazz,98,Minnesota Timberwolves,100,Box Score,,"17,242",
-"Wed, Jan 26, 1994",Dallas Mavericks,90,Philadelphia 76ers,104,Box Score,,"6,845",
-"Thu, Jan 27, 1994",Chicago Bulls,84,Cleveland Cavaliers,100,Box Score,,"20,273",
-"Thu, Jan 27, 1994",Indiana Pacers,106,Denver Nuggets,113,Box Score,,"15,529",
-"Thu, Jan 27, 1994",Sacramento Kings,97,Houston Rockets,113,Box Score,,"11,467",
-"Thu, Jan 27, 1994",New York Knicks,103,Los Angeles Clippers,101,Box Score,,"17,507","at Anaheim, CA"
-"Thu, Jan 27, 1994",New Jersey Nets,92,Seattle SuperSonics,102,Box Score,,"14,490",
-"Thu, Jan 27, 1994",Dallas Mavericks,95,Washington Bullets,98,Box Score,,"13,117",
-"Fri, Jan 28, 1994",Atlanta Hawks,117,Charlotte Hornets,105,Box Score,,"23,698",
-"Fri, Jan 28, 1994",Milwaukee Bucks,96,Chicago Bulls,113,Box Score,,"18,231",
-"Fri, Jan 28, 1994",Detroit Pistons,97,Los Angeles Lakers,105,Box Score,,"13,235",
-"Fri, Jan 28, 1994",Miami Heat,106,Orlando Magic,97,Box Score,,"15,291",
-"Fri, Jan 28, 1994",Phoenix Suns,108,Philadelphia 76ers,103,Box Score,,"18,168",
-"Fri, Jan 28, 1994",Minnesota Timberwolves,98,Portland Trail Blazers,109,Box Score,,"12,888",
-"Fri, Jan 28, 1994",Golden State Warriors,91,Utah Jazz,119,Box Score,,"19,911",
-"Sat, Jan 29, 1994",Miami Heat,113,Cleveland Cavaliers,98,Box Score,,"19,183",
-"Sat, Jan 29, 1994",Sacramento Kings,101,Dallas Mavericks,108,Box Score,,"12,157",
-"Sat, Jan 29, 1994",Detroit Pistons,110,Denver Nuggets,128,Box Score,,"17,171",
-"Sat, Jan 29, 1994",New Jersey Nets,120,Golden State Warriors,106,Box Score,,"15,025",
-"Sat, Jan 29, 1994",Indiana Pacers,119,Houston Rockets,108,Box Score,,"16,611",
-"Sat, Jan 29, 1994",Minnesota Timberwolves,93,Los Angeles Clippers,103,Box Score,,"10,634",
-"Sat, Jan 29, 1994",Milwaukee Bucks,89,Philadelphia 76ers,94,Box Score,,"12,353",
-"Sat, Jan 29, 1994",Atlanta Hawks,87,San Antonio Spurs,100,Box Score,,"33,035",
-"Sat, Jan 29, 1994",New York Knicks,106,Seattle SuperSonics,92,Box Score,,"14,813",
-"Sat, Jan 29, 1994",Orlando Magic,103,Washington Bullets,99,Box Score,,"18,756",
-"Sun, Jan 30, 1994",Phoenix Suns,94,Boston Celtics,106,Box Score,,"14,890",
-"Sun, Jan 30, 1994",New York Knicks,103,Portland Trail Blazers,93,Box Score,,"12,888",
-"Mon, Jan 31, 1994",Atlanta Hawks,90,Dallas Mavericks,85,Box Score,,"10,420",
-"Mon, Jan 31, 1994",Cleveland Cavaliers,107,Detroit Pistons,103,Box Score,,"18,553",
-"Mon, Jan 31, 1994",Golden State Warriors,110,Los Angeles Clippers,96,Box Score,,"9,281",
+"Date","Start (ET)","Visitor/Neutral","Visitor/Neutral PTS","Home/Neutral","Home/Neutral PTS","Attendance","Notes"
+"1994-01-02","","New Jersey Nets",101,"Boston Celtics",97,14890,""
+"1994-01-02","","Philadelphia 76ers",96,"Denver Nuggets",80,13496,""
+"1994-01-02","","Miami Heat",93,"Detroit Pistons",85,19274,""
+"1994-01-02","","Charlotte Hornets",124,"New York Knicks",123,19763,""
+"1994-01-02","","Utah Jazz",92,"Portland Trail Blazers",90,12888,""
+"1994-01-02","","Dallas Mavericks",116,"Sacramento Kings",119,17317,""
+"1994-01-02","","Los Angeles Lakers",92,"San Antonio Spurs",94,18017,""
+"1994-01-03","","Dallas Mavericks",85,"Utah Jazz",115,19911,""
+"1994-01-04","","Charlotte Hornets",94,"Atlanta Hawks",133,12071,""
+"1994-01-04","","Detroit Pistons",91,"Chicago Bulls",97,18676,""
+"1994-01-04","","Los Angeles Lakers",119,"Denver Nuggets",118,17171,""
+"1994-01-04","","Sacramento Kings",112,"Golden State Warriors",115,15025,""
+"1994-01-04","","Portland Trail Blazers",95,"Houston Rockets",106,16611,""
+"1994-01-04","","Cleveland Cavaliers",99,"Indiana Pacers",104,10012,""
+"1994-01-04","","New Jersey Nets",83,"Miami Heat",100,15082,""
+"1994-01-04","","Orlando Magic",95,"New York Knicks",100,19763,""
+"1994-01-04","","Seattle SuperSonics",112,"Phoenix Suns",106,19023,""
+"1994-01-04","","Philadelphia 76ers",84,"San Antonio Spurs",107,16767,""
+"1994-01-05","","Boston Celtics",101,"Cleveland Cavaliers",96,16821,""
+"1994-01-05","","Houston Rockets",114,"Dallas Mavericks",102,11721,""
+"1994-01-05","","Seattle SuperSonics",106,"Los Angeles Clippers",98,11838,""
+"1994-01-05","","Denver Nuggets",95,"Minnesota Timberwolves",109,17134,""
+"1994-01-05","","Milwaukee Bucks",100,"New Jersey Nets",91,12319,""
+"1994-01-05","","Chicago Bulls",90,"Orlando Magic",105,15291,""
+"1994-01-05","","Los Angeles Lakers",98,"Sacramento Kings",106,17317,""
+"1994-01-05","","Phoenix Suns",107,"Utah Jazz",91,19911,""
+"1994-01-05","","Indiana Pacers",95,"Washington Bullets",97,10041,""
+"1994-01-06","","Portland Trail Blazers",116,"Charlotte Hornets",110,23698,""
+"1994-01-06","","San Antonio Spurs",98,"Golden State Warriors",102,15025,""
+"1994-01-06","","New York Knicks",92,"Milwaukee Bucks",86,13874,""
+"1994-01-07","","Portland Trail Blazers",85,"Atlanta Hawks",100,13549,""
+"1994-01-07","","Cleveland Cavaliers",99,"Boston Celtics",85,14890,""
+"1994-01-07","","Philadelphia 76ers",103,"Dallas Mavericks",93,11848,""
+"1994-01-07","","San Antonio Spurs",84,"Denver Nuggets",76,16291,""
+"1994-01-07","","Los Angeles Clippers",108,"Los Angeles Lakers",111,14321,""
+"1994-01-07","","Phoenix Suns",110,"Minnesota Timberwolves",103,19006,""
+"1994-01-07","","Sacramento Kings",93,"Seattle SuperSonics",102,14709,""
+"1994-01-07","","Miami Heat",110,"Utah Jazz",104,19911,""
+"1994-01-07","","Chicago Bulls",99,"Washington Bullets",92,17133,""
+"1994-01-08","","Cleveland Cavaliers",89,"Atlanta Hawks",102,16368,""
+"1994-01-08","","New York Knicks",99,"Charlotte Hornets",102,23698,""
+"1994-01-08","","Dallas Mavericks",81,"Chicago Bulls",100,18392,""
+"1994-01-08","","Sacramento Kings",98,"Denver Nuggets",104,14709,""
+"1994-01-08","","Indiana Pacers",101,"Detroit Pistons",92,19878,""
+"1994-01-08","","Philadelphia 76ers",93,"Houston Rockets",100,16611,""
+"1994-01-08","","Miami Heat",109,"Los Angeles Clippers",90,11866,""
+"1994-01-08","","New Jersey Nets",90,"Milwaukee Bucks",87,15196,""
+"1994-01-08","","Boston Celtics",90,"Minnesota Timberwolves",108,18377,""
+"1994-01-08","","Washington Bullets",101,"Orlando Magic",112,15291,""
+"1994-01-08","","Utah Jazz",87,"Seattle SuperSonics",108,14813,""
+"1994-01-09","","San Antonio Spurs",95,"Los Angeles Lakers",89,11069,""
+"1994-01-09","","Portland Trail Blazers",85,"New York Knicks",99,19763,""
+"1994-01-09","","Golden State Warriors",107,"Phoenix Suns",122,19023,""
+"1994-01-10","","Houston Rockets",100,"Orlando Magic",115,15291,""
+"1994-01-10","","Boston Celtics",94,"Philadelphia 76ers",99,15293,""
+"1994-01-11","","Denver Nuggets",94,"Detroit Pistons",86,17685,""
+"1994-01-11","","Golden State Warriors",122,"Los Angeles Lakers",117,11735,""
+"1994-01-11","","Indiana Pacers",82,"Milwaukee Bucks",76,13364,""
+"1994-01-11","","Washington Bullets",115,"New Jersey Nets",100,9156,""
+"1994-01-11","","Los Angeles Clippers",77,"New York Knicks",98,19763,""
+"1994-01-11","","Charlotte Hornets",95,"Phoenix Suns",93,19023,""
+"1994-01-11","","Seattle SuperSonics",99,"Portland Trail Blazers",108,12888,""
+"1994-01-11","","Miami Heat",95,"Sacramento Kings",103,17317,""
+"1994-01-11","","Minnesota Timberwolves",98,"San Antonio Spurs",108,17664,""
+"1994-01-12","","Chicago Bulls",81,"Atlanta Hawks",92,15273,""
+"1994-01-12","","Houston Rockets",94,"Boston Celtics",84,14890,""
+"1994-01-12","","Minnesota Timberwolves",103,"Dallas Mavericks",85,10550,""
+"1994-01-12","","Miami Heat",92,"Golden State Warriors",100,15025,""
+"1994-01-12","","Denver Nuggets",96,"Indiana Pacers",107,9335,""
+"1994-01-12","","Cleveland Cavaliers",118,"Orlando Magic",109,15291,""
+"1994-01-12","","Los Angeles Clippers",98,"Philadelphia 76ers",117,8256,""
+"1994-01-13","","New Jersey Nets",93,"Cleveland Cavaliers",104,17756,""
+"1994-01-13","","New York Knicks",94,"Detroit Pistons",80,19431,""
+"1994-01-13","","Utah Jazz",101,"Milwaukee Bucks",83,13864,""
+"1994-01-13","","Charlotte Hornets",104,"Sacramento Kings",115,17317,""
+"1994-01-13","","Phoenix Suns",88,"San Antonio Spurs",107,34027,""
+"1994-01-13","","Houston Rockets",102,"Washington Bullets",120,16024,""
+"1994-01-14","","Dallas Mavericks",96,"Atlanta Hawks",113,11217,""
+"1994-01-14","","Los Angeles Clippers",102,"Boston Celtics",95,14890,""
+"1994-01-14","","Utah Jazz",91,"Chicago Bulls",107,18676,""
+"1994-01-14","","Seattle SuperSonics",100,"Golden State Warriors",121,15025,""
+"1994-01-14","","Charlotte Hornets",130,"Los Angeles Lakers",122,16011,""
+"1994-01-14","","Orlando Magic",92,"Minnesota Timberwolves",96,19006,""
+"1994-01-14","","Denver Nuggets",96,"New Jersey Nets",103,20049,""
+"1994-01-14","","Indiana Pacers",102,"Philadelphia 76ers",104,13535,""
+"1994-01-14","","Miami Heat",110,"Portland Trail Blazers",115,12888,""
+"1994-01-15","","Houston Rockets",76,"Chicago Bulls",82,18676,""
+"1994-01-15","","Philadelphia 76ers",67,"Cleveland Cavaliers",110,18689,""
+"1994-01-15","","San Antonio Spurs",104,"Dallas Mavericks",87,14061,""
+"1994-01-15","","Atlanta Hawks",91,"Indiana Pacers",94,14376,""
+"1994-01-15","","Orlando Magic",113,"Milwaukee Bucks",105,18633,""
+"1994-01-15","","Detroit Pistons",88,"New York Knicks",97,19763,""
+"1994-01-15","","Phoenix Suns",119,"Sacramento Kings",103,17317,""
+"1994-01-15","","Miami Heat",78,"Seattle SuperSonics",97,14787,""
+"1994-01-15","","Los Angeles Clippers",109,"Washington Bullets",118,15330,""
+"1994-01-16","","Denver Nuggets",100,"Boston Celtics",105,14890,""
+"1994-01-16","","Utah Jazz",94,"New Jersey Nets",99,16105,""
+"1994-01-16","","Charlotte Hornets",101,"Portland Trail Blazers",106,12888,""
+"1994-01-17","","Milwaukee Bucks",98,"Atlanta Hawks",102,8461,""
+"1994-01-17","","Philadelphia 76ers",91,"Chicago Bulls",121,18182,""
+"1994-01-17","","Orlando Magic",107,"Cleveland Cavaliers",114,20273,""
+"1994-01-17","","Utah Jazz",109,"Detroit Pistons",94,19137,""
+"1994-01-17","","Phoenix Suns",99,"Golden State Warriors",104,15025,""
+"1994-01-17","","Minnesota Timberwolves",94,"New York Knicks",106,19763,""
+"1994-01-17","","San Antonio Spurs",100,"Washington Bullets",87,18756,""
+"1994-01-18","","Portland Trail Blazers",104,"Denver Nuggets",103,14295,""
+"1994-01-18","","Boston Celtics",95,"Houston Rockets",83,16611,""
+"1994-01-18","","Los Angeles Clippers",126,"Miami Heat",124,14901,""
+"1994-01-18","","Detroit Pistons",91,"Milwaukee Bucks",123,12879,""
+"1994-01-18","","Dallas Mavericks",103,"Phoenix Suns",113,19023,""
+"1994-01-18","","Los Angeles Lakers",88,"Seattle SuperSonics",103,14627,""
+"1994-01-19","","Golden State Warriors",120,"Atlanta Hawks",119,10970,""
+"1994-01-19","","Philadelphia 76ers",103,"Charlotte Hornets",115,23698,""
+"1994-01-19","","Washington Bullets",83,"Chicago Bulls",84,17853,""
+"1994-01-19","","Boston Celtics",89,"Dallas Mavericks",84,11161,""
+"1994-01-19","","Miami Heat",92,"Indiana Pacers",109,9772,""
+"1994-01-19","","Minnesota Timberwolves",91,"New Jersey Nets",112,9158,""
+"1994-01-19","","San Antonio Spurs",108,"New York Knicks",120,19763,""
+"1994-01-19","","Los Angeles Clippers",96,"Orlando Magic",108,15291,""
+"1994-01-19","","Seattle SuperSonics",114,"Sacramento Kings",95,17317,""
+"1994-01-19","","Cleveland Cavaliers",92,"Utah Jazz",104,19729,""
+"1994-01-20","","Houston Rockets",106,"Denver Nuggets",111,17171,""
+"1994-01-20","","Phoenix Suns",102,"Los Angeles Lakers",107,14741,""
+"1994-01-20","","San Antonio Spurs",83,"Minnesota Timberwolves",93,17749,""
+"1994-01-21","","New Jersey Nets",113,"Atlanta Hawks",111,14617,""
+"1994-01-21","","Golden State Warriors",116,"Boston Celtics",124,14890,""
+"1994-01-21","","Indiana Pacers",95,"Chicago Bulls",96,18498,""
+"1994-01-21","","Seattle SuperSonics",91,"Dallas Mavericks",87,14101,""
+"1994-01-21","","Cleveland Cavaliers",106,"Los Angeles Clippers",90,9298,"at Inglewood, CA"
+"1994-01-21","","Detroit Pistons",118,"Miami Heat",98,14925,""
+"1994-01-21","","Charlotte Hornets",110,"Milwaukee Bucks",113,17764,""
+"1994-01-21","","New York Knicks",103,"Orlando Magic",106,15291,""
+"1994-01-21","","Los Angeles Lakers",93,"Portland Trail Blazers",111,12888,""
+"1994-01-21","","Sacramento Kings",83,"Utah Jazz",112,19911,""
+"1994-01-22","","Milwaukee Bucks",80,"Charlotte Hornets",91,23698,""
+"1994-01-22","","Seattle SuperSonics",91,"Denver Nuggets",98,17171,""
+"1994-01-22","","Utah Jazz",101,"Houston Rockets",106,16611,""
+"1994-01-22","","Chicago Bulls",90,"Indiana Pacers",81,16578,""
+"1994-01-22","","Atlanta Hawks",98,"Minnesota Timberwolves",81,19006,""
+"1994-01-22","","Golden State Warriors",98,"New Jersey Nets",124,20049,""
+"1994-01-22","","Orlando Magic",121,"Philadelphia 76ers",112,18168,""
+"1994-01-22","","Portland Trail Blazers",117,"Phoenix Suns",118,19023,""
+"1994-01-22","","Cleveland Cavaliers",119,"Sacramento Kings",109,17317,""
+"1994-01-22","","Dallas Mavericks",83,"San Antonio Spurs",103,19003,""
+"1994-01-22","","Detroit Pistons",93,"Washington Bullets",98,12756,"at Baltimore, MD"
+"1994-01-23","","Washington Bullets",80,"Miami Heat",113,14802,""
+"1994-01-23","","Philadelphia 76ers",99,"New York Knicks",92,19763,""
+"1994-01-24","","Dallas Mavericks",102,"Boston Celtics",110,14890,""
+"1994-01-24","","Chicago Bulls",92,"Detroit Pistons",86,20249,""
+"1994-01-24","","Milwaukee Bucks",96,"Indiana Pacers",88,9093,""
+"1994-01-24","","Seattle SuperSonics",90,"Utah Jazz",95,19911,""
+"1994-01-25","","Cleveland Cavaliers",93,"Houston Rockets",96,13006,""
+"1994-01-25","","Charlotte Hornets",98,"Miami Heat",119,15200,""
+"1994-01-25","","Atlanta Hawks",95,"Milwaukee Bucks",90,13801,""
+"1994-01-25","","Phoenix Suns",96,"New York Knicks",98,19763,""
+"1994-01-25","","Washington Bullets",89,"Orlando Magic",112,15291,""
+"1994-01-25","","New Jersey Nets",117,"Portland Trail Blazers",122,12888,""
+"1994-01-25","","Sacramento Kings",91,"San Antonio Spurs",107,17630,""
+"1994-01-25","","Los Angeles Clippers",111,"Seattle SuperSonics",103,14348,""
+"1994-01-26","","Phoenix Suns",107,"Atlanta Hawks",116,14689,""
+"1994-01-26","","Miami Heat",98,"Boston Celtics",103,14890,""
+"1994-01-26","","Orlando Magic",145,"Charlotte Hornets",120,23698,""
+"1994-01-26","","Detroit Pistons",92,"Golden State Warriors",108,15025,""
+"1994-01-26","","Indiana Pacers",99,"Los Angeles Lakers",103,11577,""
+"1994-01-26","","Utah Jazz",98,"Minnesota Timberwolves",100,17242,""
+"1994-01-26","","Dallas Mavericks",90,"Philadelphia 76ers",104,6845,""
+"1994-01-27","","Chicago Bulls",84,"Cleveland Cavaliers",100,20273,""
+"1994-01-27","","Indiana Pacers",106,"Denver Nuggets",113,15529,""
+"1994-01-27","","Sacramento Kings",97,"Houston Rockets",113,11467,""
+"1994-01-27","","New York Knicks",103,"Los Angeles Clippers",101,17507,"at Anaheim, CA"
+"1994-01-27","","New Jersey Nets",92,"Seattle SuperSonics",102,14490,""
+"1994-01-27","","Dallas Mavericks",95,"Washington Bullets",98,13117,""
+"1994-01-28","","Atlanta Hawks",117,"Charlotte Hornets",105,23698,""
+"1994-01-28","","Milwaukee Bucks",96,"Chicago Bulls",113,18231,""
+"1994-01-28","","Detroit Pistons",97,"Los Angeles Lakers",105,13235,""
+"1994-01-28","","Miami Heat",106,"Orlando Magic",97,15291,""
+"1994-01-28","","Phoenix Suns",108,"Philadelphia 76ers",103,18168,""
+"1994-01-28","","Minnesota Timberwolves",98,"Portland Trail Blazers",109,12888,""
+"1994-01-28","","Golden State Warriors",91,"Utah Jazz",119,19911,""
+"1994-01-29","","Miami Heat",113,"Cleveland Cavaliers",98,19183,""
+"1994-01-29","","Sacramento Kings",101,"Dallas Mavericks",108,12157,""
+"1994-01-29","","Detroit Pistons",110,"Denver Nuggets",128,17171,""
+"1994-01-29","","New Jersey Nets",120,"Golden State Warriors",106,15025,""
+"1994-01-29","","Indiana Pacers",119,"Houston Rockets",108,16611,""
+"1994-01-29","","Minnesota Timberwolves",93,"Los Angeles Clippers",103,10634,""
+"1994-01-29","","Milwaukee Bucks",89,"Philadelphia 76ers",94,12353,""
+"1994-01-29","","Atlanta Hawks",87,"San Antonio Spurs",100,33035,""
+"1994-01-29","","New York Knicks",106,"Seattle SuperSonics",92,14813,""
+"1994-01-29","","Orlando Magic",103,"Washington Bullets",99,18756,""
+"1994-01-30","","Phoenix Suns",94,"Boston Celtics",106,14890,""
+"1994-01-30","","New York Knicks",103,"Portland Trail Blazers",93,12888,""
+"1994-01-31","","Atlanta Hawks",90,"Dallas Mavericks",85,10420,""
+"1994-01-31","","Cleveland Cavaliers",107,"Detroit Pistons",103,18553,""
+"1994-01-31","","Golden State Warriors",110,"Los Angeles Clippers",96,9281,""

@@ -1,6 +1,6 @@
-Date,Visitor/Neutral,PTS_1,Home/Neutral,PTS_2,_1,_2,Attend.,Notes
-"Sun, Jun 3, 1984",Boston Celtics,104,Los Angeles Lakers,137,Box Score,,"17,505",
-"Wed, Jun 6, 1984",Boston Celtics,129,Los Angeles Lakers,125,Box Score,OT,"17,505",
-"Fri, Jun 8, 1984",Los Angeles Lakers,103,Boston Celtics,121,Box Score,,"14,890",
-"Sun, Jun 10, 1984",Boston Celtics,108,Los Angeles Lakers,119,Box Score,,"17,505",
-"Tue, Jun 12, 1984",Los Angeles Lakers,102,Boston Celtics,111,Box Score,,"14,890",
+"Date","Start (ET)","Visitor/Neutral","Visitor/Neutral PTS","Home/Neutral","Home/Neutral PTS","Attendance","Notes"
+"1984-06-03","","Boston Celtics",104,"Los Angeles Lakers",137,17505,""
+"1984-06-06","","Boston Celtics",129,"Los Angeles Lakers",125,17505,""
+"1984-06-08","","Los Angeles Lakers",103,"Boston Celtics",121,14890,""
+"1984-06-10","","Boston Celtics",108,"Los Angeles Lakers",119,17505,""
+"1984-06-12","","Los Angeles Lakers",102,"Boston Celtics",111,14890,""

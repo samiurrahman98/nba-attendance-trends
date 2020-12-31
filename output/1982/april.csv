@@ -1,134 +1,134 @@
-Date,Visitor/Neutral,PTS_1,Home/Neutral,PTS_2,_1,_2,Attend.,Notes
-"Thu, Apr 1, 1982",Dallas Mavericks,121,Detroit Pistons,120,Box Score,,"8,162",
-"Thu, Apr 1, 1982",Golden State Warriors,101,Houston Rockets,104,Box Score,,"11,484",
-"Thu, Apr 1, 1982",Atlanta Hawks,113,Milwaukee Bucks,117,Box Score,,"10,620",
-"Thu, Apr 1, 1982",Cleveland Cavaliers,110,New York Knicks,111,Box Score,,"7,179",
-"Thu, Apr 1, 1982",San Antonio Spurs,105,Portland Trail Blazers,109,Box Score,,"12,666",
-"Thu, Apr 1, 1982",Los Angeles Lakers,117,San Diego Clippers,100,Box Score,,"7,064",
-"Fri, Apr 2, 1982",Boston Celtics,110,Atlanta Hawks,107,Box Score,,"15,790",
-"Fri, Apr 2, 1982",Milwaukee Bucks,114,Chicago Bulls,105,Box Score,,"7,112",
-"Fri, Apr 2, 1982",Portland Trail Blazers,121,Denver Nuggets,127,Box Score,,"17,125",
-"Fri, Apr 2, 1982",Phoenix Suns,109,Los Angeles Lakers,99,Box Score,,"17,505",
-"Fri, Apr 2, 1982",Washington Bullets,96,New Jersey Nets,98,Box Score,,"15,263",
-"Fri, Apr 2, 1982",Cleveland Cavaliers,115,Philadelphia 76ers,135,Box Score,,"13,524",
-"Fri, Apr 2, 1982",San Antonio Spurs,86,Seattle SuperSonics,111,Box Score,,"13,715",
-"Fri, Apr 2, 1982",Kansas City Kings,118,Utah Jazz,127,Box Score,,"6,605",
-"Sat, Apr 3, 1982",Washington Bullets,101,Atlanta Hawks,106,Box Score,,"6,895",
-"Sat, Apr 3, 1982",Golden State Warriors,107,Dallas Mavericks,102,Box Score,,"9,295",
-"Sat, Apr 3, 1982",Indiana Pacers,102,Detroit Pistons,105,Box Score,,"13,045",
-"Sat, Apr 3, 1982",Utah Jazz,133,San Diego Clippers,124,Box Score,,"4,722",
-"Sun, Apr 4, 1982",Chicago Bulls,112,Boston Celtics,114,Box Score,,"15,320",
-"Sun, Apr 4, 1982",New Jersey Nets,119,Cleveland Cavaliers,109,Box Score,,"4,105",
-"Sun, Apr 4, 1982",Portland Trail Blazers,111,Los Angeles Lakers,129,Box Score,,"13,230",
-"Sun, Apr 4, 1982",Indiana Pacers,115,Milwaukee Bucks,129,Box Score,,"11,052",
-"Sun, Apr 4, 1982",New York Knicks,106,Philadelphia 76ers,127,Box Score,,"10,091",
-"Sun, Apr 4, 1982",Kansas City Kings,95,Phoenix Suns,104,Box Score,,"10,916",
-"Sun, Apr 4, 1982",Houston Rockets,95,San Antonio Spurs,93,Box Score,,"14,193",
-"Sun, Apr 4, 1982",Denver Nuggets,116,Seattle SuperSonics,140,Box Score,,"32,403",
-"Tue, Apr 6, 1982",New York Knicks,104,Atlanta Hawks,106,Box Score,,"5,680",
-"Tue, Apr 6, 1982",Philadelphia 76ers,117,Chicago Bulls,104,Box Score,,"9,956",
-"Tue, Apr 6, 1982",Los Angeles Lakers,108,Houston Rockets,97,Box Score,,"15,676",
-"Tue, Apr 6, 1982",Boston Celtics,116,Milwaukee Bucks,122,Box Score,,"11,052",
-"Tue, Apr 6, 1982",Denver Nuggets,122,Portland Trail Blazers,136,Box Score,,"12,666",
-"Tue, Apr 6, 1982",Golden State Warriors,110,San Diego Clippers,96,Box Score,,"3,185",
-"Tue, Apr 6, 1982",Phoenix Suns,91,Seattle SuperSonics,102,Box Score,,"21,794",
-"Tue, Apr 6, 1982",Dallas Mavericks,114,Utah Jazz,129,Box Score,,"5,934",
-"Tue, Apr 6, 1982",Cleveland Cavaliers,85,Washington Bullets,94,Box Score,,"7,231",
-"Wed, Apr 7, 1982",Chicago Bulls,122,Cleveland Cavaliers,105,Box Score,,"4,167",
-"Wed, Apr 7, 1982",Utah Jazz,109,Dallas Mavericks,123,Box Score,,"7,039",
-"Wed, Apr 7, 1982",Atlanta Hawks,115,Detroit Pistons,120,Box Score,,"8,177",
-"Wed, Apr 7, 1982",Denver Nuggets,129,Golden State Warriors,121,Box Score,,"10,688",
-"Wed, Apr 7, 1982",Washington Bullets,97,Indiana Pacers,85,Box Score,,"7,208",
-"Wed, Apr 7, 1982",Philadelphia 76ers,116,New Jersey Nets,113,Box Score,,"14,161",
-"Wed, Apr 7, 1982",Kansas City Kings,113,San Antonio Spurs,118,Box Score,,"8,759",
-"Thu, Apr 8, 1982",Boston Celtics,110,New York Knicks,106,Box Score,,"11,916",
-"Thu, Apr 8, 1982",Portland Trail Blazers,106,Phoenix Suns,104,Box Score,,"11,911",
-"Thu, Apr 8, 1982",Seattle SuperSonics,117,San Diego Clippers,115,Box Score,OT,"7,285",
-"Fri, Apr 9, 1982",Philadelphia 76ers,88,Atlanta Hawks,103,Box Score,,"13,480",
-"Fri, Apr 9, 1982",New Jersey Nets,103,Boston Celtics,106,Box Score,,"15,320",
-"Fri, Apr 9, 1982",Washington Bullets,114,Chicago Bulls,98,Box Score,,"6,112",
-"Fri, Apr 9, 1982",Phoenix Suns,100,Dallas Mavericks,105,Box Score,,"9,673",
-"Fri, Apr 9, 1982",Milwaukee Bucks,118,Detroit Pistons,100,Box Score,,"15,047",
-"Fri, Apr 9, 1982",Cleveland Cavaliers,97,Indiana Pacers,100,Box Score,,"5,709",
-"Fri, Apr 9, 1982",Utah Jazz,99,Kansas City Kings,115,Box Score,,"4,937",
-"Fri, Apr 9, 1982",Denver Nuggets,128,Los Angeles Lakers,153,Box Score,,"16,433",
-"Fri, Apr 9, 1982",San Diego Clippers,104,Portland Trail Blazers,124,Box Score,,"12,666",
-"Sat, Apr 10, 1982",New York Knicks,117,Cleveland Cavaliers,114,Box Score,,"4,973",
-"Sat, Apr 10, 1982",San Diego Clippers,119,Golden State Warriors,132,Box Score,,"8,860",
-"Sat, Apr 10, 1982",San Antonio Spurs,100,Houston Rockets,105,Box Score,,"15,676",
-"Sat, Apr 10, 1982",Indiana Pacers,86,New Jersey Nets,115,Box Score,,"14,321",
-"Sat, Apr 10, 1982",Seattle SuperSonics,99,Phoenix Suns,116,Box Score,,"11,488",
-"Sat, Apr 10, 1982",Denver Nuggets,136,Utah Jazz,151,Box Score,,"6,919",
-"Sat, Apr 10, 1982",Milwaukee Bucks,114,Washington Bullets,115,Box Score,,"9,728",
-"Sun, Apr 11, 1982",Chicago Bulls,89,Atlanta Hawks,108,Box Score,,"5,684",
-"Sun, Apr 11, 1982",Houston Rockets,97,Dallas Mavericks,109,Box Score,,"11,049",
-"Sun, Apr 11, 1982",New York Knicks,89,Detroit Pistons,97,Box Score,,"4,585",
-"Sun, Apr 11, 1982",San Antonio Spurs,126,Kansas City Kings,121,Box Score,,"4,929",
-"Sun, Apr 11, 1982",Seattle SuperSonics,104,Los Angeles Lakers,107,Box Score,,"17,505",
-"Sun, Apr 11, 1982",Boston Celtics,110,Philadelphia 76ers,109,Box Score,OT,"17,582",
-"Sun, Apr 11, 1982",Golden State Warriors,106,Portland Trail Blazers,116,Box Score,OT,"12,666",
-"Mon, Apr 12, 1982",San Diego Clippers,107,Utah Jazz,112,Box Score,,"10,670",
-"Tue, Apr 13, 1982",Boston Celtics,115,Chicago Bulls,120,Box Score,,"8,748",
-"Tue, Apr 13, 1982",Atlanta Hawks,119,Cleveland Cavaliers,111,Box Score,,"4,245",
-"Tue, Apr 13, 1982",Los Angeles Lakers,101,Golden State Warriors,106,Box Score,,"13,239",
-"Tue, Apr 13, 1982",Kansas City Kings,95,Houston Rockets,99,Box Score,,"11,133",
-"Tue, Apr 13, 1982",Philadelphia 76ers,93,Indiana Pacers,89,Box Score,,"6,643",
-"Tue, Apr 13, 1982",Washington Bullets,109,Milwaukee Bucks,99,Box Score,,"11,052",
-"Tue, Apr 13, 1982",New Jersey Nets,104,New York Knicks,102,Box Score,,"10,627",
-"Tue, Apr 13, 1982",Denver Nuggets,137,San Antonio Spurs,144,Box Score,,"14,973",
-"Tue, Apr 13, 1982",Phoenix Suns,105,San Diego Clippers,94,Box Score,,"4,056",
-"Tue, Apr 13, 1982",Portland Trail Blazers,86,Seattle SuperSonics,88,Box Score,,"23,427",
-"Wed, Apr 14, 1982",Milwaukee Bucks,91,Boston Celtics,100,Box Score,,"15,320",
-"Wed, Apr 14, 1982",Houston Rockets,122,Denver Nuggets,141,Box Score,,"17,103",
-"Wed, Apr 14, 1982",Dallas Mavericks,95,Kansas City Kings,114,Box Score,,"5,144",
-"Wed, Apr 14, 1982",Utah Jazz,115,Los Angeles Lakers,128,Box Score,,"11,488",
-"Wed, Apr 14, 1982",Washington Bullets,94,New Jersey Nets,98,Box Score,,"13,382",
-"Wed, Apr 14, 1982",Chicago Bulls,120,New York Knicks,116,Box Score,,"6,917",
-"Wed, Apr 14, 1982",Detroit Pistons,111,Philadelphia 76ers,119,Box Score,,"11,364",
-"Wed, Apr 14, 1982",San Antonio Spurs,92,Phoenix Suns,104,Box Score,,"11,115",
-"Wed, Apr 14, 1982",Golden State Warriors,104,Seattle SuperSonics,93,Box Score,,"19,376",
-"Thu, Apr 15, 1982",Cleveland Cavaliers,110,Detroit Pistons,120,Box Score,,"4,418",
-"Thu, Apr 15, 1982",Atlanta Hawks,102,Indiana Pacers,108,Box Score,,"4,852",
-"Thu, Apr 15, 1982",Portland Trail Blazers,123,San Diego Clippers,129,Box Score,,"7,105",
-"Fri, Apr 16, 1982",Indiana Pacers,91,Atlanta Hawks,109,Box Score,,"6,838",
-"Fri, Apr 16, 1982",Cleveland Cavaliers,102,Chicago Bulls,112,Box Score,,"4,963",
-"Fri, Apr 16, 1982",San Antonio Spurs,118,Dallas Mavericks,106,Box Score,,"13,092",
-"Fri, Apr 16, 1982",Utah Jazz,100,Houston Rockets,107,Box Score,,"13,744",
-"Fri, Apr 16, 1982",Denver Nuggets,121,Kansas City Kings,123,Box Score,,"6,013",
-"Fri, Apr 16, 1982",Golden State Warriors,109,Los Angeles Lakers,125,Box Score,,"17,505",
-"Fri, Apr 16, 1982",New York Knicks,99,Milwaukee Bucks,112,Box Score,,"11,052",
-"Fri, Apr 16, 1982",Boston Celtics,96,New Jersey Nets,113,Box Score,,"15,934",
-"Fri, Apr 16, 1982",Phoenix Suns,113,Portland Trail Blazers,99,Box Score,,"12,666",
-"Fri, Apr 16, 1982",Philadelphia 76ers,100,Washington Bullets,96,Box Score,,"19,035",
-"Sat, Apr 17, 1982",Dallas Mavericks,124,Denver Nuggets,130,Box Score,,"17,006",
-"Sat, Apr 17, 1982",New Jersey Nets,147,Detroit Pistons,132,Box Score,,"14,293",
-"Sat, Apr 17, 1982",Seattle SuperSonics,95,Golden State Warriors,94,Box Score,,"13,239",
-"Sun, Apr 18, 1982",New York Knicks,99,Boston Celtics,119,Box Score,,"15,320",
-"Sun, Apr 18, 1982",Indiana Pacers,104,Chicago Bulls,112,Box Score,,"4,964",
-"Sun, Apr 18, 1982",Detroit Pistons,116,Cleveland Cavaliers,113,Box Score,OT,"5,580",
-"Sun, Apr 18, 1982",Houston Rockets,104,Kansas City Kings,106,Box Score,,"4,847",
-"Sun, Apr 18, 1982",Milwaukee Bucks,86,Philadelphia 76ers,110,Box Score,,"14,571",
-"Sun, Apr 18, 1982",Los Angeles Lakers,120,Phoenix Suns,115,Box Score,,"14,660",
-"Sun, Apr 18, 1982",Seattle SuperSonics,114,Portland Trail Blazers,119,Box Score,,"12,666",
-"Sun, Apr 18, 1982",Utah Jazz,128,San Antonio Spurs,120,Box Score,,"9,741",
-"Sun, Apr 18, 1982",Atlanta Hawks,96,Washington Bullets,99,Box Score,,"9,301",
-"Tue, Apr 20, 1982",Phoenix Suns,113,Denver Nuggets,129,Box Score,,"17,298",
-"Tue, Apr 20, 1982",Washington Bullets,96,New Jersey Nets,83,Box Score,,"14,015",
-"Wed, Apr 21, 1982",Atlanta Hawks,76,Philadelphia 76ers,111,Box Score,,"11,250",
-"Wed, Apr 21, 1982",Houston Rockets,87,Seattle SuperSonics,102,Box Score,,"14,071",
-"Fri, Apr 23, 1982",Philadelphia 76ers,98,Atlanta Hawks,95,Box Score,OT,"8,703",
-"Fri, Apr 23, 1982",Seattle SuperSonics,70,Houston Rockets,91,Box Score,,"15,676",
-"Fri, Apr 23, 1982",Denver Nuggets,110,Phoenix Suns,126,Box Score,,"12,798",
-"Fri, Apr 23, 1982",New Jersey Nets,92,Washington Bullets,103,Box Score,,"19,035",
-"Sat, Apr 24, 1982",Phoenix Suns,124,Denver Nuggets,119,Box Score,,"17,443",
-"Sun, Apr 25, 1982",Washington Bullets,91,Boston Celtics,109,Box Score,,"15,320",
-"Sun, Apr 25, 1982",Milwaukee Bucks,122,Philadelphia 76ers,125,Box Score,,"10,086",
-"Sun, Apr 25, 1982",Houston Rockets,83,Seattle SuperSonics,104,Box Score,,"14,071",
-"Tue, Apr 27, 1982",Phoenix Suns,96,Los Angeles Lakers,115,Box Score,,"13,623",
-"Tue, Apr 27, 1982",San Antonio Spurs,95,Seattle SuperSonics,93,Box Score,,"14,457",
-"Wed, Apr 28, 1982",Washington Bullets,103,Boston Celtics,102,Box Score,,"15,320",
-"Wed, Apr 28, 1982",Phoenix Suns,98,Los Angeles Lakers,117,Box Score,,"15,558",
-"Wed, Apr 28, 1982",Milwaukee Bucks,108,Philadelphia 76ers,120,Box Score,,"14,716",
-"Wed, Apr 28, 1982",San Antonio Spurs,99,Seattle SuperSonics,114,Box Score,,"19,403",
-"Fri, Apr 30, 1982",Los Angeles Lakers,114,Phoenix Suns,106,Box Score,,"14,660",
-"Fri, Apr 30, 1982",Seattle SuperSonics,97,San Antonio Spurs,99,Box Score,,"14,019",
+"Date","Start (ET)","Visitor/Neutral","Visitor/Neutral PTS","Home/Neutral","Home/Neutral PTS","Attendance","Notes"
+"1982-04-01","","Dallas Mavericks",121,"Detroit Pistons",120,8162,""
+"1982-04-01","","Golden State Warriors",101,"Houston Rockets",104,11484,""
+"1982-04-01","","Atlanta Hawks",113,"Milwaukee Bucks",117,10620,""
+"1982-04-01","","Cleveland Cavaliers",110,"New York Knicks",111,7179,""
+"1982-04-01","","San Antonio Spurs",105,"Portland Trail Blazers",109,12666,""
+"1982-04-01","","Los Angeles Lakers",117,"San Diego Clippers",100,7064,""
+"1982-04-02","","Boston Celtics",110,"Atlanta Hawks",107,15790,""
+"1982-04-02","","Milwaukee Bucks",114,"Chicago Bulls",105,7112,""
+"1982-04-02","","Portland Trail Blazers",121,"Denver Nuggets",127,17125,""
+"1982-04-02","","Phoenix Suns",109,"Los Angeles Lakers",99,17505,""
+"1982-04-02","","Washington Bullets",96,"New Jersey Nets",98,15263,""
+"1982-04-02","","Cleveland Cavaliers",115,"Philadelphia 76ers",135,13524,""
+"1982-04-02","","San Antonio Spurs",86,"Seattle SuperSonics",111,13715,""
+"1982-04-02","","Kansas City Kings",118,"Utah Jazz",127,6605,""
+"1982-04-03","","Washington Bullets",101,"Atlanta Hawks",106,6895,""
+"1982-04-03","","Golden State Warriors",107,"Dallas Mavericks",102,9295,""
+"1982-04-03","","Indiana Pacers",102,"Detroit Pistons",105,13045,""
+"1982-04-03","","Utah Jazz",133,"San Diego Clippers",124,4722,""
+"1982-04-04","","Chicago Bulls",112,"Boston Celtics",114,15320,""
+"1982-04-04","","New Jersey Nets",119,"Cleveland Cavaliers",109,4105,""
+"1982-04-04","","Portland Trail Blazers",111,"Los Angeles Lakers",129,13230,""
+"1982-04-04","","Indiana Pacers",115,"Milwaukee Bucks",129,11052,""
+"1982-04-04","","New York Knicks",106,"Philadelphia 76ers",127,10091,""
+"1982-04-04","","Kansas City Kings",95,"Phoenix Suns",104,10916,""
+"1982-04-04","","Houston Rockets",95,"San Antonio Spurs",93,14193,""
+"1982-04-04","","Denver Nuggets",116,"Seattle SuperSonics",140,32403,""
+"1982-04-06","","New York Knicks",104,"Atlanta Hawks",106,5680,""
+"1982-04-06","","Philadelphia 76ers",117,"Chicago Bulls",104,9956,""
+"1982-04-06","","Los Angeles Lakers",108,"Houston Rockets",97,15676,""
+"1982-04-06","","Boston Celtics",116,"Milwaukee Bucks",122,11052,""
+"1982-04-06","","Denver Nuggets",122,"Portland Trail Blazers",136,12666,""
+"1982-04-06","","Golden State Warriors",110,"San Diego Clippers",96,3185,""
+"1982-04-06","","Phoenix Suns",91,"Seattle SuperSonics",102,21794,""
+"1982-04-06","","Dallas Mavericks",114,"Utah Jazz",129,5934,""
+"1982-04-06","","Cleveland Cavaliers",85,"Washington Bullets",94,7231,""
+"1982-04-07","","Chicago Bulls",122,"Cleveland Cavaliers",105,4167,""
+"1982-04-07","","Utah Jazz",109,"Dallas Mavericks",123,7039,""
+"1982-04-07","","Atlanta Hawks",115,"Detroit Pistons",120,8177,""
+"1982-04-07","","Denver Nuggets",129,"Golden State Warriors",121,10688,""
+"1982-04-07","","Washington Bullets",97,"Indiana Pacers",85,7208,""
+"1982-04-07","","Philadelphia 76ers",116,"New Jersey Nets",113,14161,""
+"1982-04-07","","Kansas City Kings",113,"San Antonio Spurs",118,8759,""
+"1982-04-08","","Boston Celtics",110,"New York Knicks",106,11916,""
+"1982-04-08","","Portland Trail Blazers",106,"Phoenix Suns",104,11911,""
+"1982-04-08","","Seattle SuperSonics",117,"San Diego Clippers",115,7285,""
+"1982-04-09","","Philadelphia 76ers",88,"Atlanta Hawks",103,13480,""
+"1982-04-09","","New Jersey Nets",103,"Boston Celtics",106,15320,""
+"1982-04-09","","Washington Bullets",114,"Chicago Bulls",98,6112,""
+"1982-04-09","","Phoenix Suns",100,"Dallas Mavericks",105,9673,""
+"1982-04-09","","Milwaukee Bucks",118,"Detroit Pistons",100,15047,""
+"1982-04-09","","Cleveland Cavaliers",97,"Indiana Pacers",100,5709,""
+"1982-04-09","","Utah Jazz",99,"Kansas City Kings",115,4937,""
+"1982-04-09","","Denver Nuggets",128,"Los Angeles Lakers",153,16433,""
+"1982-04-09","","San Diego Clippers",104,"Portland Trail Blazers",124,12666,""
+"1982-04-10","","New York Knicks",117,"Cleveland Cavaliers",114,4973,""
+"1982-04-10","","San Diego Clippers",119,"Golden State Warriors",132,8860,""
+"1982-04-10","","San Antonio Spurs",100,"Houston Rockets",105,15676,""
+"1982-04-10","","Indiana Pacers",86,"New Jersey Nets",115,14321,""
+"1982-04-10","","Seattle SuperSonics",99,"Phoenix Suns",116,11488,""
+"1982-04-10","","Denver Nuggets",136,"Utah Jazz",151,6919,""
+"1982-04-10","","Milwaukee Bucks",114,"Washington Bullets",115,9728,""
+"1982-04-11","","Chicago Bulls",89,"Atlanta Hawks",108,5684,""
+"1982-04-11","","Houston Rockets",97,"Dallas Mavericks",109,11049,""
+"1982-04-11","","New York Knicks",89,"Detroit Pistons",97,4585,""
+"1982-04-11","","San Antonio Spurs",126,"Kansas City Kings",121,4929,""
+"1982-04-11","","Seattle SuperSonics",104,"Los Angeles Lakers",107,17505,""
+"1982-04-11","","Boston Celtics",110,"Philadelphia 76ers",109,17582,""
+"1982-04-11","","Golden State Warriors",106,"Portland Trail Blazers",116,12666,""
+"1982-04-12","","San Diego Clippers",107,"Utah Jazz",112,10670,""
+"1982-04-13","","Boston Celtics",115,"Chicago Bulls",120,8748,""
+"1982-04-13","","Atlanta Hawks",119,"Cleveland Cavaliers",111,4245,""
+"1982-04-13","","Los Angeles Lakers",101,"Golden State Warriors",106,13239,""
+"1982-04-13","","Kansas City Kings",95,"Houston Rockets",99,11133,""
+"1982-04-13","","Philadelphia 76ers",93,"Indiana Pacers",89,6643,""
+"1982-04-13","","Washington Bullets",109,"Milwaukee Bucks",99,11052,""
+"1982-04-13","","New Jersey Nets",104,"New York Knicks",102,10627,""
+"1982-04-13","","Denver Nuggets",137,"San Antonio Spurs",144,14973,""
+"1982-04-13","","Phoenix Suns",105,"San Diego Clippers",94,4056,""
+"1982-04-13","","Portland Trail Blazers",86,"Seattle SuperSonics",88,23427,""
+"1982-04-14","","Milwaukee Bucks",91,"Boston Celtics",100,15320,""
+"1982-04-14","","Houston Rockets",122,"Denver Nuggets",141,17103,""
+"1982-04-14","","Dallas Mavericks",95,"Kansas City Kings",114,5144,""
+"1982-04-14","","Utah Jazz",115,"Los Angeles Lakers",128,11488,""
+"1982-04-14","","Washington Bullets",94,"New Jersey Nets",98,13382,""
+"1982-04-14","","Chicago Bulls",120,"New York Knicks",116,6917,""
+"1982-04-14","","Detroit Pistons",111,"Philadelphia 76ers",119,11364,""
+"1982-04-14","","San Antonio Spurs",92,"Phoenix Suns",104,11115,""
+"1982-04-14","","Golden State Warriors",104,"Seattle SuperSonics",93,19376,""
+"1982-04-15","","Cleveland Cavaliers",110,"Detroit Pistons",120,4418,""
+"1982-04-15","","Atlanta Hawks",102,"Indiana Pacers",108,4852,""
+"1982-04-15","","Portland Trail Blazers",123,"San Diego Clippers",129,7105,""
+"1982-04-16","","Indiana Pacers",91,"Atlanta Hawks",109,6838,""
+"1982-04-16","","Cleveland Cavaliers",102,"Chicago Bulls",112,4963,""
+"1982-04-16","","San Antonio Spurs",118,"Dallas Mavericks",106,13092,""
+"1982-04-16","","Utah Jazz",100,"Houston Rockets",107,13744,""
+"1982-04-16","","Denver Nuggets",121,"Kansas City Kings",123,6013,""
+"1982-04-16","","Golden State Warriors",109,"Los Angeles Lakers",125,17505,""
+"1982-04-16","","New York Knicks",99,"Milwaukee Bucks",112,11052,""
+"1982-04-16","","Boston Celtics",96,"New Jersey Nets",113,15934,""
+"1982-04-16","","Phoenix Suns",113,"Portland Trail Blazers",99,12666,""
+"1982-04-16","","Philadelphia 76ers",100,"Washington Bullets",96,19035,""
+"1982-04-17","","Dallas Mavericks",124,"Denver Nuggets",130,17006,""
+"1982-04-17","","New Jersey Nets",147,"Detroit Pistons",132,14293,""
+"1982-04-17","","Seattle SuperSonics",95,"Golden State Warriors",94,13239,""
+"1982-04-18","","New York Knicks",99,"Boston Celtics",119,15320,""
+"1982-04-18","","Indiana Pacers",104,"Chicago Bulls",112,4964,""
+"1982-04-18","","Detroit Pistons",116,"Cleveland Cavaliers",113,5580,""
+"1982-04-18","","Houston Rockets",104,"Kansas City Kings",106,4847,""
+"1982-04-18","","Milwaukee Bucks",86,"Philadelphia 76ers",110,14571,""
+"1982-04-18","","Los Angeles Lakers",120,"Phoenix Suns",115,14660,""
+"1982-04-18","","Seattle SuperSonics",114,"Portland Trail Blazers",119,12666,""
+"1982-04-18","","Utah Jazz",128,"San Antonio Spurs",120,9741,""
+"1982-04-18","","Atlanta Hawks",96,"Washington Bullets",99,9301,""
+"1982-04-20","","Phoenix Suns",113,"Denver Nuggets",129,17298,""
+"1982-04-20","","Washington Bullets",96,"New Jersey Nets",83,14015,""
+"1982-04-21","","Atlanta Hawks",76,"Philadelphia 76ers",111,11250,""
+"1982-04-21","","Houston Rockets",87,"Seattle SuperSonics",102,14071,""
+"1982-04-23","","Philadelphia 76ers",98,"Atlanta Hawks",95,8703,""
+"1982-04-23","","Seattle SuperSonics",70,"Houston Rockets",91,15676,""
+"1982-04-23","","Denver Nuggets",110,"Phoenix Suns",126,12798,""
+"1982-04-23","","New Jersey Nets",92,"Washington Bullets",103,19035,""
+"1982-04-24","","Phoenix Suns",124,"Denver Nuggets",119,17443,""
+"1982-04-25","","Washington Bullets",91,"Boston Celtics",109,15320,""
+"1982-04-25","","Milwaukee Bucks",122,"Philadelphia 76ers",125,10086,""
+"1982-04-25","","Houston Rockets",83,"Seattle SuperSonics",104,14071,""
+"1982-04-27","","Phoenix Suns",96,"Los Angeles Lakers",115,13623,""
+"1982-04-27","","San Antonio Spurs",95,"Seattle SuperSonics",93,14457,""
+"1982-04-28","","Washington Bullets",103,"Boston Celtics",102,15320,""
+"1982-04-28","","Phoenix Suns",98,"Los Angeles Lakers",117,15558,""
+"1982-04-28","","Milwaukee Bucks",108,"Philadelphia 76ers",120,14716,""
+"1982-04-28","","San Antonio Spurs",99,"Seattle SuperSonics",114,19403,""
+"1982-04-30","","Los Angeles Lakers",114,"Phoenix Suns",106,14660,""
+"1982-04-30","","Seattle SuperSonics",97,"San Antonio Spurs",99,14019,""

@@ -1,183 +1,183 @@
-Date,Visitor/Neutral,PTS_1,Home/Neutral,PTS_2,_1,_2,Attend.,Notes
-"Thu, Apr 1, 1993",Milwaukee Bucks,115,Houston Rockets,121,Box Score,,"13,082",
-"Thu, Apr 1, 1993",Miami Heat,82,New Jersey Nets,95,Box Score,,"12,324",
-"Thu, Apr 1, 1993",Cleveland Cavaliers,83,New York Knicks,91,Box Score,,"19,763",
-"Thu, Apr 1, 1993",Charlotte Hornets,102,Orlando Magic,93,Box Score,,"15,151",
-"Thu, Apr 1, 1993",Sacramento Kings,117,Washington Bullets,97,Box Score,,"7,910",
-"Fri, Apr 2, 1993",Phoenix Suns,118,Boston Celtics,114,Box Score,,"14,890",
-"Fri, Apr 2, 1993",Cleveland Cavaliers,113,Charlotte Hornets,114,Box Score,,"23,698",
-"Fri, Apr 2, 1993",New Jersey Nets,105,Chicago Bulls,118,Box Score,,"18,676",
-"Fri, Apr 2, 1993",Golden State Warriors,134,Dallas Mavericks,93,Box Score,,"16,722",
-"Fri, Apr 2, 1993",Milwaukee Bucks,107,Denver Nuggets,116,Box Score,,"15,970",
-"Fri, Apr 2, 1993",Sacramento Kings,100,Detroit Pistons,109,Box Score,,"21,454",
-"Fri, Apr 2, 1993",Orlando Magic,102,Indiana Pacers,118,Box Score,,"16,530",
-"Fri, Apr 2, 1993",Atlanta Hawks,99,Los Angeles Clippers,111,Box Score,,"15,485",
-"Fri, Apr 2, 1993",New York Knicks,123,Miami Heat,107,Box Score,,"15,008",
-"Fri, Apr 2, 1993",Portland Trail Blazers,96,Philadelphia 76ers,91,Box Score,,"13,108",
-"Fri, Apr 2, 1993",Minnesota Timberwolves,101,San Antonio Spurs,108,Box Score,,"16,057",
-"Sat, Apr 3, 1993",Golden State Warriors,111,Houston Rockets,118,Box Score,,"14,767",
-"Sat, Apr 3, 1993",Atlanta Hawks,105,Seattle SuperSonics,129,Box Score,,"14,621",
-"Sat, Apr 3, 1993",Portland Trail Blazers,102,Washington Bullets,114,Box Score,,"18,756",
-"Sun, Apr 4, 1993",Chicago Bulls,101,Boston Celtics,89,Box Score,,"14,890",
-"Sun, Apr 4, 1993",New Jersey Nets,99,Cleveland Cavaliers,105,Box Score,,"20,273",
-"Sun, Apr 4, 1993",Minnesota Timberwolves,94,Denver Nuggets,120,Box Score,,"16,461",
-"Sun, Apr 4, 1993",Phoenix Suns,110,Indiana Pacers,100,Box Score,,"16,530",
-"Sun, Apr 4, 1993",Dallas Mavericks,115,Los Angeles Clippers,119,Box Score,,"12,021",
-"Sun, Apr 4, 1993",Utah Jazz,111,Los Angeles Lakers,99,Box Score,,"15,593",
-"Sun, Apr 4, 1993",Orlando Magic,106,Miami Heat,124,Box Score,,"15,008",
-"Sun, Apr 4, 1993",Sacramento Kings,102,Philadelphia 76ers,112,Box Score,,"8,345",
-"Sun, Apr 4, 1993",New York Knicks,108,San Antonio Spurs,103,Box Score,OT,"16,057",
-"Tue, Apr 6, 1993",New York Knicks,104,Atlanta Hawks,109,Box Score,OT,"12,744",
-"Tue, Apr 6, 1993",Miami Heat,100,Cleveland Cavaliers,115,Box Score,,"19,137",
-"Tue, Apr 6, 1993",Washington Bullets,79,Detroit Pistons,91,Box Score,,"21,454",
-"Tue, Apr 6, 1993",Los Angeles Clippers,101,Houston Rockets,114,Box Score,,"13,283",
-"Tue, Apr 6, 1993",Chicago Bulls,109,Milwaukee Bucks,113,Box Score,,"18,633",
-"Tue, Apr 6, 1993",Indiana Pacers,98,New Jersey Nets,85,Box Score,,"14,902",
-"Tue, Apr 6, 1993",Philadelphia 76ers,90,Orlando Magic,116,Box Score,,"15,151",
-"Tue, Apr 6, 1993",Los Angeles Lakers,114,Phoenix Suns,115,Box Score,,"19,023",
-"Tue, Apr 6, 1993",Utah Jazz,95,Portland Trail Blazers,110,Box Score,,"12,888",
-"Tue, Apr 6, 1993",Denver Nuggets,101,Sacramento Kings,100,Box Score,,"17,317",
-"Tue, Apr 6, 1993",Golden State Warriors,125,San Antonio Spurs,111,Box Score,,"16,057",
-"Tue, Apr 6, 1993",Dallas Mavericks,109,Seattle SuperSonics,107,Box Score,,"13,503",
-"Wed, Apr 7, 1993",Orlando Magic,109,Charlotte Hornets,96,Box Score,,"23,698",
-"Wed, Apr 7, 1993",Indiana Pacers,113,Minnesota Timberwolves,105,Box Score,,"17,815",
-"Wed, Apr 7, 1993",Philadelphia 76ers,98,Washington Bullets,90,Box Score,,"6,904",
-"Thu, Apr 8, 1993",Los Angeles Lakers,116,Golden State Warriors,122,Box Score,OT,"15,025",
-"Thu, Apr 8, 1993",Miami Heat,117,Milwaukee Bucks,92,Box Score,,"15,487",
-"Thu, Apr 8, 1993",Detroit Pistons,100,New Jersey Nets,98,Box Score,,"20,049",
-"Thu, Apr 8, 1993",Boston Celtics,88,New York Knicks,110,Box Score,,"19,763",
-"Thu, Apr 8, 1993",Dallas Mavericks,107,Portland Trail Blazers,126,Box Score,,"12,888",
-"Thu, Apr 8, 1993",Phoenix Suns,123,Sacramento Kings,114,Box Score,,"17,317",
-"Thu, Apr 8, 1993",Los Angeles Clippers,108,San Antonio Spurs,112,Box Score,,"16,057",
-"Thu, Apr 8, 1993",Houston Rockets,95,Utah Jazz,90,Box Score,,"19,911",
-"Fri, Apr 9, 1993",Chicago Bulls,88,Atlanta Hawks,87,Box Score,,"16,510",
-"Fri, Apr 9, 1993",Detroit Pistons,105,Boston Celtics,90,Box Score,,"14,890",
-"Fri, Apr 9, 1993",Washington Bullets,95,Cleveland Cavaliers,114,Box Score,,"19,383",
-"Fri, Apr 9, 1993",Portland Trail Blazers,109,Los Angeles Lakers,105,Box Score,,"15,956",
-"Fri, Apr 9, 1993",Orlando Magic,95,Minnesota Timberwolves,92,Box Score,,"19,006",
-"Fri, Apr 9, 1993",Charlotte Hornets,122,Philadelphia 76ers,113,Box Score,,"15,233",
-"Fri, Apr 9, 1993",Denver Nuggets,97,Phoenix Suns,98,Box Score,,"19,023",
-"Fri, Apr 9, 1993",Sacramento Kings,97,Seattle SuperSonics,111,Box Score,,"14,023",
-"Sat, Apr 10, 1993",Atlanta Hawks,118,Charlotte Hornets,105,Box Score,,"23,698",
-"Sat, Apr 10, 1993",Dallas Mavericks,94,Golden State Warriors,100,Box Score,,"15,025",
-"Sat, Apr 10, 1993",San Antonio Spurs,88,Houston Rockets,98,Box Score,,"16,611",
-"Sat, Apr 10, 1993",Chicago Bulls,92,Indiana Pacers,87,Box Score,,"16,530",
-"Sat, Apr 10, 1993",Denver Nuggets,101,Los Angeles Clippers,118,Box Score,,"14,534",
-"Sat, Apr 10, 1993",Philadelphia 76ers,114,Miami Heat,119,Box Score,,"15,008",
-"Sat, Apr 10, 1993",Orlando Magic,97,Milwaukee Bucks,108,Box Score,,"18,633",
-"Sat, Apr 10, 1993",Cleveland Cavaliers,100,New Jersey Nets,99,Box Score,,"20,049",
-"Sun, Apr 11, 1993",New York Knicks,102,Boston Celtics,90,Box Score,,"14,890",
-"Sun, Apr 11, 1993",Seattle SuperSonics,96,Los Angeles Lakers,98,Box Score,,"14,915",
-"Sun, Apr 11, 1993",Utah Jazz,99,Phoenix Suns,112,Box Score,,"19,023",
-"Sun, Apr 11, 1993",Minnesota Timberwolves,110,Portland Trail Blazers,127,Box Score,,"12,888",
-"Sun, Apr 11, 1993",Detroit Pistons,106,Washington Bullets,94,Box Score,,"18,756",
-"Mon, Apr 12, 1993",Philadelphia 76ers,101,Charlotte Hornets,120,Box Score,,"23,698",
-"Mon, Apr 12, 1993",Chicago Bulls,98,Detroit Pistons,95,Box Score,,"21,454",
-"Mon, Apr 12, 1993",Denver Nuggets,107,Golden State Warriors,96,Box Score,,"15,025",
-"Mon, Apr 12, 1993",Phoenix Suns,104,Los Angeles Clippers,111,Box Score,,"15,989",
-"Mon, Apr 12, 1993",Milwaukee Bucks,95,Miami Heat,106,Box Score,,"15,008",
-"Mon, Apr 12, 1993",Dallas Mavericks,94,Utah Jazz,107,Box Score,,"19,911",
-"Tue, Apr 13, 1993",Cleveland Cavaliers,112,Atlanta Hawks,109,Box Score,2OT,"9,450",
-"Tue, Apr 13, 1993",Indiana Pacers,90,Boston Celtics,96,Box Score,,"14,890",
-"Tue, Apr 13, 1993",Los Angeles Lakers,107,Houston Rockets,126,Box Score,,"16,611",
-"Tue, Apr 13, 1993",Washington Bullets,85,New York Knicks,93,Box Score,,"19,763",
-"Tue, Apr 13, 1993",Milwaukee Bucks,91,Orlando Magic,110,Box Score,,"15,151",
-"Tue, Apr 13, 1993",Los Angeles Clippers,99,Portland Trail Blazers,101,Box Score,,"12,888",
-"Tue, Apr 13, 1993",San Antonio Spurs,110,Sacramento Kings,100,Box Score,,"17,317",
-"Tue, Apr 13, 1993",Minnesota Timberwolves,95,Seattle SuperSonics,129,Box Score,,"12,461",
-"Wed, Apr 14, 1993",New York Knicks,111,Charlotte Hornets,107,Box Score,,"23,698",
-"Wed, Apr 14, 1993",Miami Heat,92,Chicago Bulls,119,Box Score,,"18,676",
-"Wed, Apr 14, 1993",Los Angeles Lakers,112,Dallas Mavericks,99,Box Score,,"16,064",
-"Wed, Apr 14, 1993",Houston Rockets,107,Denver Nuggets,96,Box Score,,"15,375",
-"Wed, Apr 14, 1993",Atlanta Hawks,84,Detroit Pistons,87,Box Score,,"21,454",
-"Wed, Apr 14, 1993",San Antonio Spurs,96,Golden State Warriors,93,Box Score,,"15,025",
-"Wed, Apr 14, 1993",New Jersey Nets,90,Indiana Pacers,109,Box Score,,"16,530",
-"Wed, Apr 14, 1993",Minnesota Timberwolves,84,Phoenix Suns,98,Box Score,,"19,023",
-"Thu, Apr 15, 1993",Cleveland Cavaliers,108,Milwaukee Bucks,93,Box Score,,"14,267",
-"Thu, Apr 15, 1993",Boston Celtics,106,New Jersey Nets,105,Box Score,,"20,049",
-"Thu, Apr 15, 1993",Orlando Magic,85,Philadelphia 76ers,101,Box Score,,"15,519",
-"Thu, Apr 15, 1993",Portland Trail Blazers,117,Utah Jazz,122,Box Score,OT,"19,911",
-"Thu, Apr 15, 1993",Miami Heat,92,Washington Bullets,110,Box Score,,"11,007",
-"Fri, Apr 16, 1993",Detroit Pistons,93,Charlotte Hornets,127,Box Score,,"23,698",
-"Fri, Apr 16, 1993",Milwaukee Bucks,105,Chicago Bulls,119,Box Score,,"18,676",
-"Fri, Apr 16, 1993",Orlando Magic,110,Cleveland Cavaliers,113,Box Score,,"20,273",
-"Fri, Apr 16, 1993",Denver Nuggets,86,Dallas Mavericks,99,Box Score,,"13,964",
-"Fri, Apr 16, 1993",New York Knicks,94,Indiana Pacers,100,Box Score,,"15,704",
-"Fri, Apr 16, 1993",Golden State Warriors,115,Los Angeles Clippers,122,Box Score,,"13,632",
-"Fri, Apr 16, 1993",Houston Rockets,100,Los Angeles Lakers,84,Box Score,,"15,187",
-"Fri, Apr 16, 1993",Portland Trail Blazers,117,Minnesota Timberwolves,109,Box Score,,"19,006",
-"Fri, Apr 16, 1993",Seattle SuperSonics,108,Phoenix Suns,102,Box Score,,"19,023",
-"Fri, Apr 16, 1993",Sacramento Kings,100,San Antonio Spurs,93,Box Score,,"16,057",
-"Sat, Apr 17, 1993",Charlotte Hornets,110,Atlanta Hawks,107,Box Score,,"16,510",
-"Sat, Apr 17, 1993",Sacramento Kings,108,Dallas Mavericks,107,Box Score,OT,"15,973",
-"Sat, Apr 17, 1993",Boston Celtics,103,Miami Heat,100,Box Score,,"15,008",
-"Sat, Apr 17, 1993",Detroit Pistons,85,New York Knicks,95,Box Score,,"19,763",
-"Sat, Apr 17, 1993",Houston Rockets,86,Seattle SuperSonics,81,Box Score,,"14,812",
-"Sat, Apr 17, 1993",Phoenix Suns,101,Utah Jazz,110,Box Score,,"19,911",
-"Sat, Apr 17, 1993",New Jersey Nets,104,Washington Bullets,103,Box Score,,"18,756",
-"Sun, Apr 18, 1993",Chicago Bulls,94,Cleveland Cavaliers,103,Box Score,,"20,273",
-"Sun, Apr 18, 1993",Los Angeles Clippers,83,Denver Nuggets,94,Box Score,,"16,075",
-"Sun, Apr 18, 1993",Golden State Warriors,112,Los Angeles Lakers,115,Box Score,,"14,827",
-"Sun, Apr 18, 1993",Indiana Pacers,108,Milwaukee Bucks,98,Box Score,,"16,036",
-"Sun, Apr 18, 1993",Boston Celtics,79,Orlando Magic,88,Box Score,,"15,151",
-"Sun, Apr 18, 1993",Minnesota Timberwolves,79,Philadelphia 76ers,106,Box Score,,"10,405",
-"Sun, Apr 18, 1993",San Antonio Spurs,101,Portland Trail Blazers,105,Box Score,,"12,888",
-"Mon, Apr 19, 1993",Houston Rockets,111,Phoenix Suns,97,Box Score,,"19,023",
-"Mon, Apr 19, 1993",San Antonio Spurs,89,Seattle SuperSonics,96,Box Score,,"14,526",
-"Tue, Apr 20, 1993",Indiana Pacers,102,Atlanta Hawks,111,Box Score,,"11,323",
-"Tue, Apr 20, 1993",Philadelphia 76ers,94,Chicago Bulls,123,Box Score,,"18,676",
-"Tue, Apr 20, 1993",Detroit Pistons,81,Cleveland Cavaliers,105,Box Score,,"19,388",
-"Tue, Apr 20, 1993",Los Angeles Clippers,107,Dallas Mavericks,98,Box Score,,"12,760",
-"Tue, Apr 20, 1993",New York Knicks,109,Miami Heat,97,Box Score,,"15,008",
-"Tue, Apr 20, 1993",Los Angeles Lakers,107,Minnesota Timberwolves,95,Box Score,,"19,006",
-"Tue, Apr 20, 1993",Washington Bullets,86,Orlando Magic,105,Box Score,,"15,151",
-"Tue, Apr 20, 1993",Golden State Warriors,99,Portland Trail Blazers,115,Box Score,,"12,888",
-"Tue, Apr 20, 1993",Utah Jazz,92,Sacramento Kings,101,Box Score,,"17,317",
-"Wed, Apr 21, 1993",Orlando Magic,98,Boston Celtics,126,Box Score,,"14,890",
-"Wed, Apr 21, 1993",Milwaukee Bucks,111,Charlotte Hornets,119,Box Score,,"23,698",
-"Wed, Apr 21, 1993",Dallas Mavericks,112,Denver Nuggets,137,Box Score,,"16,490",
-"Wed, Apr 21, 1993",Sacramento Kings,105,Golden State Warriors,132,Box Score,,"15,025",
-"Wed, Apr 21, 1993",Cleveland Cavaliers,111,Indiana Pacers,95,Box Score,,"11,268",
-"Wed, Apr 21, 1993",New Jersey Nets,74,New York Knicks,105,Box Score,,"19,763",
-"Wed, Apr 21, 1993",Miami Heat,97,Philadelphia 76ers,107,Box Score,,"7,854",
-"Wed, Apr 21, 1993",Los Angeles Lakers,102,Utah Jazz,113,Box Score,,"19,911",
-"Wed, Apr 21, 1993",Atlanta Hawks,119,Washington Bullets,98,Box Score,,"12,288",
-"Thu, Apr 22, 1993",Detroit Pistons,103,Chicago Bulls,109,Box Score,OT,"18,676",
-"Thu, Apr 22, 1993",Minnesota Timberwolves,110,Houston Rockets,112,Box Score,OT,"16,123",
-"Thu, Apr 22, 1993",Seattle SuperSonics,100,Los Angeles Clippers,98,Box Score,,"15,989",
-"Thu, Apr 22, 1993",Phoenix Suns,115,Portland Trail Blazers,114,Box Score,,"12,888",
-"Thu, Apr 22, 1993",Denver Nuggets,111,San Antonio Spurs,131,Box Score,,"16,057",
-"Fri, Apr 23, 1993",Milwaukee Bucks,106,Atlanta Hawks,122,Box Score,,"12,756",
-"Fri, Apr 23, 1993",Cleveland Cavaliers,99,Boston Celtics,107,Box Score,,"14,890",
-"Fri, Apr 23, 1993",Chicago Bulls,103,Charlotte Hornets,104,Box Score,,"23,698",
-"Fri, Apr 23, 1993",Minnesota Timberwolves,100,Dallas Mavericks,103,Box Score,,"17,502",
-"Fri, Apr 23, 1993",Indiana Pacers,104,Detroit Pistons,109,Box Score,,"21,454",
-"Fri, Apr 23, 1993",Washington Bullets,120,Miami Heat,121,Box Score,OT,"15,008",
-"Fri, Apr 23, 1993",Orlando Magic,119,New Jersey Nets,116,Box Score,,"20,049",
-"Fri, Apr 23, 1993",New York Knicks,99,Philadelphia 76ers,84,Box Score,,"15,841",
-"Fri, Apr 23, 1993",Portland Trail Blazers,112,Sacramento Kings,108,Box Score,,"17,317",
-"Fri, Apr 23, 1993",Los Angeles Lakers,93,Seattle SuperSonics,122,Box Score,,"14,691",
-"Fri, Apr 23, 1993",Golden State Warriors,91,Utah Jazz,105,Box Score,,"19,911",
-"Sat, Apr 24, 1993",Dallas Mavericks,128,Houston Rockets,123,Box Score,,"16,611",
-"Sat, Apr 24, 1993",Miami Heat,88,Indiana Pacers,94,Box Score,,"15,311",
-"Sat, Apr 24, 1993",Sacramento Kings,107,Los Angeles Lakers,125,Box Score,,"16,482",
-"Sat, Apr 24, 1993",Charlotte Hornets,108,Milwaukee Bucks,106,Box Score,,"18,633",
-"Sat, Apr 24, 1993",Atlanta Hawks,85,Orlando Magic,104,Box Score,,"15,151",
-"Sat, Apr 24, 1993",San Antonio Spurs,97,Phoenix Suns,99,Box Score,,"19,023",
-"Sun, Apr 25, 1993",Philadelphia 76ers,103,Cleveland Cavaliers,107,Box Score,,"19,425",
-"Sun, Apr 25, 1993",Phoenix Suns,118,Denver Nuggets,120,Box Score,,"17,022",
-"Sun, Apr 25, 1993",New Jersey Nets,110,Detroit Pistons,116,Box Score,,"21,454",
-"Sun, Apr 25, 1993",Seattle SuperSonics,109,Golden State Warriors,119,Box Score,,"15,025",
-"Sun, Apr 25, 1993",Portland Trail Blazers,112,Los Angeles Clippers,123,Box Score,,"15,989",
-"Sun, Apr 25, 1993",Utah Jazz,111,Minnesota Timberwolves,113,Box Score,,"18,627",
-"Sun, Apr 25, 1993",Chicago Bulls,84,New York Knicks,89,Box Score,,"19,763",
-"Sun, Apr 25, 1993",Houston Rockets,117,San Antonio Spurs,119,Box Score,OT,"16,057",
-"Sun, Apr 25, 1993",Boston Celtics,106,Washington Bullets,94,Box Score,,"18,756",
-"Thu, Apr 29, 1993",Charlotte Hornets,101,Boston Celtics,112,Box Score,,"14,890",
-"Thu, Apr 29, 1993",New Jersey Nets,98,Cleveland Cavaliers,114,Box Score,,"18,339",
-"Thu, Apr 29, 1993",Los Angeles Clippers,94,Houston Rockets,117,Box Score,,"16,611",
-"Thu, Apr 29, 1993",San Antonio Spurs,87,Portland Trail Blazers,86,Box Score,,"12,888",
-"Fri, Apr 30, 1993",Atlanta Hawks,90,Chicago Bulls,114,Box Score,,"18,676",
-"Fri, Apr 30, 1993",Indiana Pacers,104,New York Knicks,107,Box Score,,"19,763",
-"Fri, Apr 30, 1993",Los Angeles Lakers,107,Phoenix Suns,103,Box Score,,"19,023",
-"Fri, Apr 30, 1993",Utah Jazz,85,Seattle SuperSonics,99,Box Score,,"14,429",
+"Date","Start (ET)","Visitor/Neutral","Visitor/Neutral PTS","Home/Neutral","Home/Neutral PTS","Attendance","Notes"
+"1993-04-01","","Milwaukee Bucks",115,"Houston Rockets",121,13082,""
+"1993-04-01","","Miami Heat",82,"New Jersey Nets",95,12324,""
+"1993-04-01","","Cleveland Cavaliers",83,"New York Knicks",91,19763,""
+"1993-04-01","","Charlotte Hornets",102,"Orlando Magic",93,15151,""
+"1993-04-01","","Sacramento Kings",117,"Washington Bullets",97,7910,""
+"1993-04-02","","Phoenix Suns",118,"Boston Celtics",114,14890,""
+"1993-04-02","","Cleveland Cavaliers",113,"Charlotte Hornets",114,23698,""
+"1993-04-02","","New Jersey Nets",105,"Chicago Bulls",118,18676,""
+"1993-04-02","","Golden State Warriors",134,"Dallas Mavericks",93,16722,""
+"1993-04-02","","Milwaukee Bucks",107,"Denver Nuggets",116,15970,""
+"1993-04-02","","Sacramento Kings",100,"Detroit Pistons",109,21454,""
+"1993-04-02","","Orlando Magic",102,"Indiana Pacers",118,16530,""
+"1993-04-02","","Atlanta Hawks",99,"Los Angeles Clippers",111,15485,""
+"1993-04-02","","New York Knicks",123,"Miami Heat",107,15008,""
+"1993-04-02","","Portland Trail Blazers",96,"Philadelphia 76ers",91,13108,""
+"1993-04-02","","Minnesota Timberwolves",101,"San Antonio Spurs",108,16057,""
+"1993-04-03","","Golden State Warriors",111,"Houston Rockets",118,14767,""
+"1993-04-03","","Atlanta Hawks",105,"Seattle SuperSonics",129,14621,""
+"1993-04-03","","Portland Trail Blazers",102,"Washington Bullets",114,18756,""
+"1993-04-04","","Chicago Bulls",101,"Boston Celtics",89,14890,""
+"1993-04-04","","New Jersey Nets",99,"Cleveland Cavaliers",105,20273,""
+"1993-04-04","","Minnesota Timberwolves",94,"Denver Nuggets",120,16461,""
+"1993-04-04","","Phoenix Suns",110,"Indiana Pacers",100,16530,""
+"1993-04-04","","Dallas Mavericks",115,"Los Angeles Clippers",119,12021,""
+"1993-04-04","","Utah Jazz",111,"Los Angeles Lakers",99,15593,""
+"1993-04-04","","Orlando Magic",106,"Miami Heat",124,15008,""
+"1993-04-04","","Sacramento Kings",102,"Philadelphia 76ers",112,8345,""
+"1993-04-04","","New York Knicks",108,"San Antonio Spurs",103,16057,""
+"1993-04-06","","New York Knicks",104,"Atlanta Hawks",109,12744,""
+"1993-04-06","","Miami Heat",100,"Cleveland Cavaliers",115,19137,""
+"1993-04-06","","Washington Bullets",79,"Detroit Pistons",91,21454,""
+"1993-04-06","","Los Angeles Clippers",101,"Houston Rockets",114,13283,""
+"1993-04-06","","Chicago Bulls",109,"Milwaukee Bucks",113,18633,""
+"1993-04-06","","Indiana Pacers",98,"New Jersey Nets",85,14902,""
+"1993-04-06","","Philadelphia 76ers",90,"Orlando Magic",116,15151,""
+"1993-04-06","","Los Angeles Lakers",114,"Phoenix Suns",115,19023,""
+"1993-04-06","","Utah Jazz",95,"Portland Trail Blazers",110,12888,""
+"1993-04-06","","Denver Nuggets",101,"Sacramento Kings",100,17317,""
+"1993-04-06","","Golden State Warriors",125,"San Antonio Spurs",111,16057,""
+"1993-04-06","","Dallas Mavericks",109,"Seattle SuperSonics",107,13503,""
+"1993-04-07","","Orlando Magic",109,"Charlotte Hornets",96,23698,""
+"1993-04-07","","Indiana Pacers",113,"Minnesota Timberwolves",105,17815,""
+"1993-04-07","","Philadelphia 76ers",98,"Washington Bullets",90,6904,""
+"1993-04-08","","Los Angeles Lakers",116,"Golden State Warriors",122,15025,""
+"1993-04-08","","Miami Heat",117,"Milwaukee Bucks",92,15487,""
+"1993-04-08","","Detroit Pistons",100,"New Jersey Nets",98,20049,""
+"1993-04-08","","Boston Celtics",88,"New York Knicks",110,19763,""
+"1993-04-08","","Dallas Mavericks",107,"Portland Trail Blazers",126,12888,""
+"1993-04-08","","Phoenix Suns",123,"Sacramento Kings",114,17317,""
+"1993-04-08","","Los Angeles Clippers",108,"San Antonio Spurs",112,16057,""
+"1993-04-08","","Houston Rockets",95,"Utah Jazz",90,19911,""
+"1993-04-09","","Chicago Bulls",88,"Atlanta Hawks",87,16510,""
+"1993-04-09","","Detroit Pistons",105,"Boston Celtics",90,14890,""
+"1993-04-09","","Washington Bullets",95,"Cleveland Cavaliers",114,19383,""
+"1993-04-09","","Portland Trail Blazers",109,"Los Angeles Lakers",105,15956,""
+"1993-04-09","","Orlando Magic",95,"Minnesota Timberwolves",92,19006,""
+"1993-04-09","","Charlotte Hornets",122,"Philadelphia 76ers",113,15233,""
+"1993-04-09","","Denver Nuggets",97,"Phoenix Suns",98,19023,""
+"1993-04-09","","Sacramento Kings",97,"Seattle SuperSonics",111,14023,""
+"1993-04-10","","Atlanta Hawks",118,"Charlotte Hornets",105,23698,""
+"1993-04-10","","Dallas Mavericks",94,"Golden State Warriors",100,15025,""
+"1993-04-10","","San Antonio Spurs",88,"Houston Rockets",98,16611,""
+"1993-04-10","","Chicago Bulls",92,"Indiana Pacers",87,16530,""
+"1993-04-10","","Denver Nuggets",101,"Los Angeles Clippers",118,14534,""
+"1993-04-10","","Philadelphia 76ers",114,"Miami Heat",119,15008,""
+"1993-04-10","","Orlando Magic",97,"Milwaukee Bucks",108,18633,""
+"1993-04-10","","Cleveland Cavaliers",100,"New Jersey Nets",99,20049,""
+"1993-04-11","","New York Knicks",102,"Boston Celtics",90,14890,""
+"1993-04-11","","Seattle SuperSonics",96,"Los Angeles Lakers",98,14915,""
+"1993-04-11","","Utah Jazz",99,"Phoenix Suns",112,19023,""
+"1993-04-11","","Minnesota Timberwolves",110,"Portland Trail Blazers",127,12888,""
+"1993-04-11","","Detroit Pistons",106,"Washington Bullets",94,18756,""
+"1993-04-12","","Philadelphia 76ers",101,"Charlotte Hornets",120,23698,""
+"1993-04-12","","Chicago Bulls",98,"Detroit Pistons",95,21454,""
+"1993-04-12","","Denver Nuggets",107,"Golden State Warriors",96,15025,""
+"1993-04-12","","Phoenix Suns",104,"Los Angeles Clippers",111,15989,""
+"1993-04-12","","Milwaukee Bucks",95,"Miami Heat",106,15008,""
+"1993-04-12","","Dallas Mavericks",94,"Utah Jazz",107,19911,""
+"1993-04-13","","Cleveland Cavaliers",112,"Atlanta Hawks",109,9450,""
+"1993-04-13","","Indiana Pacers",90,"Boston Celtics",96,14890,""
+"1993-04-13","","Los Angeles Lakers",107,"Houston Rockets",126,16611,""
+"1993-04-13","","Washington Bullets",85,"New York Knicks",93,19763,""
+"1993-04-13","","Milwaukee Bucks",91,"Orlando Magic",110,15151,""
+"1993-04-13","","Los Angeles Clippers",99,"Portland Trail Blazers",101,12888,""
+"1993-04-13","","San Antonio Spurs",110,"Sacramento Kings",100,17317,""
+"1993-04-13","","Minnesota Timberwolves",95,"Seattle SuperSonics",129,12461,""
+"1993-04-14","","New York Knicks",111,"Charlotte Hornets",107,23698,""
+"1993-04-14","","Miami Heat",92,"Chicago Bulls",119,18676,""
+"1993-04-14","","Los Angeles Lakers",112,"Dallas Mavericks",99,16064,""
+"1993-04-14","","Houston Rockets",107,"Denver Nuggets",96,15375,""
+"1993-04-14","","Atlanta Hawks",84,"Detroit Pistons",87,21454,""
+"1993-04-14","","San Antonio Spurs",96,"Golden State Warriors",93,15025,""
+"1993-04-14","","New Jersey Nets",90,"Indiana Pacers",109,16530,""
+"1993-04-14","","Minnesota Timberwolves",84,"Phoenix Suns",98,19023,""
+"1993-04-15","","Cleveland Cavaliers",108,"Milwaukee Bucks",93,14267,""
+"1993-04-15","","Boston Celtics",106,"New Jersey Nets",105,20049,""
+"1993-04-15","","Orlando Magic",85,"Philadelphia 76ers",101,15519,""
+"1993-04-15","","Portland Trail Blazers",117,"Utah Jazz",122,19911,""
+"1993-04-15","","Miami Heat",92,"Washington Bullets",110,11007,""
+"1993-04-16","","Detroit Pistons",93,"Charlotte Hornets",127,23698,""
+"1993-04-16","","Milwaukee Bucks",105,"Chicago Bulls",119,18676,""
+"1993-04-16","","Orlando Magic",110,"Cleveland Cavaliers",113,20273,""
+"1993-04-16","","Denver Nuggets",86,"Dallas Mavericks",99,13964,""
+"1993-04-16","","New York Knicks",94,"Indiana Pacers",100,15704,""
+"1993-04-16","","Golden State Warriors",115,"Los Angeles Clippers",122,13632,""
+"1993-04-16","","Houston Rockets",100,"Los Angeles Lakers",84,15187,""
+"1993-04-16","","Portland Trail Blazers",117,"Minnesota Timberwolves",109,19006,""
+"1993-04-16","","Seattle SuperSonics",108,"Phoenix Suns",102,19023,""
+"1993-04-16","","Sacramento Kings",100,"San Antonio Spurs",93,16057,""
+"1993-04-17","","Charlotte Hornets",110,"Atlanta Hawks",107,16510,""
+"1993-04-17","","Sacramento Kings",108,"Dallas Mavericks",107,15973,""
+"1993-04-17","","Boston Celtics",103,"Miami Heat",100,15008,""
+"1993-04-17","","Detroit Pistons",85,"New York Knicks",95,19763,""
+"1993-04-17","","Houston Rockets",86,"Seattle SuperSonics",81,14812,""
+"1993-04-17","","Phoenix Suns",101,"Utah Jazz",110,19911,""
+"1993-04-17","","New Jersey Nets",104,"Washington Bullets",103,18756,""
+"1993-04-18","","Chicago Bulls",94,"Cleveland Cavaliers",103,20273,""
+"1993-04-18","","Los Angeles Clippers",83,"Denver Nuggets",94,16075,""
+"1993-04-18","","Golden State Warriors",112,"Los Angeles Lakers",115,14827,""
+"1993-04-18","","Indiana Pacers",108,"Milwaukee Bucks",98,16036,""
+"1993-04-18","","Boston Celtics",79,"Orlando Magic",88,15151,""
+"1993-04-18","","Minnesota Timberwolves",79,"Philadelphia 76ers",106,10405,""
+"1993-04-18","","San Antonio Spurs",101,"Portland Trail Blazers",105,12888,""
+"1993-04-19","","Houston Rockets",111,"Phoenix Suns",97,19023,""
+"1993-04-19","","San Antonio Spurs",89,"Seattle SuperSonics",96,14526,""
+"1993-04-20","","Indiana Pacers",102,"Atlanta Hawks",111,11323,""
+"1993-04-20","","Philadelphia 76ers",94,"Chicago Bulls",123,18676,""
+"1993-04-20","","Detroit Pistons",81,"Cleveland Cavaliers",105,19388,""
+"1993-04-20","","Los Angeles Clippers",107,"Dallas Mavericks",98,12760,""
+"1993-04-20","","New York Knicks",109,"Miami Heat",97,15008,""
+"1993-04-20","","Los Angeles Lakers",107,"Minnesota Timberwolves",95,19006,""
+"1993-04-20","","Washington Bullets",86,"Orlando Magic",105,15151,""
+"1993-04-20","","Golden State Warriors",99,"Portland Trail Blazers",115,12888,""
+"1993-04-20","","Utah Jazz",92,"Sacramento Kings",101,17317,""
+"1993-04-21","","Orlando Magic",98,"Boston Celtics",126,14890,""
+"1993-04-21","","Milwaukee Bucks",111,"Charlotte Hornets",119,23698,""
+"1993-04-21","","Dallas Mavericks",112,"Denver Nuggets",137,16490,""
+"1993-04-21","","Sacramento Kings",105,"Golden State Warriors",132,15025,""
+"1993-04-21","","Cleveland Cavaliers",111,"Indiana Pacers",95,11268,""
+"1993-04-21","","New Jersey Nets",74,"New York Knicks",105,19763,""
+"1993-04-21","","Miami Heat",97,"Philadelphia 76ers",107,7854,""
+"1993-04-21","","Los Angeles Lakers",102,"Utah Jazz",113,19911,""
+"1993-04-21","","Atlanta Hawks",119,"Washington Bullets",98,12288,""
+"1993-04-22","","Detroit Pistons",103,"Chicago Bulls",109,18676,""
+"1993-04-22","","Minnesota Timberwolves",110,"Houston Rockets",112,16123,""
+"1993-04-22","","Seattle SuperSonics",100,"Los Angeles Clippers",98,15989,""
+"1993-04-22","","Phoenix Suns",115,"Portland Trail Blazers",114,12888,""
+"1993-04-22","","Denver Nuggets",111,"San Antonio Spurs",131,16057,""
+"1993-04-23","","Milwaukee Bucks",106,"Atlanta Hawks",122,12756,""
+"1993-04-23","","Cleveland Cavaliers",99,"Boston Celtics",107,14890,""
+"1993-04-23","","Chicago Bulls",103,"Charlotte Hornets",104,23698,""
+"1993-04-23","","Minnesota Timberwolves",100,"Dallas Mavericks",103,17502,""
+"1993-04-23","","Indiana Pacers",104,"Detroit Pistons",109,21454,""
+"1993-04-23","","Washington Bullets",120,"Miami Heat",121,15008,""
+"1993-04-23","","Orlando Magic",119,"New Jersey Nets",116,20049,""
+"1993-04-23","","New York Knicks",99,"Philadelphia 76ers",84,15841,""
+"1993-04-23","","Portland Trail Blazers",112,"Sacramento Kings",108,17317,""
+"1993-04-23","","Los Angeles Lakers",93,"Seattle SuperSonics",122,14691,""
+"1993-04-23","","Golden State Warriors",91,"Utah Jazz",105,19911,""
+"1993-04-24","","Dallas Mavericks",128,"Houston Rockets",123,16611,""
+"1993-04-24","","Miami Heat",88,"Indiana Pacers",94,15311,""
+"1993-04-24","","Sacramento Kings",107,"Los Angeles Lakers",125,16482,""
+"1993-04-24","","Charlotte Hornets",108,"Milwaukee Bucks",106,18633,""
+"1993-04-24","","Atlanta Hawks",85,"Orlando Magic",104,15151,""
+"1993-04-24","","San Antonio Spurs",97,"Phoenix Suns",99,19023,""
+"1993-04-25","","Philadelphia 76ers",103,"Cleveland Cavaliers",107,19425,""
+"1993-04-25","","Phoenix Suns",118,"Denver Nuggets",120,17022,""
+"1993-04-25","","New Jersey Nets",110,"Detroit Pistons",116,21454,""
+"1993-04-25","","Seattle SuperSonics",109,"Golden State Warriors",119,15025,""
+"1993-04-25","","Portland Trail Blazers",112,"Los Angeles Clippers",123,15989,""
+"1993-04-25","","Utah Jazz",111,"Minnesota Timberwolves",113,18627,""
+"1993-04-25","","Chicago Bulls",84,"New York Knicks",89,19763,""
+"1993-04-25","","Houston Rockets",117,"San Antonio Spurs",119,16057,""
+"1993-04-25","","Boston Celtics",106,"Washington Bullets",94,18756,""
+"1993-04-29","","Charlotte Hornets",101,"Boston Celtics",112,14890,""
+"1993-04-29","","New Jersey Nets",98,"Cleveland Cavaliers",114,18339,""
+"1993-04-29","","Los Angeles Clippers",94,"Houston Rockets",117,16611,""
+"1993-04-29","","San Antonio Spurs",87,"Portland Trail Blazers",86,12888,""
+"1993-04-30","","Atlanta Hawks",90,"Chicago Bulls",114,18676,""
+"1993-04-30","","Indiana Pacers",104,"New York Knicks",107,19763,""
+"1993-04-30","","Los Angeles Lakers",107,"Phoenix Suns",103,19023,""
+"1993-04-30","","Utah Jazz",85,"Seattle SuperSonics",99,14429,""

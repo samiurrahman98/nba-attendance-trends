@@ -1,212 +1,212 @@
-Date,Visitor/Neutral,PTS_1,Home/Neutral,PTS_2,_1,_2,Attend.,Notes
-"Thu, Mar 1, 1990",Los Angeles Clippers,109,Charlotte Hornets,118,Box Score,OT,"23,901",
-"Thu, Mar 1, 1990",Cleveland Cavaliers,125,Denver Nuggets,131,Box Score,,"11,816",
-"Thu, Mar 1, 1990",Phoenix Suns,104,Houston Rockets,112,Box Score,,"14,705",
-"Thu, Mar 1, 1990",Philadelphia 76ers,105,New York Knicks,100,Box Score,,"18,212",
-"Thu, Mar 1, 1990",Sacramento Kings,114,Orlando Magic,100,Box Score,,"15,077",
-"Thu, Mar 1, 1990",Portland Trail Blazers,102,Utah Jazz,119,Box Score,,"12,616",
-"Thu, Mar 1, 1990",Detroit Pistons,99,Washington Bullets,85,Box Score,,"18,956",
-"Fri, Mar 2, 1990",Milwaukee Bucks,110,Atlanta Hawks,132,Box Score,,"16,096",
-"Fri, Mar 2, 1990",New Jersey Nets,91,Chicago Bulls,112,Box Score,,"19,077",
-"Fri, Mar 2, 1990",Phoenix Suns,102,Dallas Mavericks,108,Box Score,,"17,007",
-"Fri, Mar 2, 1990",Philadelphia 76ers,112,Detroit Pistons,115,Box Score,OT,"21,454",
-"Fri, Mar 2, 1990",Cleveland Cavaliers,93,Los Angeles Lakers,124,Box Score,,"17,505",
-"Fri, Mar 2, 1990",Boston Celtics,122,Miami Heat,110,Box Score,,"15,008",
-"Fri, Mar 2, 1990",Golden State Warriors,115,San Antonio Spurs,131,Box Score,,"15,910",
-"Fri, Mar 2, 1990",Minnesota Timberwolves,83,Seattle SuperSonics,99,Box Score,,"11,272",
-"Sat, Mar 3, 1990",Sacramento Kings,104,Charlotte Hornets,103,Box Score,,"23,901",
-"Sat, Mar 3, 1990",Dallas Mavericks,89,Denver Nuggets,106,Box Score,,"12,207",
-"Sat, Mar 3, 1990",Golden State Warriors,109,Houston Rockets,129,Box Score,,"16,611",
-"Sat, Mar 3, 1990",Los Angeles Clippers,107,Indiana Pacers,105,Box Score,,"12,823",
-"Sat, Mar 3, 1990",New York Knicks,106,Milwaukee Bucks,105,Box Score,,"18,633",
-"Sat, Mar 3, 1990",Atlanta Hawks,109,New Jersey Nets,114,Box Score,,"19,302",
-"Sat, Mar 3, 1990",Washington Bullets,132,Orlando Magic,128,Box Score,2OT,"15,077",
-"Sat, Mar 3, 1990",Seattle SuperSonics,98,Portland Trail Blazers,110,Box Score,,"12,884",
-"Sat, Mar 3, 1990",San Antonio Spurs,98,Utah Jazz,112,Box Score,,"12,616",
-"Sun, Mar 4, 1990",Chicago Bulls,118,Boston Celtics,114,Box Score,,"14,890",
-"Sun, Mar 4, 1990",Indiana Pacers,105,Detroit Pistons,111,Box Score,,"21,454",
-"Sun, Mar 4, 1990",Minnesota Timberwolves,96,Los Angeles Lakers,115,Box Score,,"17,505",
-"Sun, Mar 4, 1990",Cleveland Cavaliers,96,Phoenix Suns,108,Box Score,,"47,487",
-"Mon, Mar 5, 1990",Charlotte Hornets,117,Golden State Warriors,138,Box Score,,"15,025",
-"Mon, Mar 5, 1990",Utah Jazz,104,Miami Heat,105,Box Score,,"15,008",
-"Mon, Mar 5, 1990",Sacramento Kings,111,New Jersey Nets,128,Box Score,,"7,860",
-"Mon, Mar 5, 1990",Los Angeles Clippers,105,Philadelphia 76ers,128,Box Score,,"12,454",
-"Mon, Mar 5, 1990",Houston Rockets,109,San Antonio Spurs,105,Box Score,,"15,345",
-"Tue, Mar 6, 1990",Phoenix Suns,113,Atlanta Hawks,111,Box Score,,"13,049",
-"Tue, Mar 6, 1990",Charlotte Hornets,96,Denver Nuggets,122,Box Score,,"7,712",
-"Tue, Mar 6, 1990",Sacramento Kings,91,Detroit Pistons,101,Box Score,,"21,454",
-"Tue, Mar 6, 1990",Los Angeles Lakers,95,Houston Rockets,112,Box Score,,"16,611",
-"Tue, Mar 6, 1990",Washington Bullets,98,Indiana Pacers,113,Box Score,,"9,386",
-"Tue, Mar 6, 1990",Chicago Bulls,114,Milwaukee Bucks,105,Box Score,,"18,633",
-"Tue, Mar 6, 1990",Portland Trail Blazers,112,New York Knicks,100,Box Score,,"18,212",
-"Tue, Mar 6, 1990",Utah Jazz,111,Orlando Magic,101,Box Score,,"15,077",
-"Tue, Mar 6, 1990",Cleveland Cavaliers,90,Seattle SuperSonics,95,Box Score,,"12,019",
-"Wed, Mar 7, 1990",Portland Trail Blazers,130,Boston Celtics,117,Box Score,,"14,890",
-"Wed, Mar 7, 1990",Los Angeles Lakers,103,Dallas Mavericks,91,Box Score,,"17,007",
-"Wed, Mar 7, 1990",Orlando Magic,105,Miami Heat,122,Box Score,,"15,008",
-"Wed, Mar 7, 1990",Denver Nuggets,86,Minnesota Timberwolves,73,Box Score,,"18,947",
-"Wed, Mar 7, 1990",Los Angeles Clippers,119,New Jersey Nets,115,Box Score,,"7,985",
-"Wed, Mar 7, 1990",New York Knicks,93,Philadelphia 76ers,110,Box Score,,"18,168",
-"Wed, Mar 7, 1990",Phoenix Suns,113,Washington Bullets,111,Box Score,,"7,810",
-"Thu, Mar 8, 1990",Utah Jazz,98,Chicago Bulls,94,Box Score,,"18,332",
-"Thu, Mar 8, 1990",Cleveland Cavaliers,105,Golden State Warriors,145,Box Score,,"15,025",
-"Thu, Mar 8, 1990",Seattle SuperSonics,97,Houston Rockets,111,Box Score,,"16,611",
-"Thu, Mar 8, 1990",Los Angeles Clippers,94,Minnesota Timberwolves,111,Box Score,,"21,632",
-"Thu, Mar 8, 1990",Charlotte Hornets,102,Sacramento Kings,111,Box Score,,"17,014",
-"Fri, Mar 9, 1990",Seattle SuperSonics,97,Atlanta Hawks,107,Box Score,,"14,625",
-"Fri, Mar 9, 1990",Washington Bullets,115,Boston Celtics,108,Box Score,,"15,239","at Hartford, CT"
-"Fri, Mar 9, 1990",Phoenix Suns,134,Indiana Pacers,130,Box Score,,"10,960",
-"Fri, Mar 9, 1990",Golden State Warriors,115,Los Angeles Lakers,131,Box Score,,"17,505",
-"Fri, Mar 9, 1990",Utah Jazz,108,Milwaukee Bucks,100,Box Score,,"18,633",
-"Fri, Mar 9, 1990",Detroit Pistons,99,New Jersey Nets,95,Box Score,,"18,702",
-"Fri, Mar 9, 1990",Portland Trail Blazers,104,Philadelphia 76ers,100,Box Score,,"18,168",
-"Sat, Mar 10, 1990",Indiana Pacers,105,Chicago Bulls,117,Box Score,,"18,676",
-"Sat, Mar 10, 1990",Dallas Mavericks,95,Houston Rockets,105,Box Score,,"16,611",
-"Sat, Mar 10, 1990",Orlando Magic,101,Los Angeles Clippers,112,Box Score,,"11,476",
-"Sat, Mar 10, 1990",Phoenix Suns,101,Minnesota Timberwolves,98,Box Score,OT,"30,168",
-"Sat, Mar 10, 1990",New Jersey Nets,91,New York Knicks,110,Box Score,,"18,212",
-"Sat, Mar 10, 1990",Denver Nuggets,111,San Antonio Spurs,118,Box Score,,"15,910",
-"Sat, Mar 10, 1990",Portland Trail Blazers,116,Washington Bullets,113,Box Score,,"14,311",
-"Sun, Mar 11, 1990",Los Angeles Lakers,123,Atlanta Hawks,115,Box Score,,"16,371",
-"Sun, Mar 11, 1990",Philadelphia 76ers,105,Boston Celtics,107,Box Score,,"14,890",
-"Sun, Mar 11, 1990",Detroit Pistons,98,Charlotte Hornets,88,Box Score,,"23,901",
-"Sun, Mar 11, 1990",Utah Jazz,110,Denver Nuggets,109,Box Score,,"14,050",
-"Sun, Mar 11, 1990",Sacramento Kings,116,Golden State Warriors,123,Box Score,,"15,025",
-"Sun, Mar 11, 1990",New York Knicks,106,Miami Heat,90,Box Score,,"15,008",
-"Sun, Mar 11, 1990",Cleveland Cavaliers,107,Milwaukee Bucks,96,Box Score,,"17,474",
-"Mon, Mar 12, 1990",Los Angeles Lakers,107,Charlotte Hornets,102,Box Score,,"23,901",
-"Mon, Mar 12, 1990",Golden State Warriors,112,Los Angeles Clippers,109,Box Score,,"12,847",
-"Mon, Mar 12, 1990",San Antonio Spurs,92,Minnesota Timberwolves,88,Box Score,,"19,834",
-"Mon, Mar 12, 1990",Milwaukee Bucks,109,New Jersey Nets,104,Box Score,,"7,146",
-"Mon, Mar 12, 1990",Orlando Magic,105,Seattle SuperSonics,130,Box Score,,"10,178",
-"Tue, Mar 13, 1990",Boston Celtics,112,Atlanta Hawks,100,Box Score,,"16,371",
-"Tue, Mar 13, 1990",Philadelphia 76ers,102,Cleveland Cavaliers,119,Box Score,,"17,320",
-"Tue, Mar 13, 1990",Houston Rockets,114,Denver Nuggets,117,Box Score,,"12,727",
-"Tue, Mar 13, 1990",San Antonio Spurs,103,Indiana Pacers,102,Box Score,,"11,659",
-"Tue, Mar 13, 1990",Chicago Bulls,111,New York Knicks,108,Box Score,,"18,212",
-"Tue, Mar 13, 1990",Orlando Magic,117,Portland Trail Blazers,142,Box Score,,"12,884",
-"Tue, Mar 13, 1990",Miami Heat,87,Sacramento Kings,121,Box Score,,"17,014",
-"Tue, Mar 13, 1990",Phoenix Suns,114,Utah Jazz,106,Box Score,,"12,616",
-"Wed, Mar 14, 1990",Boston Celtics,102,Dallas Mavericks,113,Box Score,,"17,007",
-"Wed, Mar 14, 1990",Miami Heat,113,Los Angeles Clippers,108,Box Score,OT,"9,388",
-"Wed, Mar 14, 1990",Los Angeles Lakers,110,Philadelphia 76ers,116,Box Score,,"18,168",
-"Wed, Mar 14, 1990",Denver Nuggets,108,Phoenix Suns,138,Box Score,,"14,487",
-"Wed, Mar 14, 1990",Charlotte Hornets,100,Seattle SuperSonics,103,Box Score,,"8,115",
-"Thu, Mar 15, 1990",Los Angeles Lakers,96,Cleveland Cavaliers,112,Box Score,,"20,273",
-"Thu, Mar 15, 1990",San Antonio Spurs,98,Detroit Pistons,110,Box Score,,"21,454",
-"Thu, Mar 15, 1990",Portland Trail Blazers,128,Golden State Warriors,121,Box Score,,"15,025",
-"Thu, Mar 15, 1990",Washington Bullets,91,Milwaukee Bucks,96,Box Score,,"14,602",
-"Thu, Mar 15, 1990",New York Knicks,82,Minnesota Timberwolves,102,Box Score,,"25,870",
-"Thu, Mar 15, 1990",Houston Rockets,92,Sacramento Kings,86,Box Score,,"17,014",
-"Thu, Mar 15, 1990",Seattle SuperSonics,95,Utah Jazz,117,Box Score,,"12,616",
-"Fri, Mar 16, 1990",Detroit Pistons,106,Chicago Bulls,81,Box Score,,"18,676",
-"Fri, Mar 16, 1990",Denver Nuggets,97,Dallas Mavericks,104,Box Score,,"17,007",
-"Fri, Mar 16, 1990",Atlanta Hawks,106,Indiana Pacers,104,Box Score,OT,"13,630",
-"Fri, Mar 16, 1990",Houston Rockets,95,Los Angeles Clippers,118,Box Score,,"12,196",
-"Fri, Mar 16, 1990",Boston Celtics,130,Orlando Magic,127,Box Score,,"15,077",
-"Fri, Mar 16, 1990",New Jersey Nets,110,Philadelphia 76ers,119,Box Score,,"13,896",
-"Fri, Mar 16, 1990",Miami Heat,103,Phoenix Suns,129,Box Score,,"14,487",
-"Fri, Mar 16, 1990",Charlotte Hornets,109,Portland Trail Blazers,124,Box Score,,"12,844",
-"Sat, Mar 17, 1990",Philadelphia 76ers,109,Chicago Bulls,114,Box Score,,"18,676",
-"Sat, Mar 17, 1990",Indiana Pacers,102,Cleveland Cavaliers,118,Box Score,,"19,231",
-"Sat, Mar 17, 1990",Los Angeles Lakers,101,Minnesota Timberwolves,99,Box Score,,"43,606",
-"Sat, Mar 17, 1990",Milwaukee Bucks,123,New York Knicks,111,Box Score,,"18,212",
-"Sat, Mar 17, 1990",Utah Jazz,109,Sacramento Kings,122,Box Score,OT,"17,014",
-"Sat, Mar 17, 1990",Miami Heat,98,San Antonio Spurs,111,Box Score,,"15,910",
-"Sat, Mar 17, 1990",Atlanta Hawks,119,Washington Bullets,92,Box Score,,"12,055","at Baltimore, MD"
-"Sun, Mar 18, 1990",New Jersey Nets,106,Boston Celtics,122,Box Score,,"14,890",
-"Sun, Mar 18, 1990",Minnesota Timberwolves,98,Denver Nuggets,103,Box Score,,"11,864",
-"Sun, Mar 18, 1990",Dallas Mavericks,84,Detroit Pistons,114,Box Score,,"21,454",
-"Sun, Mar 18, 1990",Seattle SuperSonics,121,Golden State Warriors,116,Box Score,,"15,025",
-"Sun, Mar 18, 1990",Charlotte Hornets,108,Los Angeles Clippers,97,Box Score,,"10,890",
-"Sun, Mar 18, 1990",Cleveland Cavaliers,120,Orlando Magic,103,Box Score,,"15,077",
-"Sun, Mar 18, 1990",Houston Rockets,96,Portland Trail Blazers,109,Box Score,,"12,884",
-"Mon, Mar 19, 1990",Dallas Mavericks,117,Atlanta Hawks,110,Box Score,,"12,357",
-"Mon, Mar 19, 1990",Philadelphia 76ers,108,New Jersey Nets,94,Box Score,,"12,601",
-"Mon, Mar 19, 1990",San Antonio Spurs,113,Phoenix Suns,102,Box Score,,"14,487",
-"Mon, Mar 19, 1990",Sacramento Kings,97,Utah Jazz,105,Box Score,,"12,616",
-"Tue, Mar 20, 1990",Washington Bullets,97,Chicago Bulls,122,Box Score,,"18,373",
-"Tue, Mar 20, 1990",Los Angeles Clippers,112,Denver Nuggets,119,Box Score,,"9,652",
-"Tue, Mar 20, 1990",Minnesota Timberwolves,101,Golden State Warriors,105,Box Score,,"15,025",
-"Tue, Mar 20, 1990",Portland Trail Blazers,120,Houston Rockets,110,Box Score,,"16,063",
-"Tue, Mar 20, 1990",Charlotte Hornets,97,Los Angeles Lakers,109,Box Score,,"17,505",
-"Tue, Mar 20, 1990",Indiana Pacers,112,Miami Heat,98,Box Score,,"15,008",
-"Tue, Mar 20, 1990",Detroit Pistons,117,Milwaukee Bucks,96,Box Score,,"17,053",
-"Tue, Mar 20, 1990",Orlando Magic,121,New York Knicks,118,Box Score,,"18,059",
-"Tue, Mar 20, 1990",San Antonio Spurs,128,Seattle SuperSonics,106,Box Score,,"14,541",
-"Wed, Mar 21, 1990",Chicago Bulls,99,Atlanta Hawks,89,Box Score,,"16,371",
-"Wed, Mar 21, 1990",Cleveland Cavaliers,114,Boston Celtics,123,Box Score,,"14,890",
-"Wed, Mar 21, 1990",Milwaukee Bucks,96,Indiana Pacers,112,Box Score,,"9,350",
-"Wed, Mar 21, 1990",Miami Heat,97,Philadelphia 76ers,118,Box Score,,"12,644",
-"Wed, Mar 21, 1990",Charlotte Hornets,115,Phoenix Suns,114,Box Score,OT,"14,487",
-"Wed, Mar 21, 1990",Minnesota Timberwolves,84,Sacramento Kings,90,Box Score,,"17,014",
-"Wed, Mar 21, 1990",Los Angeles Clippers,102,Utah Jazz,118,Box Score,,"12,616",
-"Wed, Mar 21, 1990",New Jersey Nets,106,Washington Bullets,136,Box Score,,"5,843",
-"Thu, Mar 22, 1990",Detroit Pistons,110,Houston Rockets,115,Box Score,,"16,611",
-"Thu, Mar 22, 1990",Dallas Mavericks,116,Orlando Magic,106,Box Score,,"15,077",
-"Thu, Mar 22, 1990",Portland Trail Blazers,106,San Antonio Spurs,107,Box Score,,"15,561",
-"Thu, Mar 22, 1990",Denver Nuggets,118,Seattle SuperSonics,125,Box Score,,"9,830",
-"Fri, Mar 23, 1990",Atlanta Hawks,98,Boston Celtics,101,Box Score,,"14,890",
-"Fri, Mar 23, 1990",New York Knicks,93,Charlotte Hornets,106,Box Score,,"23,901",
-"Fri, Mar 23, 1990",Cleveland Cavaliers,95,Chicago Bulls,102,Box Score,,"18,584",
-"Fri, Mar 23, 1990",New Jersey Nets,109,Indiana Pacers,125,Box Score,,"10,939",
-"Fri, Mar 23, 1990",Los Angeles Clippers,102,Los Angeles Lakers,110,Box Score,,"17,505",
-"Fri, Mar 23, 1990",Dallas Mavericks,106,Miami Heat,103,Box Score,,"15,008",
-"Fri, Mar 23, 1990",Sacramento Kings,99,Philadelphia 76ers,115,Box Score,,"13,169",
-"Fri, Mar 23, 1990",Minnesota Timberwolves,99,Phoenix Suns,120,Box Score,,"14,487",
-"Fri, Mar 23, 1990",Golden State Warriors,91,Utah Jazz,106,Box Score,,"12,616",
-"Sat, Mar 24, 1990",Charlotte Hornets,109,Atlanta Hawks,122,Box Score,,"16,371",
-"Sat, Mar 24, 1990",Sacramento Kings,116,Chicago Bulls,113,Box Score,,"18,334",
-"Sat, Mar 24, 1990",New Jersey Nets,108,Cleveland Cavaliers,115,Box Score,,"19,226",
-"Sat, Mar 24, 1990",Portland Trail Blazers,140,Denver Nuggets,126,Box Score,,"16,174",
-"Sat, Mar 24, 1990",Golden State Warriors,102,Houston Rockets,97,Box Score,,"16,611",
-"Sat, Mar 24, 1990",Utah Jazz,112,Los Angeles Clippers,79,Box Score,,"14,232",
-"Sat, Mar 24, 1990",Boston Celtics,115,New York Knicks,110,Box Score,,"18,212",
-"Sat, Mar 24, 1990",Milwaukee Bucks,109,Orlando Magic,101,Box Score,,"15,077",
-"Sat, Mar 24, 1990",Seattle SuperSonics,95,Phoenix Suns,121,Box Score,,"14,487",
-"Sat, Mar 24, 1990",Detroit Pistons,98,San Antonio Spurs,105,Box Score,,"15,910",
-"Sat, Mar 24, 1990",Philadelphia 76ers,114,Washington Bullets,112,Box Score,OT,"17,855",
-"Sun, Mar 25, 1990",Detroit Pistons,96,Dallas Mavericks,98,Box Score,OT,"17,007",
-"Sun, Mar 25, 1990",Seattle SuperSonics,94,Los Angeles Lakers,116,Box Score,,"17,505",
-"Sun, Mar 25, 1990",Milwaukee Bucks,102,Miami Heat,105,Box Score,,"15,008",
-"Sun, Mar 25, 1990",Minnesota Timberwolves,110,Portland Trail Blazers,105,Box Score,,"12,884",
-"Mon, Mar 26, 1990",Denver Nuggets,102,Atlanta Hawks,113,Box Score,,"13,054",
-"Mon, Mar 26, 1990",New Jersey Nets,83,Charlotte Hornets,97,Box Score,,"23,901",
-"Mon, Mar 26, 1990",Phoenix Suns,92,Chicago Bulls,121,Box Score,,"17,884",
-"Mon, Mar 26, 1990",Sacramento Kings,95,Cleveland Cavaliers,116,Box Score,,"13,548",
-"Mon, Mar 26, 1990",San Antonio Spurs,95,Houston Rockets,113,Box Score,,"16,611",
-"Mon, Mar 26, 1990",Minnesota Timberwolves,96,Los Angeles Clippers,101,Box Score,OT,"9,529",
-"Tue, Mar 27, 1990",Golden State Warriors,108,Dallas Mavericks,118,Box Score,,"17,007",
-"Tue, Mar 27, 1990",Boston Celtics,96,Indiana Pacers,101,Box Score,,"16,912",
-"Tue, Mar 27, 1990",Phoenix Suns,127,Milwaukee Bucks,133,Box Score,,"15,493",
-"Tue, Mar 27, 1990",Washington Bullets,100,New York Knicks,119,Box Score,,"18,212",
-"Tue, Mar 27, 1990",Los Angeles Lakers,111,Portland Trail Blazers,130,Box Score,,"12,884",
-"Tue, Mar 27, 1990",Seattle SuperSonics,103,San Antonio Spurs,115,Box Score,,"14,345",
-"Wed, Mar 28, 1990",Chicago Bulls,117,Cleveland Cavaliers,113,Box Score,OT,"20,273",
-"Wed, Mar 28, 1990",Charlotte Hornets,97,Detroit Pistons,106,Box Score,,"21,454",
-"Wed, Mar 28, 1990",Los Angeles Lakers,106,Los Angeles Clippers,99,Box Score,,"15,350",
-"Wed, Mar 28, 1990",Sacramento Kings,88,Minnesota Timberwolves,93,Box Score,,"22,713",
-"Wed, Mar 28, 1990",New York Knicks,101,New Jersey Nets,106,Box Score,,"18,438",
-"Wed, Mar 28, 1990",Miami Heat,109,Orlando Magic,104,Box Score,,"15,077",
-"Wed, Mar 28, 1990",Boston Celtics,104,Philadelphia 76ers,122,Box Score,,"18,168",
-"Wed, Mar 28, 1990",Denver Nuggets,99,Washington Bullets,113,Box Score,,"9,411",
-"Thu, Mar 29, 1990",Phoenix Suns,105,Charlotte Hornets,92,Box Score,,"23,901",
-"Thu, Mar 29, 1990",Utah Jazz,123,Golden State Warriors,128,Box Score,,"15,025",
-"Thu, Mar 29, 1990",Milwaukee Bucks,94,Houston Rockets,120,Box Score,,"15,088",
-"Thu, Mar 29, 1990",Sacramento Kings,101,Indiana Pacers,111,Box Score,,"10,305",
-"Thu, Mar 29, 1990",Atlanta Hawks,106,Portland Trail Blazers,112,Box Score,,"12,884",
-"Thu, Mar 29, 1990",Dallas Mavericks,109,San Antonio Spurs,105,Box Score,,"15,335",
-"Fri, Mar 30, 1990",Detroit Pistons,111,Boston Celtics,123,Box Score,,"14,890",
-"Fri, Mar 30, 1990",New York Knicks,106,Chicago Bulls,107,Box Score,OT,"18,676",
-"Fri, Mar 30, 1990",Minnesota Timberwolves,84,Dallas Mavericks,82,Box Score,,"17,007",
-"Fri, Mar 30, 1990",Atlanta Hawks,122,Los Angeles Clippers,118,Box Score,,"13,830",
-"Fri, Mar 30, 1990",Portland Trail Blazers,106,Los Angeles Lakers,135,Box Score,,"17,505",
-"Fri, Mar 30, 1990",Cleveland Cavaliers,105,Miami Heat,104,Box Score,,"15,008",
-"Fri, Mar 30, 1990",Phoenix Suns,126,New Jersey Nets,119,Box Score,,"13,328",
-"Fri, Mar 30, 1990",Denver Nuggets,131,Philadelphia 76ers,149,Box Score,,"17,803",
-"Fri, Mar 30, 1990",Golden State Warriors,108,Seattle SuperSonics,139,Box Score,,"13,542",
-"Fri, Mar 30, 1990",Orlando Magic,115,Washington Bullets,143,Box Score,,"6,636",
-"Sat, Mar 31, 1990",Minnesota Timberwolves,98,Houston Rockets,106,Box Score,,"16,155",
-"Sat, Mar 31, 1990",Denver Nuggets,118,New York Knicks,115,Box Score,,"18,146",
-"Sat, Mar 31, 1990",Charlotte Hornets,115,Sacramento Kings,103,Box Score,,"17,014",
-"Sat, Mar 31, 1990",Milwaukee Bucks,100,San Antonio Spurs,107,Box Score,,"15,910",
+"Date","Start (ET)","Visitor/Neutral","Visitor/Neutral PTS","Home/Neutral","Home/Neutral PTS","Attendance","Notes"
+"1990-03-01","","Los Angeles Clippers",109,"Charlotte Hornets",118,23901,""
+"1990-03-01","","Cleveland Cavaliers",125,"Denver Nuggets",131,11816,""
+"1990-03-01","","Phoenix Suns",104,"Houston Rockets",112,14705,""
+"1990-03-01","","Philadelphia 76ers",105,"New York Knicks",100,18212,""
+"1990-03-01","","Sacramento Kings",114,"Orlando Magic",100,15077,""
+"1990-03-01","","Portland Trail Blazers",102,"Utah Jazz",119,12616,""
+"1990-03-01","","Detroit Pistons",99,"Washington Bullets",85,18956,""
+"1990-03-02","","Milwaukee Bucks",110,"Atlanta Hawks",132,16096,""
+"1990-03-02","","New Jersey Nets",91,"Chicago Bulls",112,19077,""
+"1990-03-02","","Phoenix Suns",102,"Dallas Mavericks",108,17007,""
+"1990-03-02","","Philadelphia 76ers",112,"Detroit Pistons",115,21454,""
+"1990-03-02","","Cleveland Cavaliers",93,"Los Angeles Lakers",124,17505,""
+"1990-03-02","","Boston Celtics",122,"Miami Heat",110,15008,""
+"1990-03-02","","Golden State Warriors",115,"San Antonio Spurs",131,15910,""
+"1990-03-02","","Minnesota Timberwolves",83,"Seattle SuperSonics",99,11272,""
+"1990-03-03","","Sacramento Kings",104,"Charlotte Hornets",103,23901,""
+"1990-03-03","","Dallas Mavericks",89,"Denver Nuggets",106,12207,""
+"1990-03-03","","Golden State Warriors",109,"Houston Rockets",129,16611,""
+"1990-03-03","","Los Angeles Clippers",107,"Indiana Pacers",105,12823,""
+"1990-03-03","","New York Knicks",106,"Milwaukee Bucks",105,18633,""
+"1990-03-03","","Atlanta Hawks",109,"New Jersey Nets",114,19302,""
+"1990-03-03","","Washington Bullets",132,"Orlando Magic",128,15077,""
+"1990-03-03","","Seattle SuperSonics",98,"Portland Trail Blazers",110,12884,""
+"1990-03-03","","San Antonio Spurs",98,"Utah Jazz",112,12616,""
+"1990-03-04","","Chicago Bulls",118,"Boston Celtics",114,14890,""
+"1990-03-04","","Indiana Pacers",105,"Detroit Pistons",111,21454,""
+"1990-03-04","","Minnesota Timberwolves",96,"Los Angeles Lakers",115,17505,""
+"1990-03-04","","Cleveland Cavaliers",96,"Phoenix Suns",108,47487,""
+"1990-03-05","","Charlotte Hornets",117,"Golden State Warriors",138,15025,""
+"1990-03-05","","Utah Jazz",104,"Miami Heat",105,15008,""
+"1990-03-05","","Sacramento Kings",111,"New Jersey Nets",128,7860,""
+"1990-03-05","","Los Angeles Clippers",105,"Philadelphia 76ers",128,12454,""
+"1990-03-05","","Houston Rockets",109,"San Antonio Spurs",105,15345,""
+"1990-03-06","","Phoenix Suns",113,"Atlanta Hawks",111,13049,""
+"1990-03-06","","Charlotte Hornets",96,"Denver Nuggets",122,7712,""
+"1990-03-06","","Sacramento Kings",91,"Detroit Pistons",101,21454,""
+"1990-03-06","","Los Angeles Lakers",95,"Houston Rockets",112,16611,""
+"1990-03-06","","Washington Bullets",98,"Indiana Pacers",113,9386,""
+"1990-03-06","","Chicago Bulls",114,"Milwaukee Bucks",105,18633,""
+"1990-03-06","","Portland Trail Blazers",112,"New York Knicks",100,18212,""
+"1990-03-06","","Utah Jazz",111,"Orlando Magic",101,15077,""
+"1990-03-06","","Cleveland Cavaliers",90,"Seattle SuperSonics",95,12019,""
+"1990-03-07","","Portland Trail Blazers",130,"Boston Celtics",117,14890,""
+"1990-03-07","","Los Angeles Lakers",103,"Dallas Mavericks",91,17007,""
+"1990-03-07","","Orlando Magic",105,"Miami Heat",122,15008,""
+"1990-03-07","","Denver Nuggets",86,"Minnesota Timberwolves",73,18947,""
+"1990-03-07","","Los Angeles Clippers",119,"New Jersey Nets",115,7985,""
+"1990-03-07","","New York Knicks",93,"Philadelphia 76ers",110,18168,""
+"1990-03-07","","Phoenix Suns",113,"Washington Bullets",111,7810,""
+"1990-03-08","","Utah Jazz",98,"Chicago Bulls",94,18332,""
+"1990-03-08","","Cleveland Cavaliers",105,"Golden State Warriors",145,15025,""
+"1990-03-08","","Seattle SuperSonics",97,"Houston Rockets",111,16611,""
+"1990-03-08","","Los Angeles Clippers",94,"Minnesota Timberwolves",111,21632,""
+"1990-03-08","","Charlotte Hornets",102,"Sacramento Kings",111,17014,""
+"1990-03-09","","Seattle SuperSonics",97,"Atlanta Hawks",107,14625,""
+"1990-03-09","","Washington Bullets",115,"Boston Celtics",108,15239,"at Hartford, CT"
+"1990-03-09","","Phoenix Suns",134,"Indiana Pacers",130,10960,""
+"1990-03-09","","Golden State Warriors",115,"Los Angeles Lakers",131,17505,""
+"1990-03-09","","Utah Jazz",108,"Milwaukee Bucks",100,18633,""
+"1990-03-09","","Detroit Pistons",99,"New Jersey Nets",95,18702,""
+"1990-03-09","","Portland Trail Blazers",104,"Philadelphia 76ers",100,18168,""
+"1990-03-10","","Indiana Pacers",105,"Chicago Bulls",117,18676,""
+"1990-03-10","","Dallas Mavericks",95,"Houston Rockets",105,16611,""
+"1990-03-10","","Orlando Magic",101,"Los Angeles Clippers",112,11476,""
+"1990-03-10","","Phoenix Suns",101,"Minnesota Timberwolves",98,30168,""
+"1990-03-10","","New Jersey Nets",91,"New York Knicks",110,18212,""
+"1990-03-10","","Denver Nuggets",111,"San Antonio Spurs",118,15910,""
+"1990-03-10","","Portland Trail Blazers",116,"Washington Bullets",113,14311,""
+"1990-03-11","","Los Angeles Lakers",123,"Atlanta Hawks",115,16371,""
+"1990-03-11","","Philadelphia 76ers",105,"Boston Celtics",107,14890,""
+"1990-03-11","","Detroit Pistons",98,"Charlotte Hornets",88,23901,""
+"1990-03-11","","Utah Jazz",110,"Denver Nuggets",109,14050,""
+"1990-03-11","","Sacramento Kings",116,"Golden State Warriors",123,15025,""
+"1990-03-11","","New York Knicks",106,"Miami Heat",90,15008,""
+"1990-03-11","","Cleveland Cavaliers",107,"Milwaukee Bucks",96,17474,""
+"1990-03-12","","Los Angeles Lakers",107,"Charlotte Hornets",102,23901,""
+"1990-03-12","","Golden State Warriors",112,"Los Angeles Clippers",109,12847,""
+"1990-03-12","","San Antonio Spurs",92,"Minnesota Timberwolves",88,19834,""
+"1990-03-12","","Milwaukee Bucks",109,"New Jersey Nets",104,7146,""
+"1990-03-12","","Orlando Magic",105,"Seattle SuperSonics",130,10178,""
+"1990-03-13","","Boston Celtics",112,"Atlanta Hawks",100,16371,""
+"1990-03-13","","Philadelphia 76ers",102,"Cleveland Cavaliers",119,17320,""
+"1990-03-13","","Houston Rockets",114,"Denver Nuggets",117,12727,""
+"1990-03-13","","San Antonio Spurs",103,"Indiana Pacers",102,11659,""
+"1990-03-13","","Chicago Bulls",111,"New York Knicks",108,18212,""
+"1990-03-13","","Orlando Magic",117,"Portland Trail Blazers",142,12884,""
+"1990-03-13","","Miami Heat",87,"Sacramento Kings",121,17014,""
+"1990-03-13","","Phoenix Suns",114,"Utah Jazz",106,12616,""
+"1990-03-14","","Boston Celtics",102,"Dallas Mavericks",113,17007,""
+"1990-03-14","","Miami Heat",113,"Los Angeles Clippers",108,9388,""
+"1990-03-14","","Los Angeles Lakers",110,"Philadelphia 76ers",116,18168,""
+"1990-03-14","","Denver Nuggets",108,"Phoenix Suns",138,14487,""
+"1990-03-14","","Charlotte Hornets",100,"Seattle SuperSonics",103,8115,""
+"1990-03-15","","Los Angeles Lakers",96,"Cleveland Cavaliers",112,20273,""
+"1990-03-15","","San Antonio Spurs",98,"Detroit Pistons",110,21454,""
+"1990-03-15","","Portland Trail Blazers",128,"Golden State Warriors",121,15025,""
+"1990-03-15","","Washington Bullets",91,"Milwaukee Bucks",96,14602,""
+"1990-03-15","","New York Knicks",82,"Minnesota Timberwolves",102,25870,""
+"1990-03-15","","Houston Rockets",92,"Sacramento Kings",86,17014,""
+"1990-03-15","","Seattle SuperSonics",95,"Utah Jazz",117,12616,""
+"1990-03-16","","Detroit Pistons",106,"Chicago Bulls",81,18676,""
+"1990-03-16","","Denver Nuggets",97,"Dallas Mavericks",104,17007,""
+"1990-03-16","","Atlanta Hawks",106,"Indiana Pacers",104,13630,""
+"1990-03-16","","Houston Rockets",95,"Los Angeles Clippers",118,12196,""
+"1990-03-16","","Boston Celtics",130,"Orlando Magic",127,15077,""
+"1990-03-16","","New Jersey Nets",110,"Philadelphia 76ers",119,13896,""
+"1990-03-16","","Miami Heat",103,"Phoenix Suns",129,14487,""
+"1990-03-16","","Charlotte Hornets",109,"Portland Trail Blazers",124,12844,""
+"1990-03-17","","Philadelphia 76ers",109,"Chicago Bulls",114,18676,""
+"1990-03-17","","Indiana Pacers",102,"Cleveland Cavaliers",118,19231,""
+"1990-03-17","","Los Angeles Lakers",101,"Minnesota Timberwolves",99,43606,""
+"1990-03-17","","Milwaukee Bucks",123,"New York Knicks",111,18212,""
+"1990-03-17","","Utah Jazz",109,"Sacramento Kings",122,17014,""
+"1990-03-17","","Miami Heat",98,"San Antonio Spurs",111,15910,""
+"1990-03-17","","Atlanta Hawks",119,"Washington Bullets",92,12055,"at Baltimore, MD"
+"1990-03-18","","New Jersey Nets",106,"Boston Celtics",122,14890,""
+"1990-03-18","","Minnesota Timberwolves",98,"Denver Nuggets",103,11864,""
+"1990-03-18","","Dallas Mavericks",84,"Detroit Pistons",114,21454,""
+"1990-03-18","","Seattle SuperSonics",121,"Golden State Warriors",116,15025,""
+"1990-03-18","","Charlotte Hornets",108,"Los Angeles Clippers",97,10890,""
+"1990-03-18","","Cleveland Cavaliers",120,"Orlando Magic",103,15077,""
+"1990-03-18","","Houston Rockets",96,"Portland Trail Blazers",109,12884,""
+"1990-03-19","","Dallas Mavericks",117,"Atlanta Hawks",110,12357,""
+"1990-03-19","","Philadelphia 76ers",108,"New Jersey Nets",94,12601,""
+"1990-03-19","","San Antonio Spurs",113,"Phoenix Suns",102,14487,""
+"1990-03-19","","Sacramento Kings",97,"Utah Jazz",105,12616,""
+"1990-03-20","","Washington Bullets",97,"Chicago Bulls",122,18373,""
+"1990-03-20","","Los Angeles Clippers",112,"Denver Nuggets",119,9652,""
+"1990-03-20","","Minnesota Timberwolves",101,"Golden State Warriors",105,15025,""
+"1990-03-20","","Portland Trail Blazers",120,"Houston Rockets",110,16063,""
+"1990-03-20","","Charlotte Hornets",97,"Los Angeles Lakers",109,17505,""
+"1990-03-20","","Indiana Pacers",112,"Miami Heat",98,15008,""
+"1990-03-20","","Detroit Pistons",117,"Milwaukee Bucks",96,17053,""
+"1990-03-20","","Orlando Magic",121,"New York Knicks",118,18059,""
+"1990-03-20","","San Antonio Spurs",128,"Seattle SuperSonics",106,14541,""
+"1990-03-21","","Chicago Bulls",99,"Atlanta Hawks",89,16371,""
+"1990-03-21","","Cleveland Cavaliers",114,"Boston Celtics",123,14890,""
+"1990-03-21","","Milwaukee Bucks",96,"Indiana Pacers",112,9350,""
+"1990-03-21","","Miami Heat",97,"Philadelphia 76ers",118,12644,""
+"1990-03-21","","Charlotte Hornets",115,"Phoenix Suns",114,14487,""
+"1990-03-21","","Minnesota Timberwolves",84,"Sacramento Kings",90,17014,""
+"1990-03-21","","Los Angeles Clippers",102,"Utah Jazz",118,12616,""
+"1990-03-21","","New Jersey Nets",106,"Washington Bullets",136,5843,""
+"1990-03-22","","Detroit Pistons",110,"Houston Rockets",115,16611,""
+"1990-03-22","","Dallas Mavericks",116,"Orlando Magic",106,15077,""
+"1990-03-22","","Portland Trail Blazers",106,"San Antonio Spurs",107,15561,""
+"1990-03-22","","Denver Nuggets",118,"Seattle SuperSonics",125,9830,""
+"1990-03-23","","Atlanta Hawks",98,"Boston Celtics",101,14890,""
+"1990-03-23","","New York Knicks",93,"Charlotte Hornets",106,23901,""
+"1990-03-23","","Cleveland Cavaliers",95,"Chicago Bulls",102,18584,""
+"1990-03-23","","New Jersey Nets",109,"Indiana Pacers",125,10939,""
+"1990-03-23","","Los Angeles Clippers",102,"Los Angeles Lakers",110,17505,""
+"1990-03-23","","Dallas Mavericks",106,"Miami Heat",103,15008,""
+"1990-03-23","","Sacramento Kings",99,"Philadelphia 76ers",115,13169,""
+"1990-03-23","","Minnesota Timberwolves",99,"Phoenix Suns",120,14487,""
+"1990-03-23","","Golden State Warriors",91,"Utah Jazz",106,12616,""
+"1990-03-24","","Charlotte Hornets",109,"Atlanta Hawks",122,16371,""
+"1990-03-24","","Sacramento Kings",116,"Chicago Bulls",113,18334,""
+"1990-03-24","","New Jersey Nets",108,"Cleveland Cavaliers",115,19226,""
+"1990-03-24","","Portland Trail Blazers",140,"Denver Nuggets",126,16174,""
+"1990-03-24","","Golden State Warriors",102,"Houston Rockets",97,16611,""
+"1990-03-24","","Utah Jazz",112,"Los Angeles Clippers",79,14232,""
+"1990-03-24","","Boston Celtics",115,"New York Knicks",110,18212,""
+"1990-03-24","","Milwaukee Bucks",109,"Orlando Magic",101,15077,""
+"1990-03-24","","Seattle SuperSonics",95,"Phoenix Suns",121,14487,""
+"1990-03-24","","Detroit Pistons",98,"San Antonio Spurs",105,15910,""
+"1990-03-24","","Philadelphia 76ers",114,"Washington Bullets",112,17855,""
+"1990-03-25","","Detroit Pistons",96,"Dallas Mavericks",98,17007,""
+"1990-03-25","","Seattle SuperSonics",94,"Los Angeles Lakers",116,17505,""
+"1990-03-25","","Milwaukee Bucks",102,"Miami Heat",105,15008,""
+"1990-03-25","","Minnesota Timberwolves",110,"Portland Trail Blazers",105,12884,""
+"1990-03-26","","Denver Nuggets",102,"Atlanta Hawks",113,13054,""
+"1990-03-26","","New Jersey Nets",83,"Charlotte Hornets",97,23901,""
+"1990-03-26","","Phoenix Suns",92,"Chicago Bulls",121,17884,""
+"1990-03-26","","Sacramento Kings",95,"Cleveland Cavaliers",116,13548,""
+"1990-03-26","","San Antonio Spurs",95,"Houston Rockets",113,16611,""
+"1990-03-26","","Minnesota Timberwolves",96,"Los Angeles Clippers",101,9529,""
+"1990-03-27","","Golden State Warriors",108,"Dallas Mavericks",118,17007,""
+"1990-03-27","","Boston Celtics",96,"Indiana Pacers",101,16912,""
+"1990-03-27","","Phoenix Suns",127,"Milwaukee Bucks",133,15493,""
+"1990-03-27","","Washington Bullets",100,"New York Knicks",119,18212,""
+"1990-03-27","","Los Angeles Lakers",111,"Portland Trail Blazers",130,12884,""
+"1990-03-27","","Seattle SuperSonics",103,"San Antonio Spurs",115,14345,""
+"1990-03-28","","Chicago Bulls",117,"Cleveland Cavaliers",113,20273,""
+"1990-03-28","","Charlotte Hornets",97,"Detroit Pistons",106,21454,""
+"1990-03-28","","Los Angeles Lakers",106,"Los Angeles Clippers",99,15350,""
+"1990-03-28","","Sacramento Kings",88,"Minnesota Timberwolves",93,22713,""
+"1990-03-28","","New York Knicks",101,"New Jersey Nets",106,18438,""
+"1990-03-28","","Miami Heat",109,"Orlando Magic",104,15077,""
+"1990-03-28","","Boston Celtics",104,"Philadelphia 76ers",122,18168,""
+"1990-03-28","","Denver Nuggets",99,"Washington Bullets",113,9411,""
+"1990-03-29","","Phoenix Suns",105,"Charlotte Hornets",92,23901,""
+"1990-03-29","","Utah Jazz",123,"Golden State Warriors",128,15025,""
+"1990-03-29","","Milwaukee Bucks",94,"Houston Rockets",120,15088,""
+"1990-03-29","","Sacramento Kings",101,"Indiana Pacers",111,10305,""
+"1990-03-29","","Atlanta Hawks",106,"Portland Trail Blazers",112,12884,""
+"1990-03-29","","Dallas Mavericks",109,"San Antonio Spurs",105,15335,""
+"1990-03-30","","Detroit Pistons",111,"Boston Celtics",123,14890,""
+"1990-03-30","","New York Knicks",106,"Chicago Bulls",107,18676,""
+"1990-03-30","","Minnesota Timberwolves",84,"Dallas Mavericks",82,17007,""
+"1990-03-30","","Atlanta Hawks",122,"Los Angeles Clippers",118,13830,""
+"1990-03-30","","Portland Trail Blazers",106,"Los Angeles Lakers",135,17505,""
+"1990-03-30","","Cleveland Cavaliers",105,"Miami Heat",104,15008,""
+"1990-03-30","","Phoenix Suns",126,"New Jersey Nets",119,13328,""
+"1990-03-30","","Denver Nuggets",131,"Philadelphia 76ers",149,17803,""
+"1990-03-30","","Golden State Warriors",108,"Seattle SuperSonics",139,13542,""
+"1990-03-30","","Orlando Magic",115,"Washington Bullets",143,6636,""
+"1990-03-31","","Minnesota Timberwolves",98,"Houston Rockets",106,16155,""
+"1990-03-31","","Denver Nuggets",118,"New York Knicks",115,18146,""
+"1990-03-31","","Charlotte Hornets",115,"Sacramento Kings",103,17014,""
+"1990-03-31","","Milwaukee Bucks",100,"San Antonio Spurs",107,15910,""

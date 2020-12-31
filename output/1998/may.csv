@@ -1,37 +1,37 @@
-Date,Visitor/Neutral,PTS_1,Home/Neutral,PTS_2,_1,_2,Attend.,Notes
-"Fri, May 1, 1998",Utah Jazz,93,Houston Rockets,71,Box Score,,"16,285",
-"Fri, May 1, 1998",Charlotte Hornets,91,Atlanta Hawks,82,Box Score,,"22,074",
-"Sat, May 2, 1998",Minnesota Timberwolves,84,Seattle SuperSonics,97,Box Score,,"17,072",
-"Sun, May 3, 1998",Charlotte Hornets,70,Chicago Bulls,83,Box Score,,"23,844",
-"Sun, May 3, 1998",New York Knicks,98,Miami Heat,81,Box Score,,"15,200",
-"Sun, May 3, 1998",Houston Rockets,70,Utah Jazz,84,Box Score,,"19,911",
-"Mon, May 4, 1998",Los Angeles Lakers,92,Seattle SuperSonics,106,Box Score,,"17,072",
-"Tue, May 5, 1998",New York Knicks,83,Indiana Pacers,93,Box Score,,"16,630",
-"Tue, May 5, 1998",San Antonio Spurs,82,Utah Jazz,83,Box Score,,"19,911",
-"Wed, May 6, 1998",Los Angeles Lakers,92,Seattle SuperSonics,68,Box Score,,"17,072",
-"Wed, May 6, 1998",Charlotte Hornets,78,Chicago Bulls,76,Box Score,,"23,844",
-"Thu, May 7, 1998",New York Knicks,77,Indiana Pacers,85,Box Score,,"16,765",
-"Thu, May 7, 1998",San Antonio Spurs,106,Utah Jazz,109,Box Score,OT,"19,911",
-"Fri, May 8, 1998",Chicago Bulls,103,Charlotte Hornets,89,Box Score,,"23,799",
-"Fri, May 8, 1998",Seattle SuperSonics,103,Los Angeles Lakers,119,Box Score,,"17,505",
-"Sat, May 9, 1998",Indiana Pacers,76,New York Knicks,83,Box Score,,"19,763",
-"Sat, May 9, 1998",Utah Jazz,64,San Antonio Spurs,86,Box Score,,"26,086",
-"Sun, May 10, 1998",Utah Jazz,82,San Antonio Spurs,73,Box Score,,"28,587",
-"Sun, May 10, 1998",Seattle SuperSonics,100,Los Angeles Lakers,112,Box Score,,"17,505",
-"Sun, May 10, 1998",Chicago Bulls,94,Charlotte Hornets,80,Box Score,,"23,799",
-"Sun, May 10, 1998",Indiana Pacers,118,New York Knicks,107,Box Score,OT,"19,763",
-"Tue, May 12, 1998",Los Angeles Lakers,110,Seattle SuperSonics,95,Box Score,,"17,072",
-"Tue, May 12, 1998",San Antonio Spurs,77,Utah Jazz,87,Box Score,,"19,911",
-"Wed, May 13, 1998",Charlotte Hornets,84,Chicago Bulls,93,Box Score,,"23,844",
-"Wed, May 13, 1998",New York Knicks,88,Indiana Pacers,99,Box Score,,"16,767",
-"Sat, May 16, 1998",Los Angeles Lakers,77,Utah Jazz,112,Box Score,,"19,911",
-"Sun, May 17, 1998",Indiana Pacers,79,Chicago Bulls,85,Box Score,,"23,844",
-"Mon, May 18, 1998",Los Angeles Lakers,95,Utah Jazz,99,Box Score,,"19,911",
-"Tue, May 19, 1998",Indiana Pacers,98,Chicago Bulls,104,Box Score,,"23,844",
-"Fri, May 22, 1998",Utah Jazz,109,Los Angeles Lakers,98,Box Score,,"17,505",
-"Sat, May 23, 1998",Chicago Bulls,105,Indiana Pacers,107,Box Score,,"16,576",
-"Sun, May 24, 1998",Utah Jazz,96,Los Angeles Lakers,92,Box Score,,"17,505",
-"Mon, May 25, 1998",Chicago Bulls,94,Indiana Pacers,96,Box Score,,"16,560",
-"Wed, May 27, 1998",Indiana Pacers,87,Chicago Bulls,106,Box Score,,"23,844",
-"Fri, May 29, 1998",Chicago Bulls,89,Indiana Pacers,92,Box Score,,"16,566",
-"Sun, May 31, 1998",Indiana Pacers,83,Chicago Bulls,88,Box Score,,"23,844",
+"Date","Start (ET)","Visitor/Neutral","Visitor/Neutral PTS","Home/Neutral","Home/Neutral PTS","Attendance","Notes"
+"1998-05-01","","Utah Jazz",93,"Houston Rockets",71,16285,""
+"1998-05-01","","Charlotte Hornets",91,"Atlanta Hawks",82,22074,""
+"1998-05-02","","Minnesota Timberwolves",84,"Seattle SuperSonics",97,17072,""
+"1998-05-03","","Charlotte Hornets",70,"Chicago Bulls",83,23844,""
+"1998-05-03","","New York Knicks",98,"Miami Heat",81,15200,""
+"1998-05-03","","Houston Rockets",70,"Utah Jazz",84,19911,""
+"1998-05-04","","Los Angeles Lakers",92,"Seattle SuperSonics",106,17072,""
+"1998-05-05","","New York Knicks",83,"Indiana Pacers",93,16630,""
+"1998-05-05","","San Antonio Spurs",82,"Utah Jazz",83,19911,""
+"1998-05-06","","Los Angeles Lakers",92,"Seattle SuperSonics",68,17072,""
+"1998-05-06","","Charlotte Hornets",78,"Chicago Bulls",76,23844,""
+"1998-05-07","","New York Knicks",77,"Indiana Pacers",85,16765,""
+"1998-05-07","","San Antonio Spurs",106,"Utah Jazz",109,19911,""
+"1998-05-08","","Chicago Bulls",103,"Charlotte Hornets",89,23799,""
+"1998-05-08","","Seattle SuperSonics",103,"Los Angeles Lakers",119,17505,""
+"1998-05-09","","Indiana Pacers",76,"New York Knicks",83,19763,""
+"1998-05-09","","Utah Jazz",64,"San Antonio Spurs",86,26086,""
+"1998-05-10","","Utah Jazz",82,"San Antonio Spurs",73,28587,""
+"1998-05-10","","Seattle SuperSonics",100,"Los Angeles Lakers",112,17505,""
+"1998-05-10","","Chicago Bulls",94,"Charlotte Hornets",80,23799,""
+"1998-05-10","","Indiana Pacers",118,"New York Knicks",107,19763,""
+"1998-05-12","","Los Angeles Lakers",110,"Seattle SuperSonics",95,17072,""
+"1998-05-12","","San Antonio Spurs",77,"Utah Jazz",87,19911,""
+"1998-05-13","","Charlotte Hornets",84,"Chicago Bulls",93,23844,""
+"1998-05-13","","New York Knicks",88,"Indiana Pacers",99,16767,""
+"1998-05-16","","Los Angeles Lakers",77,"Utah Jazz",112,19911,""
+"1998-05-17","","Indiana Pacers",79,"Chicago Bulls",85,23844,""
+"1998-05-18","","Los Angeles Lakers",95,"Utah Jazz",99,19911,""
+"1998-05-19","","Indiana Pacers",98,"Chicago Bulls",104,23844,""
+"1998-05-22","","Utah Jazz",109,"Los Angeles Lakers",98,17505,""
+"1998-05-23","","Chicago Bulls",105,"Indiana Pacers",107,16576,""
+"1998-05-24","","Utah Jazz",96,"Los Angeles Lakers",92,17505,""
+"1998-05-25","","Chicago Bulls",94,"Indiana Pacers",96,16560,""
+"1998-05-27","","Indiana Pacers",87,"Chicago Bulls",106,23844,""
+"1998-05-29","","Chicago Bulls",89,"Indiana Pacers",92,16566,""
+"1998-05-31","","Indiana Pacers",83,"Chicago Bulls",88,23844,""

@@ -1,59 +1,59 @@
-Date,Visitor/Neutral,PTS_1,Home/Neutral,PTS_2,_1,_2,Attend.,Notes
-"Sun, May 1, 1988",New York Knicks,102,Boston Celtics,128,Box Score,,"14,890",
-"Sun, May 1, 1988",Milwaukee Bucks,97,Atlanta Hawks,104,Box Score,,"11,777",
-"Sun, May 1, 1988",San Antonio Spurs,112,Los Angeles Lakers,130,Box Score,,"17,505",
-"Sun, May 1, 1988",Cleveland Cavaliers,101,Chicago Bulls,106,Box Score,,"18,645",
-"Sun, May 1, 1988",Seattle SuperSonics,111,Denver Nuggets,91,Box Score,,"17,022",
-"Mon, May 2, 1988",Detroit Pistons,106,Washington Bullets,114,Box Score,OT,"9,673",
-"Tue, May 3, 1988",Chicago Bulls,102,Cleveland Cavaliers,110,Box Score,,"20,068",
-"Tue, May 3, 1988",Dallas Mavericks,93,Houston Rockets,92,Box Score,,"16,611",
-"Tue, May 3, 1988",Los Angeles Lakers,109,San Antonio Spurs,107,Box Score,,"11,542",
-"Tue, May 3, 1988",Denver Nuggets,125,Seattle SuperSonics,114,Box Score,,"14,250",
-"Wed, May 4, 1988",Atlanta Hawks,115,Milwaukee Bucks,123,Box Score,,"11,052",
-"Wed, May 4, 1988",Boston Celtics,100,New York Knicks,109,Box Score,,"19,591",
-"Wed, May 4, 1988",Portland Trail Blazers,108,Utah Jazz,113,Box Score,,"12,444",
-"Wed, May 4, 1988",Detroit Pistons,103,Washington Bullets,106,Box Score,,"10,513",
-"Thu, May 5, 1988",Denver Nuggets,117,Seattle SuperSonics,127,Box Score,,"14,250",
-"Thu, May 5, 1988",Dallas Mavericks,107,Houston Rockets,97,Box Score,,"16,611",
-"Thu, May 5, 1988",Chicago Bulls,91,Cleveland Cavaliers,97,Box Score,,"20,026",
-"Fri, May 6, 1988",Atlanta Hawks,99,Milwaukee Bucks,105,Box Score,,"11,052",
-"Fri, May 6, 1988",Boston Celtics,102,New York Knicks,94,Box Score,,"19,591",
-"Fri, May 6, 1988",Portland Trail Blazers,96,Utah Jazz,111,Box Score,,"12,444",
-"Sat, May 7, 1988",Seattle SuperSonics,96,Denver Nuggets,115,Box Score,,"16,040",
-"Sun, May 8, 1988",Milwaukee Bucks,111,Atlanta Hawks,121,Box Score,,"12,190",
-"Sun, May 8, 1988",Cleveland Cavaliers,101,Chicago Bulls,107,Box Score,,"18,008",
-"Sun, May 8, 1988",Washington Bullets,78,Detroit Pistons,99,Box Score,,"18,403",
-"Sun, May 8, 1988",Utah Jazz,91,Los Angeles Lakers,110,Box Score,,"17,505",
-"Tue, May 10, 1988",Dallas Mavericks,115,Denver Nuggets,126,Box Score,,"17,022",
-"Tue, May 10, 1988",Chicago Bulls,82,Detroit Pistons,93,Box Score,,"18,312",
-"Tue, May 10, 1988",Utah Jazz,101,Los Angeles Lakers,97,Box Score,,"17,505",
-"Wed, May 11, 1988",Atlanta Hawks,101,Boston Celtics,110,Box Score,,"14,890",
-"Thu, May 12, 1988",Dallas Mavericks,112,Denver Nuggets,108,Box Score,,"17,022",
-"Thu, May 12, 1988",Chicago Bulls,105,Detroit Pistons,95,Box Score,,"20,281",
-"Fri, May 13, 1988",Atlanta Hawks,97,Boston Celtics,108,Box Score,,"14,890",
-"Fri, May 13, 1988",Los Angeles Lakers,89,Utah Jazz,96,Box Score,,"12,444",
-"Sat, May 14, 1988",Detroit Pistons,101,Chicago Bulls,79,Box Score,,"18,676",
-"Sat, May 14, 1988",Denver Nuggets,107,Dallas Mavericks,105,Box Score,,"17,007",
-"Sun, May 15, 1988",Boston Celtics,92,Atlanta Hawks,110,Box Score,,"16,451",
-"Sun, May 15, 1988",Detroit Pistons,96,Chicago Bulls,77,Box Score,,"18,676",
-"Sun, May 15, 1988",Denver Nuggets,103,Dallas Mavericks,124,Box Score,,"17,007",
-"Sun, May 15, 1988",Los Angeles Lakers,113,Utah Jazz,100,Box Score,,"12,444",
-"Mon, May 16, 1988",Boston Celtics,109,Atlanta Hawks,118,Box Score,,"16,451",
-"Tue, May 17, 1988",Dallas Mavericks,110,Denver Nuggets,106,Box Score,,"17,022",
-"Tue, May 17, 1988",Utah Jazz,109,Los Angeles Lakers,111,Box Score,,"17,505",
-"Wed, May 18, 1988",Atlanta Hawks,112,Boston Celtics,104,Box Score,,"14,890",
-"Wed, May 18, 1988",Chicago Bulls,95,Detroit Pistons,102,Box Score,,"21,371",
-"Thu, May 19, 1988",Denver Nuggets,95,Dallas Mavericks,108,Box Score,,"17,007",
-"Thu, May 19, 1988",Los Angeles Lakers,80,Utah Jazz,108,Box Score,,"12,444",
-"Fri, May 20, 1988",Boston Celtics,102,Atlanta Hawks,100,Box Score,,"16,451",
-"Sat, May 21, 1988",Utah Jazz,98,Los Angeles Lakers,109,Box Score,,"17,505",
-"Sun, May 22, 1988",Atlanta Hawks,116,Boston Celtics,118,Box Score,,"14,890",
-"Mon, May 23, 1988",Dallas Mavericks,98,Los Angeles Lakers,113,Box Score,,"17,505",
-"Wed, May 25, 1988",Detroit Pistons,104,Boston Celtics,96,Box Score,,"14,890",
-"Wed, May 25, 1988",Dallas Mavericks,101,Los Angeles Lakers,123,Box Score,,"17,505",
-"Thu, May 26, 1988",Detroit Pistons,115,Boston Celtics,119,Box Score,2OT,"14,890",
-"Fri, May 27, 1988",Los Angeles Lakers,94,Dallas Mavericks,106,Box Score,,"17,007",
-"Sat, May 28, 1988",Boston Celtics,94,Detroit Pistons,98,Box Score,,"26,481",
-"Sun, May 29, 1988",Los Angeles Lakers,104,Dallas Mavericks,118,Box Score,,"17,007",
-"Mon, May 30, 1988",Boston Celtics,79,Detroit Pistons,78,Box Score,,"26,625",
-"Tue, May 31, 1988",Dallas Mavericks,102,Los Angeles Lakers,119,Box Score,,"17,505",
+"Date","Start (ET)","Visitor/Neutral","Visitor/Neutral PTS","Home/Neutral","Home/Neutral PTS","Attendance","Notes"
+"1988-05-01","","New York Knicks",102,"Boston Celtics",128,14890,""
+"1988-05-01","","Milwaukee Bucks",97,"Atlanta Hawks",104,11777,""
+"1988-05-01","","San Antonio Spurs",112,"Los Angeles Lakers",130,17505,""
+"1988-05-01","","Cleveland Cavaliers",101,"Chicago Bulls",106,18645,""
+"1988-05-01","","Seattle SuperSonics",111,"Denver Nuggets",91,17022,""
+"1988-05-02","","Detroit Pistons",106,"Washington Bullets",114,9673,""
+"1988-05-03","","Chicago Bulls",102,"Cleveland Cavaliers",110,20068,""
+"1988-05-03","","Dallas Mavericks",93,"Houston Rockets",92,16611,""
+"1988-05-03","","Los Angeles Lakers",109,"San Antonio Spurs",107,11542,""
+"1988-05-03","","Denver Nuggets",125,"Seattle SuperSonics",114,14250,""
+"1988-05-04","","Atlanta Hawks",115,"Milwaukee Bucks",123,11052,""
+"1988-05-04","","Boston Celtics",100,"New York Knicks",109,19591,""
+"1988-05-04","","Portland Trail Blazers",108,"Utah Jazz",113,12444,""
+"1988-05-04","","Detroit Pistons",103,"Washington Bullets",106,10513,""
+"1988-05-05","","Denver Nuggets",117,"Seattle SuperSonics",127,14250,""
+"1988-05-05","","Dallas Mavericks",107,"Houston Rockets",97,16611,""
+"1988-05-05","","Chicago Bulls",91,"Cleveland Cavaliers",97,20026,""
+"1988-05-06","","Atlanta Hawks",99,"Milwaukee Bucks",105,11052,""
+"1988-05-06","","Boston Celtics",102,"New York Knicks",94,19591,""
+"1988-05-06","","Portland Trail Blazers",96,"Utah Jazz",111,12444,""
+"1988-05-07","","Seattle SuperSonics",96,"Denver Nuggets",115,16040,""
+"1988-05-08","","Milwaukee Bucks",111,"Atlanta Hawks",121,12190,""
+"1988-05-08","","Cleveland Cavaliers",101,"Chicago Bulls",107,18008,""
+"1988-05-08","","Washington Bullets",78,"Detroit Pistons",99,18403,""
+"1988-05-08","","Utah Jazz",91,"Los Angeles Lakers",110,17505,""
+"1988-05-10","","Dallas Mavericks",115,"Denver Nuggets",126,17022,""
+"1988-05-10","","Chicago Bulls",82,"Detroit Pistons",93,18312,""
+"1988-05-10","","Utah Jazz",101,"Los Angeles Lakers",97,17505,""
+"1988-05-11","","Atlanta Hawks",101,"Boston Celtics",110,14890,""
+"1988-05-12","","Dallas Mavericks",112,"Denver Nuggets",108,17022,""
+"1988-05-12","","Chicago Bulls",105,"Detroit Pistons",95,20281,""
+"1988-05-13","","Atlanta Hawks",97,"Boston Celtics",108,14890,""
+"1988-05-13","","Los Angeles Lakers",89,"Utah Jazz",96,12444,""
+"1988-05-14","","Detroit Pistons",101,"Chicago Bulls",79,18676,""
+"1988-05-14","","Denver Nuggets",107,"Dallas Mavericks",105,17007,""
+"1988-05-15","","Boston Celtics",92,"Atlanta Hawks",110,16451,""
+"1988-05-15","","Detroit Pistons",96,"Chicago Bulls",77,18676,""
+"1988-05-15","","Denver Nuggets",103,"Dallas Mavericks",124,17007,""
+"1988-05-15","","Los Angeles Lakers",113,"Utah Jazz",100,12444,""
+"1988-05-16","","Boston Celtics",109,"Atlanta Hawks",118,16451,""
+"1988-05-17","","Dallas Mavericks",110,"Denver Nuggets",106,17022,""
+"1988-05-17","","Utah Jazz",109,"Los Angeles Lakers",111,17505,""
+"1988-05-18","","Atlanta Hawks",112,"Boston Celtics",104,14890,""
+"1988-05-18","","Chicago Bulls",95,"Detroit Pistons",102,21371,""
+"1988-05-19","","Denver Nuggets",95,"Dallas Mavericks",108,17007,""
+"1988-05-19","","Los Angeles Lakers",80,"Utah Jazz",108,12444,""
+"1988-05-20","","Boston Celtics",102,"Atlanta Hawks",100,16451,""
+"1988-05-21","","Utah Jazz",98,"Los Angeles Lakers",109,17505,""
+"1988-05-22","","Atlanta Hawks",116,"Boston Celtics",118,14890,""
+"1988-05-23","","Dallas Mavericks",98,"Los Angeles Lakers",113,17505,""
+"1988-05-25","","Detroit Pistons",104,"Boston Celtics",96,14890,""
+"1988-05-25","","Dallas Mavericks",101,"Los Angeles Lakers",123,17505,""
+"1988-05-26","","Detroit Pistons",115,"Boston Celtics",119,14890,""
+"1988-05-27","","Los Angeles Lakers",94,"Dallas Mavericks",106,17007,""
+"1988-05-28","","Boston Celtics",94,"Detroit Pistons",98,26481,""
+"1988-05-29","","Los Angeles Lakers",104,"Dallas Mavericks",118,17007,""
+"1988-05-30","","Boston Celtics",79,"Detroit Pistons",78,26625,""
+"1988-05-31","","Dallas Mavericks",102,"Los Angeles Lakers",119,17505,""

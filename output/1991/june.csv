@@ -1,6 +1,6 @@
-Date,Visitor/Neutral,PTS_1,Home/Neutral,PTS_2,_1,_2,Attend.,Notes
-"Sun, Jun 2, 1991",Los Angeles Lakers,93,Chicago Bulls,91,Box Score,,"18,676",
-"Wed, Jun 5, 1991",Los Angeles Lakers,86,Chicago Bulls,107,Box Score,,"18,676",
-"Fri, Jun 7, 1991",Chicago Bulls,104,Los Angeles Lakers,96,Box Score,OT,"17,506",
-"Sun, Jun 9, 1991",Chicago Bulls,97,Los Angeles Lakers,82,Box Score,,"17,506",
-"Wed, Jun 12, 1991",Chicago Bulls,108,Los Angeles Lakers,101,Box Score,,"17,506",
+"Date","Start (ET)","Visitor/Neutral","Visitor/Neutral PTS","Home/Neutral","Home/Neutral PTS","Attendance","Notes"
+"1991-06-02","","Los Angeles Lakers",93,"Chicago Bulls",91,18676,""
+"1991-06-05","","Los Angeles Lakers",86,"Chicago Bulls",107,18676,""
+"1991-06-07","","Chicago Bulls",104,"Los Angeles Lakers",96,17506,""
+"1991-06-09","","Chicago Bulls",97,"Los Angeles Lakers",82,17506,""
+"1991-06-12","","Chicago Bulls",108,"Los Angeles Lakers",101,17506,""

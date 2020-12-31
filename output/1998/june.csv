@@ -1,7 +1,7 @@
-Date,Visitor/Neutral,PTS_1,Home/Neutral,PTS_2,_1,_2,Attend.,Notes
-"Wed, Jun 3, 1998",Chicago Bulls,85,Utah Jazz,88,Box Score,OT,"19,911",
-"Fri, Jun 5, 1998",Chicago Bulls,93,Utah Jazz,88,Box Score,,"19,911",
-"Sun, Jun 7, 1998",Utah Jazz,54,Chicago Bulls,96,Box Score,,"23,844",
-"Wed, Jun 10, 1998",Utah Jazz,82,Chicago Bulls,86,Box Score,,"23,844",
-"Fri, Jun 12, 1998",Utah Jazz,83,Chicago Bulls,81,Box Score,,"23,844",
-"Sun, Jun 14, 1998",Chicago Bulls,87,Utah Jazz,86,Box Score,,"19,911",
+"Date","Start (ET)","Visitor/Neutral","Visitor/Neutral PTS","Home/Neutral","Home/Neutral PTS","Attendance","Notes"
+"1998-06-03","","Chicago Bulls",85,"Utah Jazz",88,19911,""
+"1998-06-05","","Chicago Bulls",93,"Utah Jazz",88,19911,""
+"1998-06-07","","Utah Jazz",54,"Chicago Bulls",96,23844,""
+"1998-06-10","","Utah Jazz",82,"Chicago Bulls",86,23844,""
+"1998-06-12","","Utah Jazz",83,"Chicago Bulls",81,23844,""
+"1998-06-14","","Chicago Bulls",87,"Utah Jazz",86,19911,""

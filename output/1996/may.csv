@@ -1,41 +1,41 @@
-Date,Visitor/Neutral,PTS_1,Home/Neutral,PTS_2,_1,_2,Attend.,Notes
-"Wed, May 1, 1996",Cleveland Cavaliers,76,New York Knicks,81,Box Score,,"19,763",
-"Wed, May 1, 1996",Chicago Bulls,112,Miami Heat,91,Box Score,,"15,200",
-"Wed, May 1, 1996",Utah Jazz,90,Portland Trail Blazers,98,Box Score,,"21,401",
-"Wed, May 1, 1996",San Antonio Spurs,93,Phoenix Suns,94,Box Score,,"19,023",
-"Thu, May 2, 1996",Indiana Pacers,83,Atlanta Hawks,75,Box Score,,"15,482",
-"Thu, May 2, 1996",Los Angeles Lakers,94,Houston Rockets,102,Box Score,,"16,285",
-"Thu, May 2, 1996",Seattle SuperSonics,101,Sacramento Kings,87,Box Score,,"17,317",
-"Fri, May 3, 1996",San Antonio Spurs,116,Phoenix Suns,98,Box Score,,"19,023",
-"Sat, May 4, 1996",Houston Rockets,75,Seattle SuperSonics,108,Box Score,,"17,072",
-"Sun, May 5, 1996",Portland Trail Blazers,64,Utah Jazz,102,Box Score,,"19,682",
-"Sun, May 5, 1996",Atlanta Hawks,89,Indiana Pacers,87,Box Score,,"16,731",
-"Sun, May 5, 1996",New York Knicks,84,Chicago Bulls,91,Box Score,,"24,394",
-"Mon, May 6, 1996",Houston Rockets,101,Seattle SuperSonics,105,Box Score,,"17,072",
-"Tue, May 7, 1996",New York Knicks,80,Chicago Bulls,91,Box Score,,"24,328",
-"Tue, May 7, 1996",Utah Jazz,95,San Antonio Spurs,75,Box Score,,"15,112",
-"Wed, May 8, 1996",Atlanta Hawks,105,Orlando Magic,117,Box Score,,"17,248",
-"Thu, May 9, 1996",Utah Jazz,77,San Antonio Spurs,88,Box Score,,"18,635",
-"Fri, May 10, 1996",Seattle SuperSonics,115,Houston Rockets,112,Box Score,,"16,285",
-"Fri, May 10, 1996",Atlanta Hawks,94,Orlando Magic,120,Box Score,,"17,248",
-"Sat, May 11, 1996",San Antonio Spurs,75,Utah Jazz,105,Box Score,,"19,911",
-"Sat, May 11, 1996",Chicago Bulls,99,New York Knicks,102,Box Score,OT,"19,763",
-"Sun, May 12, 1996",Orlando Magic,103,Atlanta Hawks,96,Box Score,,"15,476",
-"Sun, May 12, 1996",Seattle SuperSonics,114,Houston Rockets,107,Box Score,OT,"16,611",
-"Sun, May 12, 1996",Chicago Bulls,94,New York Knicks,91,Box Score,,"19,763",
-"Sun, May 12, 1996",San Antonio Spurs,86,Utah Jazz,101,Box Score,,"19,911",
-"Mon, May 13, 1996",Orlando Magic,99,Atlanta Hawks,104,Box Score,,"12,645",
-"Tue, May 14, 1996",New York Knicks,81,Chicago Bulls,94,Box Score,,"24,396",
-"Tue, May 14, 1996",Utah Jazz,87,San Antonio Spurs,98,Box Score,,"34,215",
-"Wed, May 15, 1996",Atlanta Hawks,88,Orlando Magic,96,Box Score,,"17,248",
-"Thu, May 16, 1996",San Antonio Spurs,81,Utah Jazz,108,Box Score,,"19,911",
-"Sat, May 18, 1996",Utah Jazz,72,Seattle SuperSonics,102,Box Score,,"17,072",
-"Sun, May 19, 1996",Orlando Magic,83,Chicago Bulls,121,Box Score,,"24,411",
-"Mon, May 20, 1996",Utah Jazz,87,Seattle SuperSonics,91,Box Score,,"17,072",
-"Tue, May 21, 1996",Orlando Magic,88,Chicago Bulls,93,Box Score,,"24,395",
-"Fri, May 24, 1996",Seattle SuperSonics,76,Utah Jazz,96,Box Score,,"19,911",
-"Sat, May 25, 1996",Chicago Bulls,86,Orlando Magic,67,Box Score,,"17,248",
-"Sun, May 26, 1996",Seattle SuperSonics,88,Utah Jazz,86,Box Score,,"19,911",
-"Mon, May 27, 1996",Chicago Bulls,106,Orlando Magic,101,Box Score,,"17,248",
-"Tue, May 28, 1996",Utah Jazz,98,Seattle SuperSonics,95,Box Score,OT,"17,072",
-"Thu, May 30, 1996",Seattle SuperSonics,83,Utah Jazz,118,Box Score,,"19,911",
+"Date","Start (ET)","Visitor/Neutral","Visitor/Neutral PTS","Home/Neutral","Home/Neutral PTS","Attendance","Notes"
+"1996-05-01","","Cleveland Cavaliers",76,"New York Knicks",81,19763,""
+"1996-05-01","","Chicago Bulls",112,"Miami Heat",91,15200,""
+"1996-05-01","","Utah Jazz",90,"Portland Trail Blazers",98,21401,""
+"1996-05-01","","San Antonio Spurs",93,"Phoenix Suns",94,19023,""
+"1996-05-02","","Indiana Pacers",83,"Atlanta Hawks",75,15482,""
+"1996-05-02","","Los Angeles Lakers",94,"Houston Rockets",102,16285,""
+"1996-05-02","","Seattle SuperSonics",101,"Sacramento Kings",87,17317,""
+"1996-05-03","","San Antonio Spurs",116,"Phoenix Suns",98,19023,""
+"1996-05-04","","Houston Rockets",75,"Seattle SuperSonics",108,17072,""
+"1996-05-05","","Portland Trail Blazers",64,"Utah Jazz",102,19682,""
+"1996-05-05","","Atlanta Hawks",89,"Indiana Pacers",87,16731,""
+"1996-05-05","","New York Knicks",84,"Chicago Bulls",91,24394,""
+"1996-05-06","","Houston Rockets",101,"Seattle SuperSonics",105,17072,""
+"1996-05-07","","New York Knicks",80,"Chicago Bulls",91,24328,""
+"1996-05-07","","Utah Jazz",95,"San Antonio Spurs",75,15112,""
+"1996-05-08","","Atlanta Hawks",105,"Orlando Magic",117,17248,""
+"1996-05-09","","Utah Jazz",77,"San Antonio Spurs",88,18635,""
+"1996-05-10","","Seattle SuperSonics",115,"Houston Rockets",112,16285,""
+"1996-05-10","","Atlanta Hawks",94,"Orlando Magic",120,17248,""
+"1996-05-11","","San Antonio Spurs",75,"Utah Jazz",105,19911,""
+"1996-05-11","","Chicago Bulls",99,"New York Knicks",102,19763,""
+"1996-05-12","","Orlando Magic",103,"Atlanta Hawks",96,15476,""
+"1996-05-12","","Seattle SuperSonics",114,"Houston Rockets",107,16611,""
+"1996-05-12","","Chicago Bulls",94,"New York Knicks",91,19763,""
+"1996-05-12","","San Antonio Spurs",86,"Utah Jazz",101,19911,""
+"1996-05-13","","Orlando Magic",99,"Atlanta Hawks",104,12645,""
+"1996-05-14","","New York Knicks",81,"Chicago Bulls",94,24396,""
+"1996-05-14","","Utah Jazz",87,"San Antonio Spurs",98,34215,""
+"1996-05-15","","Atlanta Hawks",88,"Orlando Magic",96,17248,""
+"1996-05-16","","San Antonio Spurs",81,"Utah Jazz",108,19911,""
+"1996-05-18","","Utah Jazz",72,"Seattle SuperSonics",102,17072,""
+"1996-05-19","","Orlando Magic",83,"Chicago Bulls",121,24411,""
+"1996-05-20","","Utah Jazz",87,"Seattle SuperSonics",91,17072,""
+"1996-05-21","","Orlando Magic",88,"Chicago Bulls",93,24395,""
+"1996-05-24","","Seattle SuperSonics",76,"Utah Jazz",96,19911,""
+"1996-05-25","","Chicago Bulls",86,"Orlando Magic",67,17248,""
+"1996-05-26","","Seattle SuperSonics",88,"Utah Jazz",86,19911,""
+"1996-05-27","","Chicago Bulls",106,"Orlando Magic",101,17248,""
+"1996-05-28","","Utah Jazz",98,"Seattle SuperSonics",95,17072,""
+"1996-05-30","","Seattle SuperSonics",83,"Utah Jazz",118,19911,""

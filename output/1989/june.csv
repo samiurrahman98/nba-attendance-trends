@@ -1,6 +1,6 @@
-Date,Visitor/Neutral,PTS_1,Home/Neutral,PTS_2,_1,_2,Attend.,Notes
-"Fri, Jun 2, 1989",Detroit Pistons,103,Chicago Bulls,94,Box Score,,"18,676",
-"Tue, Jun 6, 1989",Los Angeles Lakers,97,Detroit Pistons,109,Box Score,,"21,454",
-"Thu, Jun 8, 1989",Los Angeles Lakers,105,Detroit Pistons,108,Box Score,,"21,454",
-"Sun, Jun 11, 1989",Detroit Pistons,114,Los Angeles Lakers,110,Box Score,,"17,505",
-"Tue, Jun 13, 1989",Detroit Pistons,105,Los Angeles Lakers,97,Box Score,,"17,505",
+"Date","Start (ET)","Visitor/Neutral","Visitor/Neutral PTS","Home/Neutral","Home/Neutral PTS","Attendance","Notes"
+"1989-06-02","","Detroit Pistons",103,"Chicago Bulls",94,18676,""
+"1989-06-06","","Los Angeles Lakers",97,"Detroit Pistons",109,21454,""
+"1989-06-08","","Los Angeles Lakers",105,"Detroit Pistons",108,21454,""
+"1989-06-11","","Detroit Pistons",114,"Los Angeles Lakers",110,17505,""
+"1989-06-13","","Detroit Pistons",105,"Los Angeles Lakers",97,17505,""

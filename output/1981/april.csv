@@ -1,44 +1,44 @@
-Date,Visitor/Neutral,PTS_1,Home/Neutral,PTS_2,_1,_2,Attend.,Notes
-"Wed, Apr 1, 1981",Kansas City Kings,98,Portland Trail Blazers,97,Box Score,OT,"12,666",
-"Wed, Apr 1, 1981",Houston Rockets,111,Los Angeles Lakers,107,Box Score,,"15,517",
-"Thu, Apr 2, 1981",Philadelphia 76ers,96,Indiana Pacers,85,Box Score,,"8,921",
-"Fri, Apr 3, 1981",New York Knicks,114,Chicago Bulls,115,Box Score,OT,"19,901",
-"Fri, Apr 3, 1981",Los Angeles Lakers,111,Houston Rockets,106,Box Score,,"16,121",
-"Fri, Apr 3, 1981",Portland Trail Blazers,124,Kansas City Kings,119,Box Score,OT,"11,088",
-"Sun, Apr 5, 1981",Chicago Bulls,109,Boston Celtics,121,Box Score,,"15,320",
-"Sun, Apr 5, 1981",Houston Rockets,89,Los Angeles Lakers,86,Box Score,,"14,813",
-"Sun, Apr 5, 1981",Milwaukee Bucks,122,Philadelphia 76ers,125,Box Score,,"9,727",
-"Sun, Apr 5, 1981",Kansas City Kings,104,Portland Trail Blazers,95,Box Score,,"12,666",
-"Tue, Apr 7, 1981",Kansas City Kings,80,Phoenix Suns,102,Box Score,,"12,660",
-"Tue, Apr 7, 1981",Houston Rockets,107,San Antonio Spurs,98,Box Score,,"13,319",
-"Tue, Apr 7, 1981",Milwaukee Bucks,109,Philadelphia 76ers,99,Box Score,,"15,259",
-"Tue, Apr 7, 1981",Chicago Bulls,97,Boston Celtics,106,Box Score,,"15,320",
-"Wed, Apr 8, 1981",Kansas City Kings,88,Phoenix Suns,83,Box Score,,"12,660",
-"Wed, Apr 8, 1981",Houston Rockets,113,San Antonio Spurs,125,Box Score,,"12,128",
-"Fri, Apr 10, 1981",Boston Celtics,113,Chicago Bulls,107,Box Score,,"19,995",
-"Fri, Apr 10, 1981",San Antonio Spurs,99,Houston Rockets,112,Box Score,,"16,121",
-"Fri, Apr 10, 1981",Phoenix Suns,92,Kansas City Kings,93,Box Score,,"13,776",
-"Fri, Apr 10, 1981",Philadelphia 76ers,108,Milwaukee Bucks,103,Box Score,,"11,052",
-"Sun, Apr 12, 1981",Philadelphia 76ers,98,Milwaukee Bucks,109,Box Score,,"11,052",
-"Sun, Apr 12, 1981",San Antonio Spurs,114,Houston Rockets,112,Box Score,,"16,121",
-"Sun, Apr 12, 1981",Boston Celtics,109,Chicago Bulls,103,Box Score,,"18,249",
-"Sun, Apr 12, 1981",Phoenix Suns,95,Kansas City Kings,102,Box Score,,"11,089",
-"Tue, Apr 14, 1981",Houston Rockets,123,San Antonio Spurs,117,Box Score,,"16,114",
-"Wed, Apr 15, 1981",San Antonio Spurs,101,Houston Rockets,96,Box Score,,"16,121",
-"Wed, Apr 15, 1981",Milwaukee Bucks,99,Philadelphia 76ers,116,Box Score,,"15,384",
-"Wed, Apr 15, 1981",Kansas City Kings,89,Phoenix Suns,101,Box Score,,"12,660",
-"Fri, Apr 17, 1981",Phoenix Suns,81,Kansas City Kings,76,Box Score,,"15,232",
-"Fri, Apr 17, 1981",Philadelphia 76ers,86,Milwaukee Bucks,109,Box Score,,"11,052",
-"Fri, Apr 17, 1981",Houston Rockets,105,San Antonio Spurs,100,Box Score,,"16,114",
-"Sun, Apr 19, 1981",Kansas City Kings,95,Phoenix Suns,88,Box Score,,"12,660",
-"Sun, Apr 19, 1981",Milwaukee Bucks,98,Philadelphia 76ers,99,Box Score,,"6,704",
-"Tue, Apr 21, 1981",Philadelphia 76ers,105,Boston Celtics,104,Box Score,,"15,320",
-"Tue, Apr 21, 1981",Houston Rockets,97,Kansas City Kings,78,Box Score,,"13,885",
-"Wed, Apr 22, 1981",Philadelphia 76ers,99,Boston Celtics,118,Box Score,,"15,320",
-"Wed, Apr 22, 1981",Houston Rockets,79,Kansas City Kings,88,Box Score,,"14,326",
-"Fri, Apr 24, 1981",Kansas City Kings,88,Houston Rockets,92,Box Score,,"16,121",
-"Fri, Apr 24, 1981",Boston Celtics,100,Philadelphia 76ers,110,Box Score,,"18,276",
-"Sun, Apr 26, 1981",Kansas City Kings,89,Houston Rockets,100,Box Score,,"16,121",
-"Sun, Apr 26, 1981",Boston Celtics,105,Philadelphia 76ers,107,Box Score,,"18,276",
-"Wed, Apr 29, 1981",Philadelphia 76ers,109,Boston Celtics,111,Box Score,,"15,320",
-"Wed, Apr 29, 1981",Houston Rockets,97,Kansas City Kings,88,Box Score,,"14,640",
+"Date","Start (ET)","Visitor/Neutral","Visitor/Neutral PTS","Home/Neutral","Home/Neutral PTS","Attendance","Notes"
+"1981-04-01","","Kansas City Kings",98,"Portland Trail Blazers",97,12666,""
+"1981-04-01","","Houston Rockets",111,"Los Angeles Lakers",107,15517,""
+"1981-04-02","","Philadelphia 76ers",96,"Indiana Pacers",85,8921,""
+"1981-04-03","","New York Knicks",114,"Chicago Bulls",115,19901,""
+"1981-04-03","","Los Angeles Lakers",111,"Houston Rockets",106,16121,""
+"1981-04-03","","Portland Trail Blazers",124,"Kansas City Kings",119,11088,""
+"1981-04-05","","Chicago Bulls",109,"Boston Celtics",121,15320,""
+"1981-04-05","","Houston Rockets",89,"Los Angeles Lakers",86,14813,""
+"1981-04-05","","Milwaukee Bucks",122,"Philadelphia 76ers",125,9727,""
+"1981-04-05","","Kansas City Kings",104,"Portland Trail Blazers",95,12666,""
+"1981-04-07","","Kansas City Kings",80,"Phoenix Suns",102,12660,""
+"1981-04-07","","Houston Rockets",107,"San Antonio Spurs",98,13319,""
+"1981-04-07","","Milwaukee Bucks",109,"Philadelphia 76ers",99,15259,""
+"1981-04-07","","Chicago Bulls",97,"Boston Celtics",106,15320,""
+"1981-04-08","","Kansas City Kings",88,"Phoenix Suns",83,12660,""
+"1981-04-08","","Houston Rockets",113,"San Antonio Spurs",125,12128,""
+"1981-04-10","","Boston Celtics",113,"Chicago Bulls",107,19995,""
+"1981-04-10","","San Antonio Spurs",99,"Houston Rockets",112,16121,""
+"1981-04-10","","Phoenix Suns",92,"Kansas City Kings",93,13776,""
+"1981-04-10","","Philadelphia 76ers",108,"Milwaukee Bucks",103,11052,""
+"1981-04-12","","Philadelphia 76ers",98,"Milwaukee Bucks",109,11052,""
+"1981-04-12","","San Antonio Spurs",114,"Houston Rockets",112,16121,""
+"1981-04-12","","Boston Celtics",109,"Chicago Bulls",103,18249,""
+"1981-04-12","","Phoenix Suns",95,"Kansas City Kings",102,11089,""
+"1981-04-14","","Houston Rockets",123,"San Antonio Spurs",117,16114,""
+"1981-04-15","","San Antonio Spurs",101,"Houston Rockets",96,16121,""
+"1981-04-15","","Milwaukee Bucks",99,"Philadelphia 76ers",116,15384,""
+"1981-04-15","","Kansas City Kings",89,"Phoenix Suns",101,12660,""
+"1981-04-17","","Phoenix Suns",81,"Kansas City Kings",76,15232,""
+"1981-04-17","","Philadelphia 76ers",86,"Milwaukee Bucks",109,11052,""
+"1981-04-17","","Houston Rockets",105,"San Antonio Spurs",100,16114,""
+"1981-04-19","","Kansas City Kings",95,"Phoenix Suns",88,12660,""
+"1981-04-19","","Milwaukee Bucks",98,"Philadelphia 76ers",99,6704,""
+"1981-04-21","","Philadelphia 76ers",105,"Boston Celtics",104,15320,""
+"1981-04-21","","Houston Rockets",97,"Kansas City Kings",78,13885,""
+"1981-04-22","","Philadelphia 76ers",99,"Boston Celtics",118,15320,""
+"1981-04-22","","Houston Rockets",79,"Kansas City Kings",88,14326,""
+"1981-04-24","","Kansas City Kings",88,"Houston Rockets",92,16121,""
+"1981-04-24","","Boston Celtics",100,"Philadelphia 76ers",110,18276,""
+"1981-04-26","","Kansas City Kings",89,"Houston Rockets",100,16121,""
+"1981-04-26","","Boston Celtics",105,"Philadelphia 76ers",107,18276,""
+"1981-04-29","","Philadelphia 76ers",109,"Boston Celtics",111,15320,""
+"1981-04-29","","Houston Rockets",97,"Kansas City Kings",88,14640,""

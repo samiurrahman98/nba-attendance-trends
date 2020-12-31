@@ -1,163 +1,163 @@
-Date,Visitor/Neutral,PTS_1,Home/Neutral,PTS_2,_1,_2,Attend.,Notes
-"Fri, Nov 6, 1992",New York Knicks,106,Atlanta Hawks,94,Box Score,,"16,389",
-"Fri, Nov 6, 1992",Minnesota Timberwolves,92,Boston Celtics,113,Box Score,,"14,890",
-"Fri, Nov 6, 1992",Washington Bullets,119,Charlotte Hornets,126,Box Score,,"23,698",
-"Fri, Nov 6, 1992",Chicago Bulls,101,Cleveland Cavaliers,96,Box Score,,"20,273",
-"Fri, Nov 6, 1992",Milwaukee Bucks,86,Detroit Pistons,81,Box Score,,"21,454",
-"Fri, Nov 6, 1992",Seattle SuperSonics,111,Houston Rockets,94,Box Score,,"14,544","at Yokohama, Japan"
-"Fri, Nov 6, 1992",Los Angeles Lakers,114,Los Angeles Clippers,112,Box Score,OT,"15,989",
-"Fri, Nov 6, 1992",Miami Heat,100,Orlando Magic,110,Box Score,,"15,151",
-"Fri, Nov 6, 1992",New Jersey Nets,114,Philadelphia 76ers,111,Box Score,,"12,608",
-"Fri, Nov 6, 1992",San Antonio Spurs,106,Sacramento Kings,114,Box Score,,"17,317",
-"Fri, Nov 6, 1992",Golden State Warriors,129,Utah Jazz,114,Box Score,,"19,911",
-"Sat, Nov 7, 1992",Atlanta Hawks,100,Chicago Bulls,99,Box Score,,"18,676",
-"Sat, Nov 7, 1992",Utah Jazz,122,Dallas Mavericks,106,Box Score,,"12,514",
-"Sat, Nov 7, 1992",San Antonio Spurs,121,Denver Nuggets,125,Box Score,2OT,"17,022",
-"Sat, Nov 7, 1992",Detroit Pistons,89,Indiana Pacers,87,Box Score,,"16,183",
-"Sat, Nov 7, 1992",New Jersey Nets,94,Miami Heat,106,Box Score,,"15,008",
-"Sat, Nov 7, 1992",Boston Celtics,88,Milwaukee Bucks,124,Box Score,,"17,892",
-"Sat, Nov 7, 1992",Golden State Warriors,121,Minnesota Timberwolves,119,Box Score,OT,"19,006",
-"Sat, Nov 7, 1992",Philadelphia 76ers,85,New York Knicks,89,Box Score,,"19,763",
-"Sat, Nov 7, 1992",Los Angeles Clippers,105,Phoenix Suns,111,Box Score,,"19,023",
-"Sat, Nov 7, 1992",Houston Rockets,85,Seattle SuperSonics,89,Box Score,,"14,544","at Yokohama, Japan"
-"Sat, Nov 7, 1992",Orlando Magic,103,Washington Bullets,98,Box Score,,"18,756",
-"Sun, Nov 8, 1992",Charlotte Hornets,107,Cleveland Cavaliers,127,Box Score,,"16,009",
-"Sun, Nov 8, 1992",Sacramento Kings,124,Los Angeles Lakers,114,Box Score,,"15,021",
-"Sun, Nov 8, 1992",Denver Nuggets,104,Portland Trail Blazers,123,Box Score,,"12,888",
-"Mon, Nov 9, 1992",Indiana Pacers,97,Chicago Bulls,102,Box Score,,"18,084",
-"Tue, Nov 10, 1992",Washington Bullets,92,Cleveland Cavaliers,131,Box Score,,"13,055",
-"Tue, Nov 10, 1992",Utah Jazz,118,Denver Nuggets,109,Box Score,,"10,456",
-"Tue, Nov 10, 1992",Los Angeles Lakers,107,Golden State Warriors,106,Box Score,,"15,025",
-"Tue, Nov 10, 1992",Boston Celtics,106,Miami Heat,110,Box Score,,"15,008",
-"Tue, Nov 10, 1992",Dallas Mavericks,104,Minnesota Timberwolves,118,Box Score,,"18,202",
-"Tue, Nov 10, 1992",New Jersey Nets,96,New York Knicks,99,Box Score,,"19,763",
-"Tue, Nov 10, 1992",Charlotte Hornets,112,Orlando Magic,108,Box Score,,"15,151",
-"Tue, Nov 10, 1992",Phoenix Suns,89,Portland Trail Blazers,100,Box Score,,"12,888",
-"Tue, Nov 10, 1992",Los Angeles Clippers,97,Sacramento Kings,99,Box Score,,"17,317",
-"Tue, Nov 10, 1992",Milwaukee Bucks,98,San Antonio Spurs,104,Box Score,,"16,057",
-"Wed, Nov 11, 1992",Boston Celtics,109,Charlotte Hornets,99,Box Score,,"23,698",
-"Wed, Nov 11, 1992",Detroit Pistons,96,Chicago Bulls,98,Box Score,OT,"18,676",
-"Wed, Nov 11, 1992",Milwaukee Bucks,124,Dallas Mavericks,116,Box Score,,"11,276",
-"Wed, Nov 11, 1992",Atlanta Hawks,82,Houston Rockets,101,Box Score,,"10,125",
-"Wed, Nov 11, 1992",Philadelphia 76ers,114,Indiana Pacers,120,Box Score,,"10,007",
-"Wed, Nov 11, 1992",Sacramento Kings,101,Los Angeles Clippers,109,Box Score,,"9,236",
-"Thu, Nov 12, 1992",Miami Heat,88,Detroit Pistons,95,Box Score,,"21,454",
-"Thu, Nov 12, 1992",Cleveland Cavaliers,126,Golden State Warriors,122,Box Score,2OT,"15,025",
-"Thu, Nov 12, 1992",Minnesota Timberwolves,88,New Jersey Nets,84,Box Score,,"14,226",
-"Thu, Nov 12, 1992",Washington Bullets,100,Orlando Magic,127,Box Score,,"15,151",
-"Thu, Nov 12, 1992",Atlanta Hawks,104,San Antonio Spurs,97,Box Score,,"16,057",
-"Thu, Nov 12, 1992",Los Angeles Lakers,102,Seattle SuperSonics,114,Box Score,,"14,419",
-"Thu, Nov 12, 1992",Phoenix Suns,102,Utah Jazz,91,Box Score,,"19,911",
-"Fri, Nov 13, 1992",Philadelphia 76ers,126,Boston Celtics,115,Box Score,,"14,890",
-"Fri, Nov 13, 1992",Charlotte Hornets,109,Indiana Pacers,110,Box Score,,"13,209",
-"Fri, Nov 13, 1992",Los Angeles Clippers,124,Los Angeles Lakers,98,Box Score,,"14,555",
-"Fri, Nov 13, 1992",Chicago Bulls,101,Milwaukee Bucks,96,Box Score,,"18,633",
-"Fri, Nov 13, 1992",Cleveland Cavaliers,109,Portland Trail Blazers,115,Box Score,,"12,888",
-"Fri, Nov 13, 1992",New York Knicks,104,Washington Bullets,106,Box Score,,"18,756",
-"Sat, Nov 14, 1992",Miami Heat,104,Charlotte Hornets,95,Box Score,,"23,698",
-"Sat, Nov 14, 1992",Denver Nuggets,84,Chicago Bulls,117,Box Score,,"18,676",
-"Sat, Nov 14, 1992",Atlanta Hawks,105,Dallas Mavericks,113,Box Score,,"13,488",
-"Sat, Nov 14, 1992",Indiana Pacers,104,Detroit Pistons,100,Box Score,,"21,454",
-"Sat, Nov 14, 1992",Portland Trail Blazers,130,Golden State Warriors,116,Box Score,,"15,025",
-"Sat, Nov 14, 1992",Phoenix Suns,108,Minnesota Timberwolves,101,Box Score,,"19,006",
-"Sat, Nov 14, 1992",Orlando Magic,113,New Jersey Nets,124,Box Score,,"20,049",
-"Sat, Nov 14, 1992",Boston Celtics,80,New York Knicks,85,Box Score,,"19,763",
-"Sat, Nov 14, 1992",Houston Rockets,93,San Antonio Spurs,87,Box Score,,"16,057",
-"Sat, Nov 14, 1992",Sacramento Kings,117,Seattle SuperSonics,133,Box Score,,"10,588",
-"Sat, Nov 14, 1992",Los Angeles Clippers,104,Utah Jazz,124,Box Score,,"19,911",
-"Sun, Nov 15, 1992",Golden State Warriors,102,Los Angeles Lakers,105,Box Score,,"13,941",
-"Sun, Nov 15, 1992",Denver Nuggets,98,Milwaukee Bucks,115,Box Score,,"14,882",
-"Sun, Nov 15, 1992",Washington Bullets,104,New Jersey Nets,111,Box Score,,"9,589",
-"Sun, Nov 15, 1992",Cleveland Cavaliers,107,Sacramento Kings,109,Box Score,,"17,317",
-"Mon, Nov 16, 1992",Seattle SuperSonics,108,Phoenix Suns,117,Box Score,,"19,023",
-"Mon, Nov 16, 1992",New York Knicks,94,Portland Trail Blazers,109,Box Score,,"12,888",
-"Tue, Nov 17, 1992",Milwaukee Bucks,114,Atlanta Hawks,106,Box Score,,"7,771",
-"Tue, Nov 17, 1992",Dallas Mavericks,111,Charlotte Hornets,134,Box Score,,"23,968",
-"Tue, Nov 17, 1992",Sacramento Kings,109,Houston Rockets,116,Box Score,,"10,158",
-"Tue, Nov 17, 1992",Denver Nuggets,98,Indiana Pacers,128,Box Score,,"10,034",
-"Tue, Nov 17, 1992",Detroit Pistons,106,Los Angeles Clippers,115,Box Score,OT,"10,096",
-"Tue, Nov 17, 1992",Golden State Warriors,125,Miami Heat,119,Box Score,,"15,008",
-"Tue, Nov 17, 1992",Chicago Bulls,124,Minnesota Timberwolves,103,Box Score,,"19,006",
-"Tue, Nov 17, 1992",Utah Jazz,108,New Jersey Nets,97,Box Score,,"12,646",
-"Tue, Nov 17, 1992",Cleveland Cavaliers,95,San Antonio Spurs,106,Box Score,,"16,057",
-"Tue, Nov 17, 1992",New York Knicks,90,Seattle SuperSonics,100,Box Score,,"13,245",
-"Tue, Nov 17, 1992",Boston Celtics,97,Washington Bullets,101,Box Score,,"18,114",
-"Wed, Nov 18, 1992",Utah Jazz,92,Boston Celtics,91,Box Score,,"14,890",
-"Wed, Nov 18, 1992",Orlando Magic,120,Philadelphia 76ers,110,Box Score,,"13,711",
-"Wed, Nov 18, 1992",Sacramento Kings,111,Phoenix Suns,127,Box Score,,"19,023",
-"Thu, Nov 19, 1992",New Jersey Nets,108,Atlanta Hawks,101,Box Score,,"9,905",
-"Thu, Nov 19, 1992",Detroit Pistons,87,Denver Nuggets,99,Box Score,,"12,506",
-"Thu, Nov 19, 1992",Cleveland Cavaliers,92,Houston Rockets,99,Box Score,,"10,003",
-"Thu, Nov 19, 1992",New York Knicks,91,Los Angeles Clippers,101,Box Score,,"13,919",
-"Thu, Nov 19, 1992",Golden State Warriors,102,Orlando Magic,126,Box Score,,"15,151",
-"Thu, Nov 19, 1992",Dallas Mavericks,95,San Antonio Spurs,123,Box Score,,"16,057",
-"Thu, Nov 19, 1992",Chicago Bulls,108,Seattle SuperSonics,99,Box Score,,"37,401",
-"Fri, Nov 20, 1992",Golden State Warriors,110,Charlotte Hornets,117,Box Score,OT,"23,698",
-"Fri, Nov 20, 1992",Utah Jazz,97,Indiana Pacers,95,Box Score,,"12,471",
-"Fri, Nov 20, 1992",Chicago Bulls,118,Los Angeles Lakers,120,Box Score,OT,"17,505",
-"Fri, Nov 20, 1992",Washington Bullets,108,Minnesota Timberwolves,100,Box Score,,"18,301",
-"Fri, Nov 20, 1992",Miami Heat,128,Philadelphia 76ers,129,Box Score,3OT,"13,417",
-"Fri, Nov 20, 1992",Portland Trail Blazers,104,Sacramento Kings,99,Box Score,,"17,317",
-"Sat, Nov 21, 1992",Boston Celtics,107,Atlanta Hawks,116,Box Score,,"12,371",
-"Sat, Nov 21, 1992",Cleveland Cavaliers,119,Dallas Mavericks,108,Box Score,,"13,805",
-"Sat, Nov 21, 1992",Minnesota Timberwolves,118,Denver Nuggets,131,Box Score,,"12,457",
-"Sat, Nov 21, 1992",San Antonio Spurs,100,Houston Rockets,103,Box Score,,"12,229",
-"Sat, Nov 21, 1992",Phoenix Suns,107,Los Angeles Clippers,111,Box Score,,"14,419",
-"Sat, Nov 21, 1992",Charlotte Hornets,123,Miami Heat,111,Box Score,,"15,008",
-"Sat, Nov 21, 1992",Indiana Pacers,95,Milwaukee Bucks,105,Box Score,,"18,214",
-"Sat, Nov 21, 1992",Philadelphia 76ers,104,New Jersey Nets,95,Box Score,,"11,515",
-"Sat, Nov 21, 1992",Orlando Magic,77,New York Knicks,92,Box Score,,"19,763",
-"Sat, Nov 21, 1992",Detroit Pistons,101,Seattle SuperSonics,138,Box Score,,"14,252",
-"Sat, Nov 21, 1992",Utah Jazz,109,Washington Bullets,126,Box Score,,"11,027",
-"Sun, Nov 22, 1992",Denver Nuggets,107,Los Angeles Lakers,119,Box Score,,"13,841",
-"Sun, Nov 22, 1992",Golden State Warriors,114,New Jersey Nets,101,Box Score,,"14,463",
-"Sun, Nov 22, 1992",Chicago Bulls,128,Phoenix Suns,111,Box Score,,"19,023",
-"Sun, Nov 22, 1992",Detroit Pistons,90,Portland Trail Blazers,115,Box Score,,"12,888",
-"Mon, Nov 23, 1992",Atlanta Hawks,101,Boston Celtics,97,Box Score,OT,"13,299","at Hartford, CT"
-"Mon, Nov 23, 1992",Seattle SuperSonics,99,Sacramento Kings,103,Box Score,,"17,317",
-"Tue, Nov 24, 1992",Philadelphia 76ers,119,Charlotte Hornets,127,Box Score,,"23,698",
-"Tue, Nov 24, 1992",Milwaukee Bucks,105,Cleveland Cavaliers,109,Box Score,,"15,312",
-"Tue, Nov 24, 1992",Chicago Bulls,101,Golden State Warriors,92,Box Score,,"15,025",
-"Tue, Nov 24, 1992",Los Angeles Clippers,83,Houston Rockets,88,Box Score,,"10,251",
-"Tue, Nov 24, 1992",Miami Heat,82,Indiana Pacers,114,Box Score,,"10,098",
-"Tue, Nov 24, 1992",Washington Bullets,88,New York Knicks,98,Box Score,,"19,763",
-"Tue, Nov 24, 1992",San Antonio Spurs,91,Portland Trail Blazers,95,Box Score,,"12,888",
-"Tue, Nov 24, 1992",New Jersey Nets,97,Seattle SuperSonics,103,Box Score,,"9,367",
-"Wed, Nov 25, 1992",Washington Bullets,112,Boston Celtics,150,Box Score,,"14,890",
-"Wed, Nov 25, 1992",Los Angeles Clippers,130,Dallas Mavericks,112,Box Score,,"11,433",
-"Wed, Nov 25, 1992",Sacramento Kings,99,Denver Nuggets,114,Box Score,,"8,467",
-"Wed, Nov 25, 1992",Charlotte Hornets,101,Detroit Pistons,97,Box Score,,"21,454",
-"Wed, Nov 25, 1992",New Jersey Nets,100,Los Angeles Lakers,98,Box Score,,"13,860",
-"Wed, Nov 25, 1992",Indiana Pacers,93,Miami Heat,110,Box Score,,"15,008",
-"Wed, Nov 25, 1992",Cleveland Cavaliers,85,Milwaukee Bucks,94,Box Score,,"15,634",
-"Wed, Nov 25, 1992",New York Knicks,99,Minnesota Timberwolves,78,Box Score,,"18,063",
-"Wed, Nov 25, 1992",Houston Rockets,94,Orlando Magic,107,Box Score,,"15,151",
-"Wed, Nov 25, 1992",Atlanta Hawks,111,Philadelphia 76ers,105,Box Score,,"13,162",
-"Wed, Nov 25, 1992",Portland Trail Blazers,117,Phoenix Suns,121,Box Score,,"19,023",
-"Wed, Nov 25, 1992",San Antonio Spurs,128,Utah Jazz,102,Box Score,,"19,911",
-"Fri, Nov 27, 1992",Charlotte Hornets,102,Boston Celtics,111,Box Score,,"14,890",
-"Fri, Nov 27, 1992",Atlanta Hawks,101,Cleveland Cavaliers,122,Box Score,,"20,273",
-"Fri, Nov 27, 1992",Seattle SuperSonics,127,Dallas Mavericks,104,Box Score,,"13,257",
-"Fri, Nov 27, 1992",Orlando Magic,130,Indiana Pacers,116,Box Score,,"16,530",
-"Fri, Nov 27, 1992",Denver Nuggets,109,Los Angeles Clippers,106,Box Score,,"10,583",
-"Fri, Nov 27, 1992",Houston Rockets,101,Miami Heat,93,Box Score,,"15,000",
-"Fri, Nov 27, 1992",Milwaukee Bucks,115,Philadelphia 76ers,111,Box Score,,"11,831",
-"Fri, Nov 27, 1992",Golden State Warriors,107,Phoenix Suns,121,Box Score,,"19,023",
-"Fri, Nov 27, 1992",Los Angeles Lakers,98,Portland Trail Blazers,90,Box Score,,"12,888",
-"Fri, Nov 27, 1992",New Jersey Nets,112,Utah Jazz,110,Box Score,,"19,911",
-"Fri, Nov 27, 1992",Minnesota Timberwolves,102,Washington Bullets,83,Box Score,,"12,346","at Baltimore, MD"
-"Sat, Nov 28, 1992",Miami Heat,100,Atlanta Hawks,112,Box Score,,"10,330",
-"Sat, Nov 28, 1992",Indiana Pacers,134,Charlotte Hornets,122,Box Score,,"23,698",
-"Sat, Nov 28, 1992",Los Angeles Clippers,121,Denver Nuggets,119,Box Score,,"15,241",
-"Sat, Nov 28, 1992",Phoenix Suns,131,Golden State Warriors,134,Box Score,,"15,025",
-"Sat, Nov 28, 1992",Utah Jazz,108,Houston Rockets,99,Box Score,,"14,892",
-"Sat, Nov 28, 1992",Washington Bullets,95,Milwaukee Bucks,97,Box Score,,"18,028",
-"Sat, Nov 28, 1992",Detroit Pistons,80,Minnesota Timberwolves,82,Box Score,,"19,006",
-"Sat, Nov 28, 1992",Chicago Bulls,75,New York Knicks,112,Box Score,,"19,763",
-"Sat, Nov 28, 1992",Cleveland Cavaliers,93,Orlando Magic,95,Box Score,,"15,151",
-"Sat, Nov 28, 1992",Boston Celtics,117,Philadelphia 76ers,109,Box Score,,"15,672",
-"Sat, Nov 28, 1992",New Jersey Nets,94,Sacramento Kings,89,Box Score,,"17,317",
-"Sat, Nov 28, 1992",Seattle SuperSonics,97,San Antonio Spurs,104,Box Score,,"16,057",
-"Sun, Nov 29, 1992",New York Knicks,76,Detroit Pistons,92,Box Score,,"21,454",
-"Sun, Nov 29, 1992",Dallas Mavericks,85,Los Angeles Lakers,114,Box Score,,"13,855",
-"Sun, Nov 29, 1992",Sacramento Kings,99,Portland Trail Blazers,107,Box Score,,"12,888",
+"Date","Start (ET)","Visitor/Neutral","Visitor/Neutral PTS","Home/Neutral","Home/Neutral PTS","Attendance","Notes"
+"1992-11-06","","New York Knicks",106,"Atlanta Hawks",94,16389,""
+"1992-11-06","","Minnesota Timberwolves",92,"Boston Celtics",113,14890,""
+"1992-11-06","","Washington Bullets",119,"Charlotte Hornets",126,23698,""
+"1992-11-06","","Chicago Bulls",101,"Cleveland Cavaliers",96,20273,""
+"1992-11-06","","Milwaukee Bucks",86,"Detroit Pistons",81,21454,""
+"1992-11-06","","Seattle SuperSonics",111,"Houston Rockets",94,14544,"at Yokohama, Japan"
+"1992-11-06","","Los Angeles Lakers",114,"Los Angeles Clippers",112,15989,""
+"1992-11-06","","Miami Heat",100,"Orlando Magic",110,15151,""
+"1992-11-06","","New Jersey Nets",114,"Philadelphia 76ers",111,12608,""
+"1992-11-06","","San Antonio Spurs",106,"Sacramento Kings",114,17317,""
+"1992-11-06","","Golden State Warriors",129,"Utah Jazz",114,19911,""
+"1992-11-07","","Atlanta Hawks",100,"Chicago Bulls",99,18676,""
+"1992-11-07","","Utah Jazz",122,"Dallas Mavericks",106,12514,""
+"1992-11-07","","San Antonio Spurs",121,"Denver Nuggets",125,17022,""
+"1992-11-07","","Detroit Pistons",89,"Indiana Pacers",87,16183,""
+"1992-11-07","","New Jersey Nets",94,"Miami Heat",106,15008,""
+"1992-11-07","","Boston Celtics",88,"Milwaukee Bucks",124,17892,""
+"1992-11-07","","Golden State Warriors",121,"Minnesota Timberwolves",119,19006,""
+"1992-11-07","","Philadelphia 76ers",85,"New York Knicks",89,19763,""
+"1992-11-07","","Los Angeles Clippers",105,"Phoenix Suns",111,19023,""
+"1992-11-07","","Houston Rockets",85,"Seattle SuperSonics",89,14544,"at Yokohama, Japan"
+"1992-11-07","","Orlando Magic",103,"Washington Bullets",98,18756,""
+"1992-11-08","","Charlotte Hornets",107,"Cleveland Cavaliers",127,16009,""
+"1992-11-08","","Sacramento Kings",124,"Los Angeles Lakers",114,15021,""
+"1992-11-08","","Denver Nuggets",104,"Portland Trail Blazers",123,12888,""
+"1992-11-09","","Indiana Pacers",97,"Chicago Bulls",102,18084,""
+"1992-11-10","","Washington Bullets",92,"Cleveland Cavaliers",131,13055,""
+"1992-11-10","","Utah Jazz",118,"Denver Nuggets",109,10456,""
+"1992-11-10","","Los Angeles Lakers",107,"Golden State Warriors",106,15025,""
+"1992-11-10","","Boston Celtics",106,"Miami Heat",110,15008,""
+"1992-11-10","","Dallas Mavericks",104,"Minnesota Timberwolves",118,18202,""
+"1992-11-10","","New Jersey Nets",96,"New York Knicks",99,19763,""
+"1992-11-10","","Charlotte Hornets",112,"Orlando Magic",108,15151,""
+"1992-11-10","","Phoenix Suns",89,"Portland Trail Blazers",100,12888,""
+"1992-11-10","","Los Angeles Clippers",97,"Sacramento Kings",99,17317,""
+"1992-11-10","","Milwaukee Bucks",98,"San Antonio Spurs",104,16057,""
+"1992-11-11","","Boston Celtics",109,"Charlotte Hornets",99,23698,""
+"1992-11-11","","Detroit Pistons",96,"Chicago Bulls",98,18676,""
+"1992-11-11","","Milwaukee Bucks",124,"Dallas Mavericks",116,11276,""
+"1992-11-11","","Atlanta Hawks",82,"Houston Rockets",101,10125,""
+"1992-11-11","","Philadelphia 76ers",114,"Indiana Pacers",120,10007,""
+"1992-11-11","","Sacramento Kings",101,"Los Angeles Clippers",109,9236,""
+"1992-11-12","","Miami Heat",88,"Detroit Pistons",95,21454,""
+"1992-11-12","","Cleveland Cavaliers",126,"Golden State Warriors",122,15025,""
+"1992-11-12","","Minnesota Timberwolves",88,"New Jersey Nets",84,14226,""
+"1992-11-12","","Washington Bullets",100,"Orlando Magic",127,15151,""
+"1992-11-12","","Atlanta Hawks",104,"San Antonio Spurs",97,16057,""
+"1992-11-12","","Los Angeles Lakers",102,"Seattle SuperSonics",114,14419,""
+"1992-11-12","","Phoenix Suns",102,"Utah Jazz",91,19911,""
+"1992-11-13","","Philadelphia 76ers",126,"Boston Celtics",115,14890,""
+"1992-11-13","","Charlotte Hornets",109,"Indiana Pacers",110,13209,""
+"1992-11-13","","Los Angeles Clippers",124,"Los Angeles Lakers",98,14555,""
+"1992-11-13","","Chicago Bulls",101,"Milwaukee Bucks",96,18633,""
+"1992-11-13","","Cleveland Cavaliers",109,"Portland Trail Blazers",115,12888,""
+"1992-11-13","","New York Knicks",104,"Washington Bullets",106,18756,""
+"1992-11-14","","Miami Heat",104,"Charlotte Hornets",95,23698,""
+"1992-11-14","","Denver Nuggets",84,"Chicago Bulls",117,18676,""
+"1992-11-14","","Atlanta Hawks",105,"Dallas Mavericks",113,13488,""
+"1992-11-14","","Indiana Pacers",104,"Detroit Pistons",100,21454,""
+"1992-11-14","","Portland Trail Blazers",130,"Golden State Warriors",116,15025,""
+"1992-11-14","","Phoenix Suns",108,"Minnesota Timberwolves",101,19006,""
+"1992-11-14","","Orlando Magic",113,"New Jersey Nets",124,20049,""
+"1992-11-14","","Boston Celtics",80,"New York Knicks",85,19763,""
+"1992-11-14","","Houston Rockets",93,"San Antonio Spurs",87,16057,""
+"1992-11-14","","Sacramento Kings",117,"Seattle SuperSonics",133,10588,""
+"1992-11-14","","Los Angeles Clippers",104,"Utah Jazz",124,19911,""
+"1992-11-15","","Golden State Warriors",102,"Los Angeles Lakers",105,13941,""
+"1992-11-15","","Denver Nuggets",98,"Milwaukee Bucks",115,14882,""
+"1992-11-15","","Washington Bullets",104,"New Jersey Nets",111,9589,""
+"1992-11-15","","Cleveland Cavaliers",107,"Sacramento Kings",109,17317,""
+"1992-11-16","","Seattle SuperSonics",108,"Phoenix Suns",117,19023,""
+"1992-11-16","","New York Knicks",94,"Portland Trail Blazers",109,12888,""
+"1992-11-17","","Milwaukee Bucks",114,"Atlanta Hawks",106,7771,""
+"1992-11-17","","Dallas Mavericks",111,"Charlotte Hornets",134,23968,""
+"1992-11-17","","Sacramento Kings",109,"Houston Rockets",116,10158,""
+"1992-11-17","","Denver Nuggets",98,"Indiana Pacers",128,10034,""
+"1992-11-17","","Detroit Pistons",106,"Los Angeles Clippers",115,10096,""
+"1992-11-17","","Golden State Warriors",125,"Miami Heat",119,15008,""
+"1992-11-17","","Chicago Bulls",124,"Minnesota Timberwolves",103,19006,""
+"1992-11-17","","Utah Jazz",108,"New Jersey Nets",97,12646,""
+"1992-11-17","","Cleveland Cavaliers",95,"San Antonio Spurs",106,16057,""
+"1992-11-17","","New York Knicks",90,"Seattle SuperSonics",100,13245,""
+"1992-11-17","","Boston Celtics",97,"Washington Bullets",101,18114,""
+"1992-11-18","","Utah Jazz",92,"Boston Celtics",91,14890,""
+"1992-11-18","","Orlando Magic",120,"Philadelphia 76ers",110,13711,""
+"1992-11-18","","Sacramento Kings",111,"Phoenix Suns",127,19023,""
+"1992-11-19","","New Jersey Nets",108,"Atlanta Hawks",101,9905,""
+"1992-11-19","","Detroit Pistons",87,"Denver Nuggets",99,12506,""
+"1992-11-19","","Cleveland Cavaliers",92,"Houston Rockets",99,10003,""
+"1992-11-19","","New York Knicks",91,"Los Angeles Clippers",101,13919,""
+"1992-11-19","","Golden State Warriors",102,"Orlando Magic",126,15151,""
+"1992-11-19","","Dallas Mavericks",95,"San Antonio Spurs",123,16057,""
+"1992-11-19","","Chicago Bulls",108,"Seattle SuperSonics",99,37401,""
+"1992-11-20","","Golden State Warriors",110,"Charlotte Hornets",117,23698,""
+"1992-11-20","","Utah Jazz",97,"Indiana Pacers",95,12471,""
+"1992-11-20","","Chicago Bulls",118,"Los Angeles Lakers",120,17505,""
+"1992-11-20","","Washington Bullets",108,"Minnesota Timberwolves",100,18301,""
+"1992-11-20","","Miami Heat",128,"Philadelphia 76ers",129,13417,""
+"1992-11-20","","Portland Trail Blazers",104,"Sacramento Kings",99,17317,""
+"1992-11-21","","Boston Celtics",107,"Atlanta Hawks",116,12371,""
+"1992-11-21","","Cleveland Cavaliers",119,"Dallas Mavericks",108,13805,""
+"1992-11-21","","Minnesota Timberwolves",118,"Denver Nuggets",131,12457,""
+"1992-11-21","","San Antonio Spurs",100,"Houston Rockets",103,12229,""
+"1992-11-21","","Phoenix Suns",107,"Los Angeles Clippers",111,14419,""
+"1992-11-21","","Charlotte Hornets",123,"Miami Heat",111,15008,""
+"1992-11-21","","Indiana Pacers",95,"Milwaukee Bucks",105,18214,""
+"1992-11-21","","Philadelphia 76ers",104,"New Jersey Nets",95,11515,""
+"1992-11-21","","Orlando Magic",77,"New York Knicks",92,19763,""
+"1992-11-21","","Detroit Pistons",101,"Seattle SuperSonics",138,14252,""
+"1992-11-21","","Utah Jazz",109,"Washington Bullets",126,11027,""
+"1992-11-22","","Denver Nuggets",107,"Los Angeles Lakers",119,13841,""
+"1992-11-22","","Golden State Warriors",114,"New Jersey Nets",101,14463,""
+"1992-11-22","","Chicago Bulls",128,"Phoenix Suns",111,19023,""
+"1992-11-22","","Detroit Pistons",90,"Portland Trail Blazers",115,12888,""
+"1992-11-23","","Atlanta Hawks",101,"Boston Celtics",97,13299,"at Hartford, CT"
+"1992-11-23","","Seattle SuperSonics",99,"Sacramento Kings",103,17317,""
+"1992-11-24","","Philadelphia 76ers",119,"Charlotte Hornets",127,23698,""
+"1992-11-24","","Milwaukee Bucks",105,"Cleveland Cavaliers",109,15312,""
+"1992-11-24","","Chicago Bulls",101,"Golden State Warriors",92,15025,""
+"1992-11-24","","Los Angeles Clippers",83,"Houston Rockets",88,10251,""
+"1992-11-24","","Miami Heat",82,"Indiana Pacers",114,10098,""
+"1992-11-24","","Washington Bullets",88,"New York Knicks",98,19763,""
+"1992-11-24","","San Antonio Spurs",91,"Portland Trail Blazers",95,12888,""
+"1992-11-24","","New Jersey Nets",97,"Seattle SuperSonics",103,9367,""
+"1992-11-25","","Washington Bullets",112,"Boston Celtics",150,14890,""
+"1992-11-25","","Los Angeles Clippers",130,"Dallas Mavericks",112,11433,""
+"1992-11-25","","Sacramento Kings",99,"Denver Nuggets",114,8467,""
+"1992-11-25","","Charlotte Hornets",101,"Detroit Pistons",97,21454,""
+"1992-11-25","","New Jersey Nets",100,"Los Angeles Lakers",98,13860,""
+"1992-11-25","","Indiana Pacers",93,"Miami Heat",110,15008,""
+"1992-11-25","","Cleveland Cavaliers",85,"Milwaukee Bucks",94,15634,""
+"1992-11-25","","New York Knicks",99,"Minnesota Timberwolves",78,18063,""
+"1992-11-25","","Houston Rockets",94,"Orlando Magic",107,15151,""
+"1992-11-25","","Atlanta Hawks",111,"Philadelphia 76ers",105,13162,""
+"1992-11-25","","Portland Trail Blazers",117,"Phoenix Suns",121,19023,""
+"1992-11-25","","San Antonio Spurs",128,"Utah Jazz",102,19911,""
+"1992-11-27","","Charlotte Hornets",102,"Boston Celtics",111,14890,""
+"1992-11-27","","Atlanta Hawks",101,"Cleveland Cavaliers",122,20273,""
+"1992-11-27","","Seattle SuperSonics",127,"Dallas Mavericks",104,13257,""
+"1992-11-27","","Orlando Magic",130,"Indiana Pacers",116,16530,""
+"1992-11-27","","Denver Nuggets",109,"Los Angeles Clippers",106,10583,""
+"1992-11-27","","Houston Rockets",101,"Miami Heat",93,15000,""
+"1992-11-27","","Milwaukee Bucks",115,"Philadelphia 76ers",111,11831,""
+"1992-11-27","","Golden State Warriors",107,"Phoenix Suns",121,19023,""
+"1992-11-27","","Los Angeles Lakers",98,"Portland Trail Blazers",90,12888,""
+"1992-11-27","","New Jersey Nets",112,"Utah Jazz",110,19911,""
+"1992-11-27","","Minnesota Timberwolves",102,"Washington Bullets",83,12346,"at Baltimore, MD"
+"1992-11-28","","Miami Heat",100,"Atlanta Hawks",112,10330,""
+"1992-11-28","","Indiana Pacers",134,"Charlotte Hornets",122,23698,""
+"1992-11-28","","Los Angeles Clippers",121,"Denver Nuggets",119,15241,""
+"1992-11-28","","Phoenix Suns",131,"Golden State Warriors",134,15025,""
+"1992-11-28","","Utah Jazz",108,"Houston Rockets",99,14892,""
+"1992-11-28","","Washington Bullets",95,"Milwaukee Bucks",97,18028,""
+"1992-11-28","","Detroit Pistons",80,"Minnesota Timberwolves",82,19006,""
+"1992-11-28","","Chicago Bulls",75,"New York Knicks",112,19763,""
+"1992-11-28","","Cleveland Cavaliers",93,"Orlando Magic",95,15151,""
+"1992-11-28","","Boston Celtics",117,"Philadelphia 76ers",109,15672,""
+"1992-11-28","","New Jersey Nets",94,"Sacramento Kings",89,17317,""
+"1992-11-28","","Seattle SuperSonics",97,"San Antonio Spurs",104,16057,""
+"1992-11-29","","New York Knicks",76,"Detroit Pistons",92,21454,""
+"1992-11-29","","Dallas Mavericks",85,"Los Angeles Lakers",114,13855,""
+"1992-11-29","","Sacramento Kings",99,"Portland Trail Blazers",107,12888,""

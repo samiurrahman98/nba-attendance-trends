@@ -1,13 +1,13 @@
-Date,Visitor/Neutral,PTS_1,Home/Neutral,PTS_2,_1,_2,Attend.,Notes
-"Tue, Jun 1, 1999",New York Knicks,86,Indiana Pacers,88,Box Score,,"16,586",
-"Fri, Jun 4, 1999",San Antonio Spurs,85,Portland Trail Blazers,63,Box Score,,"20,732",
-"Sat, Jun 5, 1999",Indiana Pacers,91,New York Knicks,92,Box Score,,"19,763",
-"Sun, Jun 6, 1999",San Antonio Spurs,94,Portland Trail Blazers,80,Box Score,,"20,735",
-"Mon, Jun 7, 1999",Indiana Pacers,90,New York Knicks,78,Box Score,,"19,763",
-"Wed, Jun 9, 1999",New York Knicks,101,Indiana Pacers,94,Box Score,,"16,541",
-"Fri, Jun 11, 1999",Indiana Pacers,82,New York Knicks,90,Box Score,,"19,763",
-"Wed, Jun 16, 1999",New York Knicks,77,San Antonio Spurs,89,Box Score,,"39,514",
-"Fri, Jun 18, 1999",New York Knicks,67,San Antonio Spurs,80,Box Score,,"39,554",
-"Mon, Jun 21, 1999",San Antonio Spurs,81,New York Knicks,89,Box Score,,"19,763",
-"Wed, Jun 23, 1999",San Antonio Spurs,96,New York Knicks,89,Box Score,,"19,763",
-"Fri, Jun 25, 1999",San Antonio Spurs,78,New York Knicks,77,Box Score,,"19,763",
+"Date","Start (ET)","Visitor/Neutral","Visitor/Neutral PTS","Home/Neutral","Home/Neutral PTS","Attendance","Notes"
+"1999-06-01","","New York Knicks",86,"Indiana Pacers",88,16586,""
+"1999-06-04","","San Antonio Spurs",85,"Portland Trail Blazers",63,20732,""
+"1999-06-05","","Indiana Pacers",91,"New York Knicks",92,19763,""
+"1999-06-06","","San Antonio Spurs",94,"Portland Trail Blazers",80,20735,""
+"1999-06-07","","Indiana Pacers",90,"New York Knicks",78,19763,""
+"1999-06-09","","New York Knicks",101,"Indiana Pacers",94,16541,""
+"1999-06-11","","Indiana Pacers",82,"New York Knicks",90,19763,""
+"1999-06-16","","New York Knicks",77,"San Antonio Spurs",89,39514,""
+"1999-06-18","","New York Knicks",67,"San Antonio Spurs",80,39554,""
+"1999-06-21","","San Antonio Spurs",81,"New York Knicks",89,19763,""
+"1999-06-23","","San Antonio Spurs",96,"New York Knicks",89,19763,""
+"1999-06-25","","San Antonio Spurs",78,"New York Knicks",77,19763,""

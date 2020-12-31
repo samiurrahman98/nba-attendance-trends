@@ -1,1 +1,10 @@
-Date,Visitor/Neutral,PTS_1,Home/Neutral,PTS_2,_1,_2,Attend.,Notes
+"Date","Start (ET)","Visitor/Neutral","Visitor/Neutral PTS","Home/Neutral","Home/Neutral PTS","Attendance","Notes"
+"2013-06-01","20:30","Miami Heat",77,"Indiana Pacers",91,18165,""
+"2013-06-03","20:30","Indiana Pacers",76,"Miami Heat",99,20025,""
+"2013-06-06","21:00","San Antonio Spurs",92,"Miami Heat",88,19775,""
+"2013-06-09","20:00","San Antonio Spurs",84,"Miami Heat",103,19900,""
+"2013-06-11","21:00","Miami Heat",77,"San Antonio Spurs",113,18581,""
+"2013-06-13","21:00","Miami Heat",109,"San Antonio Spurs",93,18581,""
+"2013-06-16","20:00","Miami Heat",104,"San Antonio Spurs",114,18581,""
+"2013-06-18","21:00","San Antonio Spurs",100,"Miami Heat",103,19900,""
+"2013-06-20","21:00","San Antonio Spurs",88,"Miami Heat",95,19900,""

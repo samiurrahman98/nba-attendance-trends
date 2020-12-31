@@ -1,167 +1,167 @@
-Date,Visitor/Neutral,PTS_1,Home/Neutral,PTS_2,_1,_2,Attend.,Notes
-"Fri, Nov 4, 1988",New York Knicks,115,Boston Celtics,122,Box Score,OT,"14,890",
-"Fri, Nov 4, 1988",Cleveland Cavaliers,133,Charlotte Hornets,93,Box Score,,"23,338",
-"Fri, Nov 4, 1988",Detroit Pistons,107,Chicago Bulls,94,Box Score,,"18,420",
-"Fri, Nov 4, 1988",Los Angeles Lakers,116,Dallas Mavericks,113,Box Score,,"17,007",
-"Fri, Nov 4, 1988",Houston Rockets,117,Denver Nuggets,120,Box Score,,"14,876",
-"Fri, Nov 4, 1988",Milwaukee Bucks,117,Indiana Pacers,103,Box Score,,"11,153",
-"Fri, Nov 4, 1988",Atlanta Hawks,113,New Jersey Nets,105,Box Score,,"14,480",
-"Fri, Nov 4, 1988",Los Angeles Clippers,110,Philadelphia 76ers,129,Box Score,,"13,468",
-"Fri, Nov 4, 1988",Phoenix Suns,105,Portland Trail Blazers,120,Box Score,,"12,812",
-"Fri, Nov 4, 1988",Seattle SuperSonics,104,Utah Jazz,97,Box Score,,"12,444",
-"Sat, Nov 5, 1988",Charlotte Hornets,85,Detroit Pistons,94,Box Score,,"21,454",
-"Sat, Nov 5, 1988",Phoenix Suns,104,Golden State Warriors,117,Box Score,,"15,025",
-"Sat, Nov 5, 1988",Dallas Mavericks,114,Houston Rockets,113,Box Score,OT,"16,611",
-"Sat, Nov 5, 1988",Cleveland Cavaliers,105,Indiana Pacers,99,Box Score,,"10,710",
-"Sat, Nov 5, 1988",Los Angeles Clippers,111,Miami Heat,91,Box Score,,"15,008",
-"Sat, Nov 5, 1988",Atlanta Hawks,107,Milwaukee Bucks,94,Box Score,,"18,649",
-"Sat, Nov 5, 1988",New York Knicks,102,New Jersey Nets,112,Box Score,,"19,469",
-"Sat, Nov 5, 1988",Boston Celtics,115,Philadelphia 76ers,129,Box Score,,"17,341",
-"Sat, Nov 5, 1988",Sacramento Kings,103,Portland Trail Blazers,121,Box Score,,"12,812",
-"Sat, Nov 5, 1988",Los Angeles Lakers,107,San Antonio Spurs,122,Box Score,,"15,861",
-"Sat, Nov 5, 1988",Denver Nuggets,141,Seattle SuperSonics,142,Box Score,OT,"14,269",
-"Sat, Nov 5, 1988",Chicago Bulls,111,Washington Bullets,98,Box Score,,"17,235",
-"Tue, Nov 8, 1988",Indiana Pacers,107,Atlanta Hawks,112,Box Score,,"16,371",
-"Tue, Nov 8, 1988",Los Angeles Clippers,105,Charlotte Hornets,117,Box Score,,"18,865",
-"Tue, Nov 8, 1988",Miami Heat,88,Dallas Mavericks,92,Box Score,,"16,129",
-"Tue, Nov 8, 1988",Los Angeles Lakers,114,Golden State Warriors,102,Box Score,,"15,025",
-"Tue, Nov 8, 1988",San Antonio Spurs,102,Houston Rockets,120,Box Score,,"16,611",
-"Tue, Nov 8, 1988",Washington Bullets,101,New Jersey Nets,109,Box Score,,,
-"Tue, Nov 8, 1988",Chicago Bulls,117,New York Knicks,126,Box Score,,"19,591",
-"Tue, Nov 8, 1988",Detroit Pistons,116,Philadelphia 76ers,109,Box Score,,"10,115",
-"Tue, Nov 8, 1988",Seattle SuperSonics,97,Sacramento Kings,75,Box Score,,"16,517",
-"Wed, Nov 9, 1988",Chicago Bulls,110,Boston Celtics,104,Box Score,,"14,890",
-"Wed, Nov 9, 1988",Los Angeles Clippers,91,Cleveland Cavaliers,108,Box Score,,"16,513",
-"Wed, Nov 9, 1988",Atlanta Hawks,95,Detroit Pistons,101,Box Score,OT,"21,454",
-"Wed, Nov 9, 1988",Denver Nuggets,110,Los Angeles Lakers,128,Box Score,,"17,505",
-"Wed, Nov 9, 1988",Philadelphia 76ers,103,Milwaukee Bucks,114,Box Score,,"14,192",
-"Wed, Nov 9, 1988",Dallas Mavericks,103,Phoenix Suns,111,Box Score,,,
-"Wed, Nov 9, 1988",Miami Heat,93,San Antonio Spurs,117,Box Score,,,
-"Wed, Nov 9, 1988",Golden State Warriors,113,Seattle SuperSonics,108,Box Score,,,
-"Wed, Nov 9, 1988",Sacramento Kings,81,Utah Jazz,105,Box Score,,"11,741",
-"Wed, Nov 9, 1988",New York Knicks,117,Washington Bullets,110,Box Score,,,
-"Thu, Nov 10, 1988",Portland Trail Blazers,115,Denver Nuggets,135,Box Score,,,
-"Thu, Nov 10, 1988",Utah Jazz,99,Houston Rockets,106,Box Score,,"16,611",
-"Fri, Nov 11, 1988",Detroit Pistons,116,Boston Celtics,107,Box Score,,"14,890",
-"Fri, Nov 11, 1988",New Jersey Nets,85,Chicago Bulls,97,Box Score,,"17,901",
-"Fri, Nov 11, 1988",San Antonio Spurs,102,Dallas Mavericks,115,Box Score,,"17,007",
-"Fri, Nov 11, 1988",New York Knicks,121,Indiana Pacers,120,Box Score,OT,"10,336",
-"Fri, Nov 11, 1988",Seattle SuperSonics,103,Los Angeles Lakers,114,Box Score,,"17,505",
-"Fri, Nov 11, 1988",Houston Rockets,121,Miami Heat,100,Box Score,,"15,008",
-"Fri, Nov 11, 1988",Atlanta Hawks,105,Philadelphia 76ers,107,Box Score,,"13,266",
-"Fri, Nov 11, 1988",Golden State Warriors,103,Phoenix Suns,141,Box Score,,"10,045",
-"Fri, Nov 11, 1988",Charlotte Hornets,87,Washington Bullets,96,Box Score,,"12,731",
-"Sat, Nov 12, 1988",Charlotte Hornets,111,Atlanta Hawks,132,Box Score,,"16,155",
-"Sat, Nov 12, 1988",Indiana Pacers,96,Cleveland Cavaliers,121,Box Score,,"14,626",
-"Sat, Nov 12, 1988",Sacramento Kings,71,Dallas Mavericks,111,Box Score,,"17,007",
-"Sat, Nov 12, 1988",Seattle SuperSonics,129,Denver Nuggets,141,Box Score,,"12,401",
-"Sat, Nov 12, 1988",Portland Trail Blazers,100,Golden State Warriors,107,Box Score,,"12,470",
-"Sat, Nov 12, 1988",Phoenix Suns,127,Los Angeles Clippers,138,Box Score,OT,"13,826",
-"Sat, Nov 12, 1988",Boston Celtics,100,Milwaukee Bucks,108,Box Score,,"18,673",
-"Sat, Nov 12, 1988",Chicago Bulls,91,New Jersey Nets,97,Box Score,,"17,082",
-"Sat, Nov 12, 1988",Washington Bullets,101,New York Knicks,111,Box Score,,"16,567",
-"Sat, Nov 12, 1988",Utah Jazz,105,San Antonio Spurs,96,Box Score,,"11,889",
-"Sun, Nov 13, 1988",Sacramento Kings,127,Houston Rockets,129,Box Score,,"16,611",
-"Sun, Nov 13, 1988",Denver Nuggets,143,Portland Trail Blazers,132,Box Score,,"12,812",
-"Mon, Nov 14, 1988",Golden State Warriors,100,New Jersey Nets,96,Box Score,,,
-"Tue, Nov 15, 1988",New Jersey Nets,106,Charlotte Hornets,99,Box Score,,"21,748",
-"Tue, Nov 15, 1988",Philadelphia 76ers,107,Chicago Bulls,120,Box Score,,"17,498",
-"Tue, Nov 15, 1988",Atlanta Hawks,97,Cleveland Cavaliers,95,Box Score,,"15,684",
-"Tue, Nov 15, 1988",Detroit Pistons,108,Dallas Mavericks,99,Box Score,,"17,007",
-"Tue, Nov 15, 1988",Los Angeles Lakers,148,Denver Nuggets,146,Box Score,2OT,"15,198",
-"Tue, Nov 15, 1988",New York Knicks,126,Houston Rockets,121,Box Score,,"16,611",
-"Tue, Nov 15, 1988",Boston Celtics,84,Miami Heat,65,Box Score,,"15,008",
-"Tue, Nov 15, 1988",Los Angeles Clippers,103,Portland Trail Blazers,125,Box Score,,"12,812",
-"Tue, Nov 15, 1988",Phoenix Suns,119,Sacramento Kings,89,Box Score,,"16,517",
-"Tue, Nov 15, 1988",Indiana Pacers,96,Utah Jazz,108,Box Score,,"12,444",
-"Wed, Nov 16, 1988",Golden State Warriors,104,Boston Celtics,107,Box Score,,"14,890",
-"Wed, Nov 16, 1988",Sacramento Kings,101,Los Angeles Clippers,112,Box Score,,,
-"Wed, Nov 16, 1988",Chicago Bulls,110,Philadelphia 76ers,123,Box Score,,"14,185",
-"Wed, Nov 16, 1988",Indiana Pacers,104,Phoenix Suns,123,Box Score,,,
-"Wed, Nov 16, 1988",Detroit Pistons,94,San Antonio Spurs,88,Box Score,,"11,991",
-"Thu, Nov 17, 1988",Charlotte Hornets,93,Dallas Mavericks,105,Box Score,,"16,512",
-"Thu, Nov 17, 1988",San Antonio Spurs,112,Denver Nuggets,139,Box Score,,"10,079",
-"Thu, Nov 17, 1988",Miami Heat,107,Houston Rockets,113,Box Score,,"16,288",
-"Thu, Nov 17, 1988",New Jersey Nets,105,Milwaukee Bucks,96,Box Score,,"15,419",
-"Thu, Nov 17, 1988",Los Angeles Lakers,98,Seattle SuperSonics,101,Box Score,,"14,576",
-"Thu, Nov 17, 1988",Portland Trail Blazers,99,Utah Jazz,123,Box Score,,"12,444",
-"Fri, Nov 18, 1988",Washington Bullets,108,Boston Celtics,114,Box Score,,"14,890",
-"Fri, Nov 18, 1988",Atlanta Hawks,112,Chicago Bulls,115,Box Score,OT,"18,503",
-"Fri, Nov 18, 1988",Indiana Pacers,110,Los Angeles Clippers,113,Box Score,,"10,638",
-"Fri, Nov 18, 1988",Portland Trail Blazers,105,Los Angeles Lakers,106,Box Score,,"17,505",
-"Fri, Nov 18, 1988",Golden State Warriors,123,Miami Heat,117,Box Score,OT,"13,907",
-"Fri, Nov 18, 1988",Cleveland Cavaliers,95,New Jersey Nets,94,Box Score,,,
-"Fri, Nov 18, 1988",New York Knicks,135,Philadelphia 76ers,137,Box Score,,"14,322",
-"Fri, Nov 18, 1988",Detroit Pistons,121,Phoenix Suns,105,Box Score,,"14,471",
-"Sat, Nov 19, 1988",Golden State Warriors,92,Atlanta Hawks,111,Box Score,,"15,929",
-"Sat, Nov 19, 1988",Milwaukee Bucks,99,Cleveland Cavaliers,106,Box Score,,"17,287",
-"Sat, Nov 19, 1988",Los Angeles Clippers,107,Denver Nuggets,134,Box Score,,"10,405",
-"Sat, Nov 19, 1988",Detroit Pistons,98,Houston Rockets,109,Box Score,,"16,611",
-"Sat, Nov 19, 1988",Philadelphia 76ers,122,New York Knicks,141,Box Score,,"19,591",
-"Sat, Nov 19, 1988",Indiana Pacers,96,Sacramento Kings,107,Box Score,,"16,517",
-"Sat, Nov 19, 1988",Charlotte Hornets,107,San Antonio Spurs,105,Box Score,,"10,863",
-"Sat, Nov 19, 1988",Dallas Mavericks,112,Seattle SuperSonics,106,Box Score,,"11,608",
-"Sat, Nov 19, 1988",Phoenix Suns,121,Utah Jazz,134,Box Score,,"12,444",
-"Sat, Nov 19, 1988",Boston Celtics,104,Washington Bullets,108,Box Score,,"16,575",
-"Sun, Nov 20, 1988",New Jersey Nets,106,Portland Trail Blazers,117,Box Score,,"12,848",
-"Mon, Nov 21, 1988",Atlanta Hawks,113,Houston Rockets,117,Box Score,,"16,611",
-"Mon, Nov 21, 1988",Los Angeles Clippers,98,Utah Jazz,117,Box Score,,"12,444",
-"Tue, Nov 22, 1988",Cleveland Cavaliers,114,Boston Celtics,102,Box Score,,"15,239","at Hartford, CT"
-"Tue, Nov 22, 1988",Detroit Pistons,99,Charlotte Hornets,93,Box Score,,"23,388",
-"Tue, Nov 22, 1988",New Jersey Nets,106,Denver Nuggets,141,Box Score,,,
-"Tue, Nov 22, 1988",Milwaukee Bucks,91,Indiana Pacers,105,Box Score,,,
-"Tue, Nov 22, 1988",Los Angeles Lakers,110,New York Knicks,98,Box Score,,"19,591",
-"Tue, Nov 22, 1988",Chicago Bulls,114,Sacramento Kings,98,Box Score,,"16,517",
-"Tue, Nov 22, 1988",Portland Trail Blazers,125,Seattle SuperSonics,104,Box Score,,"10,956",
-"Tue, Nov 22, 1988",Philadelphia 76ers,130,Washington Bullets,103,Box Score,,,
-"Wed, Nov 23, 1988",Charlotte Hornets,109,Boston Celtics,114,Box Score,,"14,890",
-"Wed, Nov 23, 1988",Denver Nuggets,106,Dallas Mavericks,125,Box Score,,"17,007",
-"Wed, Nov 23, 1988",New York Knicks,133,Detroit Pistons,111,Box Score,,"21,454",
-"Wed, Nov 23, 1988",Seattle SuperSonics,93,Golden State Warriors,85,Box Score,,"13,770",
-"Wed, Nov 23, 1988",Chicago Bulls,97,Los Angeles Clippers,105,Box Score,,"15,352",
-"Wed, Nov 23, 1988",Los Angeles Lakers,138,Miami Heat,91,Box Score,,"15,008",
-"Wed, Nov 23, 1988",Washington Bullets,102,Milwaukee Bucks,124,Box Score,,"15,102",
-"Wed, Nov 23, 1988",Cleveland Cavaliers,91,Philadelphia 76ers,104,Box Score,,"13,146",
-"Wed, Nov 23, 1988",New Jersey Nets,133,Phoenix Suns,129,Box Score,,,
-"Wed, Nov 23, 1988",Atlanta Hawks,109,San Antonio Spurs,119,Box Score,,"11,874",
-"Wed, Nov 23, 1988",Houston Rockets,108,Utah Jazz,111,Box Score,,"12,444",
-"Fri, Nov 25, 1988",Milwaukee Bucks,96,Boston Celtics,115,Box Score,,"14,890",
-"Fri, Nov 25, 1988",Atlanta Hawks,95,Dallas Mavericks,100,Box Score,,"17,007",
-"Fri, Nov 25, 1988",Washington Bullets,106,Indiana Pacers,101,Box Score,,"12,570",
-"Fri, Nov 25, 1988",New Jersey Nets,93,Los Angeles Clippers,100,Box Score,,,
-"Fri, Nov 25, 1988",Charlotte Hornets,116,Philadelphia 76ers,123,Box Score,,"10,588",
-"Fri, Nov 25, 1988",Seattle SuperSonics,105,Phoenix Suns,110,Box Score,,"10,710",
-"Fri, Nov 25, 1988",Houston Rockets,94,Portland Trail Blazers,111,Box Score,,"12,848",
-"Fri, Nov 25, 1988",San Antonio Spurs,95,Utah Jazz,115,Box Score,,"12,444",
-"Sat, Nov 26, 1988",Boston Celtics,91,Atlanta Hawks,104,Box Score,,"16,371",
-"Sat, Nov 26, 1988",Washington Bullets,120,Charlotte Hornets,113,Box Score,,"23,388",
-"Sat, Nov 26, 1988",Utah Jazz,93,Dallas Mavericks,113,Box Score,,"17,007",
-"Sat, Nov 26, 1988",Chicago Bulls,123,Denver Nuggets,128,Box Score,,"17,022",
-"Sat, Nov 26, 1988",Los Angeles Lakers,99,Detroit Pistons,102,Box Score,,"21,454",
-"Sat, Nov 26, 1988",Houston Rockets,119,Golden State Warriors,109,Box Score,,"15,025",
-"Sat, Nov 26, 1988",Miami Heat,93,Milwaukee Bucks,103,Box Score,,"18,573",
-"Sat, Nov 26, 1988",Cleveland Cavaliers,112,New York Knicks,127,Box Score,,"19,591",
-"Sat, Nov 26, 1988",Indiana Pacers,114,Philadelphia 76ers,122,Box Score,,,
-"Sat, Nov 26, 1988",New Jersey Nets,98,Sacramento Kings,97,Box Score,,"16,517",
-"Sat, Nov 26, 1988",Phoenix Suns,104,San Antonio Spurs,117,Box Score,,"10,583",
-"Sun, Nov 27, 1988",Miami Heat,80,Cleveland Cavaliers,109,Box Score,,,
-"Sun, Nov 27, 1988",Golden State Warriors,94,Portland Trail Blazers,109,Box Score,,"12,848",
-"Mon, Nov 28, 1988",Los Angeles Lakers,109,Philadelphia 76ers,104,Box Score,,"18,168",
-"Tue, Nov 29, 1988",San Antonio Spurs,104,Atlanta Hawks,120,Box Score,,"13,133",
-"Tue, Nov 29, 1988",Miami Heat,84,Charlotte Hornets,99,Box Score,,"23,388",
-"Tue, Nov 29, 1988",New York Knicks,119,Denver Nuggets,139,Box Score,,"10,387",
-"Tue, Nov 29, 1988",Chicago Bulls,99,Golden State Warriors,109,Box Score,,"15,025",
-"Tue, Nov 29, 1988",Phoenix Suns,124,Houston Rockets,107,Box Score,,"16,611",
-"Tue, Nov 29, 1988",Detroit Pistons,98,Indiana Pacers,107,Box Score,,"10,275",
-"Tue, Nov 29, 1988",Portland Trail Blazers,114,Milwaukee Bucks,119,Box Score,,"13,918",
-"Tue, Nov 29, 1988",Boston Celtics,100,New Jersey Nets,93,Box Score,,"15,131",
-"Tue, Nov 29, 1988",Los Angeles Clippers,95,Sacramento Kings,123,Box Score,,"16,517",
-"Tue, Nov 29, 1988",Utah Jazz,102,Seattle SuperSonics,109,Box Score,,"12,336",
-"Wed, Nov 30, 1988",New Jersey Nets,100,Boston Celtics,133,Box Score,,"14,890",
-"Wed, Nov 30, 1988",Houston Rockets,101,Dallas Mavericks,89,Box Score,,"17,007",
-"Wed, Nov 30, 1988",Indiana Pacers,111,Detroit Pistons,114,Box Score,,"21,454",
-"Wed, Nov 30, 1988",New York Knicks,135,Los Angeles Clippers,128,Box Score,OT,"11,507",
-"Wed, Nov 30, 1988",Seattle SuperSonics,106,Los Angeles Lakers,110,Box Score,,"17,505",
-"Wed, Nov 30, 1988",San Antonio Spurs,105,Miami Heat,101,Box Score,,"14,298",
-"Wed, Nov 30, 1988",Portland Trail Blazers,106,Philadelphia 76ers,114,Box Score,,,
-"Wed, Nov 30, 1988",Chicago Bulls,93,Utah Jazz,107,Box Score,,"12,444",
+"Date","Start (ET)","Visitor/Neutral","Visitor/Neutral PTS","Home/Neutral","Home/Neutral PTS","Attendance","Notes"
+"1988-11-04","","New York Knicks",115,"Boston Celtics",122,14890,""
+"1988-11-04","","Cleveland Cavaliers",133,"Charlotte Hornets",93,23338,""
+"1988-11-04","","Detroit Pistons",107,"Chicago Bulls",94,18420,""
+"1988-11-04","","Los Angeles Lakers",116,"Dallas Mavericks",113,17007,""
+"1988-11-04","","Houston Rockets",117,"Denver Nuggets",120,14876,""
+"1988-11-04","","Milwaukee Bucks",117,"Indiana Pacers",103,11153,""
+"1988-11-04","","Atlanta Hawks",113,"New Jersey Nets",105,14480,""
+"1988-11-04","","Los Angeles Clippers",110,"Philadelphia 76ers",129,13468,""
+"1988-11-04","","Phoenix Suns",105,"Portland Trail Blazers",120,12812,""
+"1988-11-04","","Seattle SuperSonics",104,"Utah Jazz",97,12444,""
+"1988-11-05","","Charlotte Hornets",85,"Detroit Pistons",94,21454,""
+"1988-11-05","","Phoenix Suns",104,"Golden State Warriors",117,15025,""
+"1988-11-05","","Dallas Mavericks",114,"Houston Rockets",113,16611,""
+"1988-11-05","","Cleveland Cavaliers",105,"Indiana Pacers",99,10710,""
+"1988-11-05","","Los Angeles Clippers",111,"Miami Heat",91,15008,""
+"1988-11-05","","Atlanta Hawks",107,"Milwaukee Bucks",94,18649,""
+"1988-11-05","","New York Knicks",102,"New Jersey Nets",112,19469,""
+"1988-11-05","","Boston Celtics",115,"Philadelphia 76ers",129,17341,""
+"1988-11-05","","Sacramento Kings",103,"Portland Trail Blazers",121,12812,""
+"1988-11-05","","Los Angeles Lakers",107,"San Antonio Spurs",122,15861,""
+"1988-11-05","","Denver Nuggets",141,"Seattle SuperSonics",142,14269,""
+"1988-11-05","","Chicago Bulls",111,"Washington Bullets",98,17235,""
+"1988-11-08","","Indiana Pacers",107,"Atlanta Hawks",112,16371,""
+"1988-11-08","","Los Angeles Clippers",105,"Charlotte Hornets",117,18865,""
+"1988-11-08","","Miami Heat",88,"Dallas Mavericks",92,16129,""
+"1988-11-08","","Los Angeles Lakers",114,"Golden State Warriors",102,15025,""
+"1988-11-08","","San Antonio Spurs",102,"Houston Rockets",120,16611,""
+"1988-11-08","","Washington Bullets",101,"New Jersey Nets",109,"",""
+"1988-11-08","","Chicago Bulls",117,"New York Knicks",126,19591,""
+"1988-11-08","","Detroit Pistons",116,"Philadelphia 76ers",109,10115,""
+"1988-11-08","","Seattle SuperSonics",97,"Sacramento Kings",75,16517,""
+"1988-11-09","","Chicago Bulls",110,"Boston Celtics",104,14890,""
+"1988-11-09","","Los Angeles Clippers",91,"Cleveland Cavaliers",108,16513,""
+"1988-11-09","","Atlanta Hawks",95,"Detroit Pistons",101,21454,""
+"1988-11-09","","Denver Nuggets",110,"Los Angeles Lakers",128,17505,""
+"1988-11-09","","Philadelphia 76ers",103,"Milwaukee Bucks",114,14192,""
+"1988-11-09","","Dallas Mavericks",103,"Phoenix Suns",111,"",""
+"1988-11-09","","Miami Heat",93,"San Antonio Spurs",117,"",""
+"1988-11-09","","Golden State Warriors",113,"Seattle SuperSonics",108,"",""
+"1988-11-09","","Sacramento Kings",81,"Utah Jazz",105,11741,""
+"1988-11-09","","New York Knicks",117,"Washington Bullets",110,"",""
+"1988-11-10","","Portland Trail Blazers",115,"Denver Nuggets",135,"",""
+"1988-11-10","","Utah Jazz",99,"Houston Rockets",106,16611,""
+"1988-11-11","","Detroit Pistons",116,"Boston Celtics",107,14890,""
+"1988-11-11","","New Jersey Nets",85,"Chicago Bulls",97,17901,""
+"1988-11-11","","San Antonio Spurs",102,"Dallas Mavericks",115,17007,""
+"1988-11-11","","New York Knicks",121,"Indiana Pacers",120,10336,""
+"1988-11-11","","Seattle SuperSonics",103,"Los Angeles Lakers",114,17505,""
+"1988-11-11","","Houston Rockets",121,"Miami Heat",100,15008,""
+"1988-11-11","","Atlanta Hawks",105,"Philadelphia 76ers",107,13266,""
+"1988-11-11","","Golden State Warriors",103,"Phoenix Suns",141,10045,""
+"1988-11-11","","Charlotte Hornets",87,"Washington Bullets",96,12731,""
+"1988-11-12","","Charlotte Hornets",111,"Atlanta Hawks",132,16155,""
+"1988-11-12","","Indiana Pacers",96,"Cleveland Cavaliers",121,14626,""
+"1988-11-12","","Sacramento Kings",71,"Dallas Mavericks",111,17007,""
+"1988-11-12","","Seattle SuperSonics",129,"Denver Nuggets",141,12401,""
+"1988-11-12","","Portland Trail Blazers",100,"Golden State Warriors",107,12470,""
+"1988-11-12","","Phoenix Suns",127,"Los Angeles Clippers",138,13826,""
+"1988-11-12","","Boston Celtics",100,"Milwaukee Bucks",108,18673,""
+"1988-11-12","","Chicago Bulls",91,"New Jersey Nets",97,17082,""
+"1988-11-12","","Washington Bullets",101,"New York Knicks",111,16567,""
+"1988-11-12","","Utah Jazz",105,"San Antonio Spurs",96,11889,""
+"1988-11-13","","Sacramento Kings",127,"Houston Rockets",129,16611,""
+"1988-11-13","","Denver Nuggets",143,"Portland Trail Blazers",132,12812,""
+"1988-11-14","","Golden State Warriors",100,"New Jersey Nets",96,"",""
+"1988-11-15","","New Jersey Nets",106,"Charlotte Hornets",99,21748,""
+"1988-11-15","","Philadelphia 76ers",107,"Chicago Bulls",120,17498,""
+"1988-11-15","","Atlanta Hawks",97,"Cleveland Cavaliers",95,15684,""
+"1988-11-15","","Detroit Pistons",108,"Dallas Mavericks",99,17007,""
+"1988-11-15","","Los Angeles Lakers",148,"Denver Nuggets",146,15198,""
+"1988-11-15","","New York Knicks",126,"Houston Rockets",121,16611,""
+"1988-11-15","","Boston Celtics",84,"Miami Heat",65,15008,""
+"1988-11-15","","Los Angeles Clippers",103,"Portland Trail Blazers",125,12812,""
+"1988-11-15","","Phoenix Suns",119,"Sacramento Kings",89,16517,""
+"1988-11-15","","Indiana Pacers",96,"Utah Jazz",108,12444,""
+"1988-11-16","","Golden State Warriors",104,"Boston Celtics",107,14890,""
+"1988-11-16","","Sacramento Kings",101,"Los Angeles Clippers",112,"",""
+"1988-11-16","","Chicago Bulls",110,"Philadelphia 76ers",123,14185,""
+"1988-11-16","","Indiana Pacers",104,"Phoenix Suns",123,"",""
+"1988-11-16","","Detroit Pistons",94,"San Antonio Spurs",88,11991,""
+"1988-11-17","","Charlotte Hornets",93,"Dallas Mavericks",105,16512,""
+"1988-11-17","","San Antonio Spurs",112,"Denver Nuggets",139,10079,""
+"1988-11-17","","Miami Heat",107,"Houston Rockets",113,16288,""
+"1988-11-17","","New Jersey Nets",105,"Milwaukee Bucks",96,15419,""
+"1988-11-17","","Los Angeles Lakers",98,"Seattle SuperSonics",101,14576,""
+"1988-11-17","","Portland Trail Blazers",99,"Utah Jazz",123,12444,""
+"1988-11-18","","Washington Bullets",108,"Boston Celtics",114,14890,""
+"1988-11-18","","Atlanta Hawks",112,"Chicago Bulls",115,18503,""
+"1988-11-18","","Indiana Pacers",110,"Los Angeles Clippers",113,10638,""
+"1988-11-18","","Portland Trail Blazers",105,"Los Angeles Lakers",106,17505,""
+"1988-11-18","","Golden State Warriors",123,"Miami Heat",117,13907,""
+"1988-11-18","","Cleveland Cavaliers",95,"New Jersey Nets",94,"",""
+"1988-11-18","","New York Knicks",135,"Philadelphia 76ers",137,14322,""
+"1988-11-18","","Detroit Pistons",121,"Phoenix Suns",105,14471,""
+"1988-11-19","","Golden State Warriors",92,"Atlanta Hawks",111,15929,""
+"1988-11-19","","Milwaukee Bucks",99,"Cleveland Cavaliers",106,17287,""
+"1988-11-19","","Los Angeles Clippers",107,"Denver Nuggets",134,10405,""
+"1988-11-19","","Detroit Pistons",98,"Houston Rockets",109,16611,""
+"1988-11-19","","Philadelphia 76ers",122,"New York Knicks",141,19591,""
+"1988-11-19","","Indiana Pacers",96,"Sacramento Kings",107,16517,""
+"1988-11-19","","Charlotte Hornets",107,"San Antonio Spurs",105,10863,""
+"1988-11-19","","Dallas Mavericks",112,"Seattle SuperSonics",106,11608,""
+"1988-11-19","","Phoenix Suns",121,"Utah Jazz",134,12444,""
+"1988-11-19","","Boston Celtics",104,"Washington Bullets",108,16575,""
+"1988-11-20","","New Jersey Nets",106,"Portland Trail Blazers",117,12848,""
+"1988-11-21","","Atlanta Hawks",113,"Houston Rockets",117,16611,""
+"1988-11-21","","Los Angeles Clippers",98,"Utah Jazz",117,12444,""
+"1988-11-22","","Cleveland Cavaliers",114,"Boston Celtics",102,15239,"at Hartford, CT"
+"1988-11-22","","Detroit Pistons",99,"Charlotte Hornets",93,23388,""
+"1988-11-22","","New Jersey Nets",106,"Denver Nuggets",141,"",""
+"1988-11-22","","Milwaukee Bucks",91,"Indiana Pacers",105,"",""
+"1988-11-22","","Los Angeles Lakers",110,"New York Knicks",98,19591,""
+"1988-11-22","","Chicago Bulls",114,"Sacramento Kings",98,16517,""
+"1988-11-22","","Portland Trail Blazers",125,"Seattle SuperSonics",104,10956,""
+"1988-11-22","","Philadelphia 76ers",130,"Washington Bullets",103,"",""
+"1988-11-23","","Charlotte Hornets",109,"Boston Celtics",114,14890,""
+"1988-11-23","","Denver Nuggets",106,"Dallas Mavericks",125,17007,""
+"1988-11-23","","New York Knicks",133,"Detroit Pistons",111,21454,""
+"1988-11-23","","Seattle SuperSonics",93,"Golden State Warriors",85,13770,""
+"1988-11-23","","Chicago Bulls",97,"Los Angeles Clippers",105,15352,""
+"1988-11-23","","Los Angeles Lakers",138,"Miami Heat",91,15008,""
+"1988-11-23","","Washington Bullets",102,"Milwaukee Bucks",124,15102,""
+"1988-11-23","","Cleveland Cavaliers",91,"Philadelphia 76ers",104,13146,""
+"1988-11-23","","New Jersey Nets",133,"Phoenix Suns",129,"",""
+"1988-11-23","","Atlanta Hawks",109,"San Antonio Spurs",119,11874,""
+"1988-11-23","","Houston Rockets",108,"Utah Jazz",111,12444,""
+"1988-11-25","","Milwaukee Bucks",96,"Boston Celtics",115,14890,""
+"1988-11-25","","Atlanta Hawks",95,"Dallas Mavericks",100,17007,""
+"1988-11-25","","Washington Bullets",106,"Indiana Pacers",101,12570,""
+"1988-11-25","","New Jersey Nets",93,"Los Angeles Clippers",100,"",""
+"1988-11-25","","Charlotte Hornets",116,"Philadelphia 76ers",123,10588,""
+"1988-11-25","","Seattle SuperSonics",105,"Phoenix Suns",110,10710,""
+"1988-11-25","","Houston Rockets",94,"Portland Trail Blazers",111,12848,""
+"1988-11-25","","San Antonio Spurs",95,"Utah Jazz",115,12444,""
+"1988-11-26","","Boston Celtics",91,"Atlanta Hawks",104,16371,""
+"1988-11-26","","Washington Bullets",120,"Charlotte Hornets",113,23388,""
+"1988-11-26","","Utah Jazz",93,"Dallas Mavericks",113,17007,""
+"1988-11-26","","Chicago Bulls",123,"Denver Nuggets",128,17022,""
+"1988-11-26","","Los Angeles Lakers",99,"Detroit Pistons",102,21454,""
+"1988-11-26","","Houston Rockets",119,"Golden State Warriors",109,15025,""
+"1988-11-26","","Miami Heat",93,"Milwaukee Bucks",103,18573,""
+"1988-11-26","","Cleveland Cavaliers",112,"New York Knicks",127,19591,""
+"1988-11-26","","Indiana Pacers",114,"Philadelphia 76ers",122,"",""
+"1988-11-26","","New Jersey Nets",98,"Sacramento Kings",97,16517,""
+"1988-11-26","","Phoenix Suns",104,"San Antonio Spurs",117,10583,""
+"1988-11-27","","Miami Heat",80,"Cleveland Cavaliers",109,"",""
+"1988-11-27","","Golden State Warriors",94,"Portland Trail Blazers",109,12848,""
+"1988-11-28","","Los Angeles Lakers",109,"Philadelphia 76ers",104,18168,""
+"1988-11-29","","San Antonio Spurs",104,"Atlanta Hawks",120,13133,""
+"1988-11-29","","Miami Heat",84,"Charlotte Hornets",99,23388,""
+"1988-11-29","","New York Knicks",119,"Denver Nuggets",139,10387,""
+"1988-11-29","","Chicago Bulls",99,"Golden State Warriors",109,15025,""
+"1988-11-29","","Phoenix Suns",124,"Houston Rockets",107,16611,""
+"1988-11-29","","Detroit Pistons",98,"Indiana Pacers",107,10275,""
+"1988-11-29","","Portland Trail Blazers",114,"Milwaukee Bucks",119,13918,""
+"1988-11-29","","Boston Celtics",100,"New Jersey Nets",93,15131,""
+"1988-11-29","","Los Angeles Clippers",95,"Sacramento Kings",123,16517,""
+"1988-11-29","","Utah Jazz",102,"Seattle SuperSonics",109,12336,""
+"1988-11-30","","New Jersey Nets",100,"Boston Celtics",133,14890,""
+"1988-11-30","","Houston Rockets",101,"Dallas Mavericks",89,17007,""
+"1988-11-30","","Indiana Pacers",111,"Detroit Pistons",114,21454,""
+"1988-11-30","","New York Knicks",135,"Los Angeles Clippers",128,11507,""
+"1988-11-30","","Seattle SuperSonics",106,"Los Angeles Lakers",110,17505,""
+"1988-11-30","","San Antonio Spurs",105,"Miami Heat",101,14298,""
+"1988-11-30","","Portland Trail Blazers",106,"Philadelphia 76ers",114,"",""
+"1988-11-30","","Chicago Bulls",93,"Utah Jazz",107,12444,""

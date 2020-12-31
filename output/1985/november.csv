@@ -1,165 +1,165 @@
-Date,Visitor/Neutral,PTS_1,Home/Neutral,PTS_2,_1,_2,Attend.,Notes
-"Thu, Nov 1, 1984",Detroit Pistons,118,Atlanta Hawks,114,Box Score,,"6,871",
-"Thu, Nov 1, 1984",Chicago Bulls,113,Denver Nuggets,129,Box Score,,"9,413",
-"Thu, Nov 1, 1984",San Antonio Spurs,123,Golden State Warriors,108,Box Score,,"3,980",
-"Thu, Nov 1, 1984",Houston Rockets,109,Kansas City Kings,106,Box Score,,"11,640",
-"Thu, Nov 1, 1984",New York Knicks,105,Los Angeles Clippers,107,Box Score,,"12,018",
-"Thu, Nov 1, 1984",Portland Trail Blazers,130,Phoenix Suns,139,Box Score,3OT,"14,660",
-"Thu, Nov 1, 1984",Los Angeles Lakers,103,Seattle SuperSonics,105,Box Score,,"7,070",
-"Fri, Nov 2, 1984",Detroit Pistons,116,Boston Celtics,127,Box Score,,"14,890",
-"Fri, Nov 2, 1984",Indiana Pacers,116,Cleveland Cavaliers,109,Box Score,,"5,129",
-"Fri, Nov 2, 1984",San Antonio Spurs,100,Los Angeles Lakers,119,Box Score,,"13,550",
-"Fri, Nov 2, 1984",Dallas Mavericks,103,Philadelphia 76ers,107,Box Score,,"17,835",
-"Fri, Nov 2, 1984",Seattle SuperSonics,101,Utah Jazz,107,Box Score,,"3,955","at Las Vegas, NV"
-"Fri, Nov 2, 1984",Milwaukee Bucks,102,Washington Bullets,96,Box Score,,"7,102",
-"Sat, Nov 3, 1984",Washington Bullets,107,Atlanta Hawks,127,Box Score,,"6,646",
-"Sat, Nov 3, 1984",Phoenix Suns,105,Dallas Mavericks,93,Box Score,,"16,657",
-"Sat, Nov 3, 1984",Utah Jazz,107,Golden State Warriors,112,Box Score,,"5,280",
-"Sat, Nov 3, 1984",New York Knicks,93,Houston Rockets,105,Box Score,,"16,016",
-"Sat, Nov 3, 1984",Denver Nuggets,128,Kansas City Kings,114,Box Score,,"6,440",
-"Sat, Nov 3, 1984",Portland Trail Blazers,131,Los Angeles Clippers,112,Box Score,,"8,901",
-"Sat, Nov 3, 1984",Cleveland Cavaliers,88,Milwaukee Bucks,117,Box Score,,"10,012",
-"Sat, Nov 3, 1984",Indiana Pacers,117,New Jersey Nets,118,Box Score,,"10,399",
-"Sun, Nov 4, 1984",Portland Trail Blazers,116,Los Angeles Lakers,124,Box Score,,"14,148",
-"Sun, Nov 4, 1984",New York Knicks,130,San Antonio Spurs,131,Box Score,2OT,"8,033",
-"Mon, Nov 5, 1984",Detroit Pistons,107,Cleveland Cavaliers,98,Box Score,,"4,219",
-"Mon, Nov 5, 1984",Denver Nuggets,104,Los Angeles Clippers,107,Box Score,,"6,474",
-"Tue, Nov 6, 1984",New York Knicks,104,Dallas Mavericks,107,Box Score,,"15,385",
-"Tue, Nov 6, 1984",Kansas City Kings,94,Houston Rockets,108,Box Score,,"13,570",
-"Tue, Nov 6, 1984",Denver Nuggets,146,Los Angeles Lakers,130,Box Score,,"11,272",
-"Tue, Nov 6, 1984",Phoenix Suns,99,Portland Trail Blazers,116,Box Score,,"12,666",
-"Tue, Nov 6, 1984",Seattle SuperSonics,91,San Antonio Spurs,99,Box Score,,"8,085",
-"Wed, Nov 7, 1984",Los Angeles Clippers,108,Boston Celtics,135,Box Score,,"14,890",
-"Wed, Nov 7, 1984",Chicago Bulls,122,Detroit Pistons,118,Box Score,,"15,542",
-"Wed, Nov 7, 1984",Atlanta Hawks,99,Milwaukee Bucks,103,Box Score,,"8,429",
-"Wed, Nov 7, 1984",Washington Bullets,88,New Jersey Nets,99,Box Score,,"9,603",
-"Wed, Nov 7, 1984",Indiana Pacers,113,Philadelphia 76ers,134,Box Score,,"10,971",
-"Wed, Nov 7, 1984",San Antonio Spurs,124,Utah Jazz,136,Box Score,,"8,814",
-"Thu, Nov 8, 1984",Atlanta Hawks,105,Dallas Mavericks,112,Box Score,OT,"14,219",
-"Thu, Nov 8, 1984",Portland Trail Blazers,125,Denver Nuggets,128,Box Score,,"8,754",
-"Thu, Nov 8, 1984",Los Angeles Lakers,106,Golden State Warriors,122,Box Score,,"10,523",
-"Thu, Nov 8, 1984",Seattle SuperSonics,89,Houston Rockets,99,Box Score,,"15,202",
-"Thu, Nov 8, 1984",Chicago Bulls,121,New York Knicks,106,Box Score,,"19,252",
-"Thu, Nov 8, 1984",Cleveland Cavaliers,111,Phoenix Suns,112,Box Score,,"10,641",
-"Thu, Nov 8, 1984",Los Angeles Clippers,88,Washington Bullets,93,Box Score,,"5,271",
-"Fri, Nov 9, 1984",Philadelphia 76ers,119,Boston Celtics,130,Box Score,,"14,890",
-"Fri, Nov 9, 1984",Indiana Pacers,105,Milwaukee Bucks,122,Box Score,,"9,121",
-"Fri, Nov 9, 1984",Kansas City Kings,101,New Jersey Nets,99,Box Score,,"9,492",
-"Fri, Nov 9, 1984",Los Angeles Lakers,130,Portland Trail Blazers,126,Box Score,,"12,666",
-"Fri, Nov 9, 1984",Golden State Warriors,117,Utah Jazz,125,Box Score,OT,"8,743",
-"Sat, Nov 10, 1984",Seattle SuperSonics,102,Dallas Mavericks,106,Box Score,,"17,007",
-"Sat, Nov 10, 1984",Utah Jazz,135,Denver Nuggets,147,Box Score,,"9,719",
-"Sat, Nov 10, 1984",Milwaukee Bucks,100,Detroit Pistons,104,Box Score,,"21,172",
-"Sat, Nov 10, 1984",Los Angeles Clippers,92,Houston Rockets,117,Box Score,,"16,016",
-"Sat, Nov 10, 1984",Chicago Bulls,118,Indiana Pacers,116,Box Score,,"16,920",
-"Sat, Nov 10, 1984",Kansas City Kings,100,New York Knicks,113,Box Score,,"9,373",
-"Sat, Nov 10, 1984",Atlanta Hawks,114,Phoenix Suns,107,Box Score,,"12,424",
-"Sat, Nov 10, 1984",Cleveland Cavaliers,103,San Antonio Spurs,127,Box Score,,"9,939",
-"Sat, Nov 10, 1984",Boston Celtics,95,Washington Bullets,112,Box Score,,"14,395",
-"Sun, Nov 11, 1984",New Jersey Nets,111,Los Angeles Lakers,121,Box Score,,"13,257",
-"Sun, Nov 11, 1984",Golden State Warriors,97,Portland Trail Blazers,109,Box Score,,"12,666",
-"Mon, Nov 12, 1984",Boston Celtics,132,Indiana Pacers,115,Box Score,,"13,876",
-"Mon, Nov 12, 1984",Dallas Mavericks,97,Utah Jazz,123,Box Score,,"7,731",
-"Tue, Nov 13, 1984",Milwaukee Bucks,110,Atlanta Hawks,99,Box Score,,"6,371",
-"Tue, Nov 13, 1984",San Antonio Spurs,117,Chicago Bulls,120,Box Score,,"9,866",
-"Tue, Nov 13, 1984",Phoenix Suns,110,Denver Nuggets,122,Box Score,,"6,702",
-"Tue, Nov 13, 1984",Cleveland Cavaliers,98,Houston Rockets,106,Box Score,,"14,831",
-"Tue, Nov 13, 1984",New Jersey Nets,99,Los Angeles Clippers,90,Box Score,,"7,322",
-"Tue, Nov 13, 1984",Washington Bullets,103,New York Knicks,92,Box Score,,"8,945",
-"Tue, Nov 13, 1984",Dallas Mavericks,101,Portland Trail Blazers,94,Box Score,,"12,666",
-"Tue, Nov 13, 1984",Golden State Warriors,102,Seattle SuperSonics,109,Box Score,,"5,105",
-"Wed, Nov 14, 1984",New York Knicks,99,Boston Celtics,115,Box Score,,"14,890",
-"Wed, Nov 14, 1984",Houston Rockets,117,Indiana Pacers,125,Box Score,,"14,072",
-"Wed, Nov 14, 1984",Detroit Pistons,137,Philadelphia 76ers,133,Box Score,OT,"14,448",
-"Wed, Nov 14, 1984",New Jersey Nets,86,Phoenix Suns,98,Box Score,,"10,327",
-"Wed, Nov 14, 1984",San Antonio Spurs,106,Washington Bullets,125,Box Score,,"5,014",
-"Thu, Nov 15, 1984",Cleveland Cavaliers,102,Atlanta Hawks,99,Box Score,,"3,836",
-"Thu, Nov 15, 1984",Boston Celtics,125,Chicago Bulls,105,Box Score,,"17,753",
-"Thu, Nov 15, 1984",Dallas Mavericks,112,Golden State Warriors,117,Box Score,,"4,625",
-"Thu, Nov 15, 1984",Milwaukee Bucks,103,Los Angeles Clippers,90,Box Score,,"7,235",
-"Thu, Nov 15, 1984",Utah Jazz,120,Portland Trail Blazers,129,Box Score,,"12,666",
-"Fri, Nov 16, 1984",Houston Rockets,102,Denver Nuggets,119,Box Score,,"18,557",
-"Fri, Nov 16, 1984",Philadelphia 76ers,101,Detroit Pistons,90,Box Score,,"30,177",
-"Fri, Nov 16, 1984",San Antonio Spurs,117,Indiana Pacers,128,Box Score,OT,"10,074",
-"Fri, Nov 16, 1984",Kansas City Kings,116,Los Angeles Lakers,128,Box Score,,"13,287",
-"Fri, Nov 16, 1984",Milwaukee Bucks,106,Phoenix Suns,118,Box Score,,"12,988",
-"Fri, Nov 16, 1984",Portland Trail Blazers,89,Seattle SuperSonics,91,Box Score,,"10,904",
-"Fri, Nov 16, 1984",New York Knicks,104,Washington Bullets,118,Box Score,,"6,431",
-"Sat, Nov 17, 1984",Indiana Pacers,108,Atlanta Hawks,118,Box Score,,"7,696",
-"Sat, Nov 17, 1984",Philadelphia 76ers,109,Chicago Bulls,100,Box Score,,"18,116",
-"Sat, Nov 17, 1984",Detroit Pistons,124,Dallas Mavericks,110,Box Score,,"17,007",
-"Sat, Nov 17, 1984",New Jersey Nets,131,Golden State Warriors,114,Box Score,,"7,784",
-"Sat, Nov 17, 1984",San Antonio Spurs,133,Houston Rockets,141,Box Score,,"16,016",
-"Sat, Nov 17, 1984",Kansas City Kings,113,Los Angeles Clippers,121,Box Score,,"7,335",
-"Sat, Nov 17, 1984",Cleveland Cavaliers,88,New York Knicks,112,Box Score,,"8,783",
-"Sat, Nov 17, 1984",Phoenix Suns,94,Utah Jazz,108,Box Score,,"9,793",
-"Sun, Nov 18, 1984",Milwaukee Bucks,89,Los Angeles Lakers,96,Box Score,,"12,768",
-"Sun, Nov 18, 1984",Los Angeles Clippers,105,Portland Trail Blazers,113,Box Score,,"12,666",
-"Sun, Nov 18, 1984",New Jersey Nets,102,Seattle SuperSonics,97,Box Score,,"5,473",
-"Mon, Nov 19, 1984",Indiana Pacers,137,Chicago Bulls,120,Box Score,,"7,516",
-"Tue, Nov 20, 1984",Milwaukee Bucks,108,Dallas Mavericks,109,Box Score,,"16,511",
-"Tue, Nov 20, 1984",Detroit Pistons,117,Houston Rockets,123,Box Score,,"16,016",
-"Tue, Nov 20, 1984",Utah Jazz,122,Kansas City Kings,129,Box Score,,"7,132",
-"Tue, Nov 20, 1984",Phoenix Suns,108,Los Angeles Lakers,130,Box Score,,"13,792",
-"Tue, Nov 20, 1984",Golden State Warriors,101,New York Knicks,106,Box Score,,"8,863",
-"Tue, Nov 20, 1984",Washington Bullets,120,Philadelphia 76ers,105,Box Score,,"11,914",
-"Tue, Nov 20, 1984",New Jersey Nets,107,Portland Trail Blazers,117,Box Score,OT,"12,666",
-"Tue, Nov 20, 1984",Denver Nuggets,124,Seattle SuperSonics,114,Box Score,,"5,388",
-"Wed, Nov 21, 1984",Utah Jazz,90,Atlanta Hawks,122,Box Score,,"4,107","at New Orleans, LA"
-"Wed, Nov 21, 1984",Golden State Warriors,91,Boston Celtics,135,Box Score,,"14,890",
-"Wed, Nov 21, 1984",New York Knicks,109,Cleveland Cavaliers,101,Box Score,,"4,192",
-"Wed, Nov 21, 1984",Philadelphia 76ers,112,Indiana Pacers,107,Box Score,,"15,031",
-"Wed, Nov 21, 1984",Denver Nuggets,112,Los Angeles Clippers,106,Box Score,,"6,440",
-"Wed, Nov 21, 1984",Chicago Bulls,98,Milwaukee Bucks,108,Box Score,,"11,052",
-"Wed, Nov 21, 1984",Los Angeles Lakers,102,Phoenix Suns,97,Box Score,,"12,671",
-"Wed, Nov 21, 1984",Detroit Pistons,114,San Antonio Spurs,101,Box Score,,"8,524",
-"Wed, Nov 21, 1984",Kansas City Kings,92,Washington Bullets,97,Box Score,,"4,862",
-"Fri, Nov 23, 1984",Washington Bullets,110,Boston Celtics,118,Box Score,,"14,890",
-"Fri, Nov 23, 1984",Golden State Warriors,107,Cleveland Cavaliers,106,Box Score,,"5,402",
-"Fri, Nov 23, 1984",New York Knicks,120,Detroit Pistons,97,Box Score,,"25,310",
-"Fri, Nov 23, 1984",Kansas City Kings,122,Indiana Pacers,105,Box Score,,"11,504",
-"Fri, Nov 23, 1984",Philadelphia 76ers,119,Phoenix Suns,117,Box Score,OT,"14,660",
-"Fri, Nov 23, 1984",Chicago Bulls,113,Seattle SuperSonics,94,Box Score,,"12,283",
-"Fri, Nov 23, 1984",Houston Rockets,98,Utah Jazz,111,Box Score,,"12,698",
-"Sat, Nov 24, 1984",New Jersey Nets,99,Atlanta Hawks,101,Box Score,,"6,960",
-"Sat, Nov 24, 1984",Houston Rockets,95,Dallas Mavericks,113,Box Score,,"17,007",
-"Sat, Nov 24, 1984",Philadelphia 76ers,110,Denver Nuggets,114,Box Score,,"17,022",
-"Sat, Nov 24, 1984",Boston Celtics,135,Kansas City Kings,124,Box Score,,"17,341",
-"Sat, Nov 24, 1984",Los Angeles Lakers,108,Los Angeles Clippers,103,Box Score,,"14,991",
-"Sat, Nov 24, 1984",Golden State Warriors,97,Milwaukee Bucks,103,Box Score,,"10,656",
-"Sat, Nov 24, 1984",Indiana Pacers,100,New York Knicks,119,Box Score,,"10,856",
-"Sat, Nov 24, 1984",Chicago Bulls,131,Portland Trail Blazers,141,Box Score,,"12,666",
-"Sat, Nov 24, 1984",Utah Jazz,123,San Antonio Spurs,117,Box Score,,"8,164",
-"Sat, Nov 24, 1984",Detroit Pistons,106,Washington Bullets,112,Box Score,,"14,431",
-"Sun, Nov 25, 1984",Atlanta Hawks,111,Cleveland Cavaliers,118,Box Score,,"3,630",
-"Sun, Nov 25, 1984",Phoenix Suns,109,Los Angeles Clippers,114,Box Score,,"6,134",
-"Sun, Nov 25, 1984",Seattle SuperSonics,105,Los Angeles Lakers,94,Box Score,,"12,270",
-"Tue, Nov 27, 1984",Portland Trail Blazers,115,Cleveland Cavaliers,106,Box Score,,"3,605",
-"Tue, Nov 27, 1984",Boston Celtics,114,Dallas Mavericks,99,Box Score,,"17,007",
-"Tue, Nov 27, 1984",Los Angeles Clippers,110,Denver Nuggets,139,Box Score,,"6,715",
-"Tue, Nov 27, 1984",Chicago Bulls,103,Golden State Warriors,109,Box Score,,"13,295",
-"Tue, Nov 27, 1984",Milwaukee Bucks,105,Indiana Pacers,126,Box Score,,"7,550",
-"Tue, Nov 27, 1984",Atlanta Hawks,96,New York Knicks,97,Box Score,,"9,480",
-"Tue, Nov 27, 1984",Utah Jazz,102,Phoenix Suns,115,Box Score,,"9,621",
-"Tue, Nov 27, 1984",Houston Rockets,114,San Antonio Spurs,97,Box Score,,"11,930",
-"Tue, Nov 27, 1984",Kansas City Kings,96,Seattle SuperSonics,104,Box Score,,"5,160",
-"Tue, Nov 27, 1984",Philadelphia 76ers,93,Washington Bullets,89,Box Score,,"14,210",
-"Wed, Nov 28, 1984",Milwaukee Bucks,83,Atlanta Hawks,95,Box Score,,"2,172","at New Orleans, LA"
-"Wed, Nov 28, 1984",Portland Trail Blazers,113,Detroit Pistons,120,Box Score,,"10,269",
-"Wed, Nov 28, 1984",Boston Celtics,110,Houston Rockets,100,Box Score,,"16,016",
-"Wed, Nov 28, 1984",Seattle SuperSonics,90,Los Angeles Clippers,106,Box Score,,"6,261",
-"Wed, Nov 28, 1984",New York Knicks,96,New Jersey Nets,111,Box Score,,"15,271",
-"Wed, Nov 28, 1984",Indiana Pacers,101,Philadelphia 76ers,122,Box Score,,"9,581",
-"Wed, Nov 28, 1984",Los Angeles Lakers,114,Utah Jazz,109,Box Score,,"11,331",
-"Thu, Nov 29, 1984",Kansas City Kings,107,Golden State Warriors,110,Box Score,,"3,782",
-"Thu, Nov 29, 1984",Chicago Bulls,95,Phoenix Suns,100,Box Score,,"12,713",
-"Thu, Nov 29, 1984",Dallas Mavericks,116,San Antonio Spurs,124,Box Score,,"7,069",
-"Fri, Nov 30, 1984",Houston Rockets,116,Atlanta Hawks,102,Box Score,,"14,357",
-"Fri, Nov 30, 1984",Seattle SuperSonics,98,Dallas Mavericks,108,Box Score,,"16,725",
-"Fri, Nov 30, 1984",Washington Bullets,114,Detroit Pistons,106,Box Score,,"12,399",
-"Fri, Nov 30, 1984",Chicago Bulls,104,Los Angeles Clippers,100,Box Score,,"14,366",
-"Fri, Nov 30, 1984",Kansas City Kings,121,Los Angeles Lakers,130,Box Score,,"12,766",
-"Fri, Nov 30, 1984",New York Knicks,100,Milwaukee Bucks,118,Box Score,,"9,975",
-"Fri, Nov 30, 1984",Indiana Pacers,100,New Jersey Nets,123,Box Score,,"10,833",
-"Fri, Nov 30, 1984",Portland Trail Blazers,116,Philadelphia 76ers,126,Box Score,,"14,785",
-"Fri, Nov 30, 1984",Denver Nuggets,97,Utah Jazz,116,Box Score,,"8,326",
+"Date","Start (ET)","Visitor/Neutral","Visitor/Neutral PTS","Home/Neutral","Home/Neutral PTS","Attendance","Notes"
+"1984-11-01","","Detroit Pistons",118,"Atlanta Hawks",114,6871,""
+"1984-11-01","","Chicago Bulls",113,"Denver Nuggets",129,9413,""
+"1984-11-01","","San Antonio Spurs",123,"Golden State Warriors",108,3980,""
+"1984-11-01","","Houston Rockets",109,"Kansas City Kings",106,11640,""
+"1984-11-01","","New York Knicks",105,"Los Angeles Clippers",107,12018,""
+"1984-11-01","","Portland Trail Blazers",130,"Phoenix Suns",139,14660,""
+"1984-11-01","","Los Angeles Lakers",103,"Seattle SuperSonics",105,7070,""
+"1984-11-02","","Detroit Pistons",116,"Boston Celtics",127,14890,""
+"1984-11-02","","Indiana Pacers",116,"Cleveland Cavaliers",109,5129,""
+"1984-11-02","","San Antonio Spurs",100,"Los Angeles Lakers",119,13550,""
+"1984-11-02","","Dallas Mavericks",103,"Philadelphia 76ers",107,17835,""
+"1984-11-02","","Seattle SuperSonics",101,"Utah Jazz",107,3955,"at Las Vegas, NV"
+"1984-11-02","","Milwaukee Bucks",102,"Washington Bullets",96,7102,""
+"1984-11-03","","Washington Bullets",107,"Atlanta Hawks",127,6646,""
+"1984-11-03","","Phoenix Suns",105,"Dallas Mavericks",93,16657,""
+"1984-11-03","","Utah Jazz",107,"Golden State Warriors",112,5280,""
+"1984-11-03","","New York Knicks",93,"Houston Rockets",105,16016,""
+"1984-11-03","","Denver Nuggets",128,"Kansas City Kings",114,6440,""
+"1984-11-03","","Portland Trail Blazers",131,"Los Angeles Clippers",112,8901,""
+"1984-11-03","","Cleveland Cavaliers",88,"Milwaukee Bucks",117,10012,""
+"1984-11-03","","Indiana Pacers",117,"New Jersey Nets",118,10399,""
+"1984-11-04","","Portland Trail Blazers",116,"Los Angeles Lakers",124,14148,""
+"1984-11-04","","New York Knicks",130,"San Antonio Spurs",131,8033,""
+"1984-11-05","","Detroit Pistons",107,"Cleveland Cavaliers",98,4219,""
+"1984-11-05","","Denver Nuggets",104,"Los Angeles Clippers",107,6474,""
+"1984-11-06","","New York Knicks",104,"Dallas Mavericks",107,15385,""
+"1984-11-06","","Kansas City Kings",94,"Houston Rockets",108,13570,""
+"1984-11-06","","Denver Nuggets",146,"Los Angeles Lakers",130,11272,""
+"1984-11-06","","Phoenix Suns",99,"Portland Trail Blazers",116,12666,""
+"1984-11-06","","Seattle SuperSonics",91,"San Antonio Spurs",99,8085,""
+"1984-11-07","","Los Angeles Clippers",108,"Boston Celtics",135,14890,""
+"1984-11-07","","Chicago Bulls",122,"Detroit Pistons",118,15542,""
+"1984-11-07","","Atlanta Hawks",99,"Milwaukee Bucks",103,8429,""
+"1984-11-07","","Washington Bullets",88,"New Jersey Nets",99,9603,""
+"1984-11-07","","Indiana Pacers",113,"Philadelphia 76ers",134,10971,""
+"1984-11-07","","San Antonio Spurs",124,"Utah Jazz",136,8814,""
+"1984-11-08","","Atlanta Hawks",105,"Dallas Mavericks",112,14219,""
+"1984-11-08","","Portland Trail Blazers",125,"Denver Nuggets",128,8754,""
+"1984-11-08","","Los Angeles Lakers",106,"Golden State Warriors",122,10523,""
+"1984-11-08","","Seattle SuperSonics",89,"Houston Rockets",99,15202,""
+"1984-11-08","","Chicago Bulls",121,"New York Knicks",106,19252,""
+"1984-11-08","","Cleveland Cavaliers",111,"Phoenix Suns",112,10641,""
+"1984-11-08","","Los Angeles Clippers",88,"Washington Bullets",93,5271,""
+"1984-11-09","","Philadelphia 76ers",119,"Boston Celtics",130,14890,""
+"1984-11-09","","Indiana Pacers",105,"Milwaukee Bucks",122,9121,""
+"1984-11-09","","Kansas City Kings",101,"New Jersey Nets",99,9492,""
+"1984-11-09","","Los Angeles Lakers",130,"Portland Trail Blazers",126,12666,""
+"1984-11-09","","Golden State Warriors",117,"Utah Jazz",125,8743,""
+"1984-11-10","","Seattle SuperSonics",102,"Dallas Mavericks",106,17007,""
+"1984-11-10","","Utah Jazz",135,"Denver Nuggets",147,9719,""
+"1984-11-10","","Milwaukee Bucks",100,"Detroit Pistons",104,21172,""
+"1984-11-10","","Los Angeles Clippers",92,"Houston Rockets",117,16016,""
+"1984-11-10","","Chicago Bulls",118,"Indiana Pacers",116,16920,""
+"1984-11-10","","Kansas City Kings",100,"New York Knicks",113,9373,""
+"1984-11-10","","Atlanta Hawks",114,"Phoenix Suns",107,12424,""
+"1984-11-10","","Cleveland Cavaliers",103,"San Antonio Spurs",127,9939,""
+"1984-11-10","","Boston Celtics",95,"Washington Bullets",112,14395,""
+"1984-11-11","","New Jersey Nets",111,"Los Angeles Lakers",121,13257,""
+"1984-11-11","","Golden State Warriors",97,"Portland Trail Blazers",109,12666,""
+"1984-11-12","","Boston Celtics",132,"Indiana Pacers",115,13876,""
+"1984-11-12","","Dallas Mavericks",97,"Utah Jazz",123,7731,""
+"1984-11-13","","Milwaukee Bucks",110,"Atlanta Hawks",99,6371,""
+"1984-11-13","","San Antonio Spurs",117,"Chicago Bulls",120,9866,""
+"1984-11-13","","Phoenix Suns",110,"Denver Nuggets",122,6702,""
+"1984-11-13","","Cleveland Cavaliers",98,"Houston Rockets",106,14831,""
+"1984-11-13","","New Jersey Nets",99,"Los Angeles Clippers",90,7322,""
+"1984-11-13","","Washington Bullets",103,"New York Knicks",92,8945,""
+"1984-11-13","","Dallas Mavericks",101,"Portland Trail Blazers",94,12666,""
+"1984-11-13","","Golden State Warriors",102,"Seattle SuperSonics",109,5105,""
+"1984-11-14","","New York Knicks",99,"Boston Celtics",115,14890,""
+"1984-11-14","","Houston Rockets",117,"Indiana Pacers",125,14072,""
+"1984-11-14","","Detroit Pistons",137,"Philadelphia 76ers",133,14448,""
+"1984-11-14","","New Jersey Nets",86,"Phoenix Suns",98,10327,""
+"1984-11-14","","San Antonio Spurs",106,"Washington Bullets",125,5014,""
+"1984-11-15","","Cleveland Cavaliers",102,"Atlanta Hawks",99,3836,""
+"1984-11-15","","Boston Celtics",125,"Chicago Bulls",105,17753,""
+"1984-11-15","","Dallas Mavericks",112,"Golden State Warriors",117,4625,""
+"1984-11-15","","Milwaukee Bucks",103,"Los Angeles Clippers",90,7235,""
+"1984-11-15","","Utah Jazz",120,"Portland Trail Blazers",129,12666,""
+"1984-11-16","","Houston Rockets",102,"Denver Nuggets",119,18557,""
+"1984-11-16","","Philadelphia 76ers",101,"Detroit Pistons",90,30177,""
+"1984-11-16","","San Antonio Spurs",117,"Indiana Pacers",128,10074,""
+"1984-11-16","","Kansas City Kings",116,"Los Angeles Lakers",128,13287,""
+"1984-11-16","","Milwaukee Bucks",106,"Phoenix Suns",118,12988,""
+"1984-11-16","","Portland Trail Blazers",89,"Seattle SuperSonics",91,10904,""
+"1984-11-16","","New York Knicks",104,"Washington Bullets",118,6431,""
+"1984-11-17","","Indiana Pacers",108,"Atlanta Hawks",118,7696,""
+"1984-11-17","","Philadelphia 76ers",109,"Chicago Bulls",100,18116,""
+"1984-11-17","","Detroit Pistons",124,"Dallas Mavericks",110,17007,""
+"1984-11-17","","New Jersey Nets",131,"Golden State Warriors",114,7784,""
+"1984-11-17","","San Antonio Spurs",133,"Houston Rockets",141,16016,""
+"1984-11-17","","Kansas City Kings",113,"Los Angeles Clippers",121,7335,""
+"1984-11-17","","Cleveland Cavaliers",88,"New York Knicks",112,8783,""
+"1984-11-17","","Phoenix Suns",94,"Utah Jazz",108,9793,""
+"1984-11-18","","Milwaukee Bucks",89,"Los Angeles Lakers",96,12768,""
+"1984-11-18","","Los Angeles Clippers",105,"Portland Trail Blazers",113,12666,""
+"1984-11-18","","New Jersey Nets",102,"Seattle SuperSonics",97,5473,""
+"1984-11-19","","Indiana Pacers",137,"Chicago Bulls",120,7516,""
+"1984-11-20","","Milwaukee Bucks",108,"Dallas Mavericks",109,16511,""
+"1984-11-20","","Detroit Pistons",117,"Houston Rockets",123,16016,""
+"1984-11-20","","Utah Jazz",122,"Kansas City Kings",129,7132,""
+"1984-11-20","","Phoenix Suns",108,"Los Angeles Lakers",130,13792,""
+"1984-11-20","","Golden State Warriors",101,"New York Knicks",106,8863,""
+"1984-11-20","","Washington Bullets",120,"Philadelphia 76ers",105,11914,""
+"1984-11-20","","New Jersey Nets",107,"Portland Trail Blazers",117,12666,""
+"1984-11-20","","Denver Nuggets",124,"Seattle SuperSonics",114,5388,""
+"1984-11-21","","Utah Jazz",90,"Atlanta Hawks",122,4107,"at New Orleans, LA"
+"1984-11-21","","Golden State Warriors",91,"Boston Celtics",135,14890,""
+"1984-11-21","","New York Knicks",109,"Cleveland Cavaliers",101,4192,""
+"1984-11-21","","Philadelphia 76ers",112,"Indiana Pacers",107,15031,""
+"1984-11-21","","Denver Nuggets",112,"Los Angeles Clippers",106,6440,""
+"1984-11-21","","Chicago Bulls",98,"Milwaukee Bucks",108,11052,""
+"1984-11-21","","Los Angeles Lakers",102,"Phoenix Suns",97,12671,""
+"1984-11-21","","Detroit Pistons",114,"San Antonio Spurs",101,8524,""
+"1984-11-21","","Kansas City Kings",92,"Washington Bullets",97,4862,""
+"1984-11-23","","Washington Bullets",110,"Boston Celtics",118,14890,""
+"1984-11-23","","Golden State Warriors",107,"Cleveland Cavaliers",106,5402,""
+"1984-11-23","","New York Knicks",120,"Detroit Pistons",97,25310,""
+"1984-11-23","","Kansas City Kings",122,"Indiana Pacers",105,11504,""
+"1984-11-23","","Philadelphia 76ers",119,"Phoenix Suns",117,14660,""
+"1984-11-23","","Chicago Bulls",113,"Seattle SuperSonics",94,12283,""
+"1984-11-23","","Houston Rockets",98,"Utah Jazz",111,12698,""
+"1984-11-24","","New Jersey Nets",99,"Atlanta Hawks",101,6960,""
+"1984-11-24","","Houston Rockets",95,"Dallas Mavericks",113,17007,""
+"1984-11-24","","Philadelphia 76ers",110,"Denver Nuggets",114,17022,""
+"1984-11-24","","Boston Celtics",135,"Kansas City Kings",124,17341,""
+"1984-11-24","","Los Angeles Lakers",108,"Los Angeles Clippers",103,14991,""
+"1984-11-24","","Golden State Warriors",97,"Milwaukee Bucks",103,10656,""
+"1984-11-24","","Indiana Pacers",100,"New York Knicks",119,10856,""
+"1984-11-24","","Chicago Bulls",131,"Portland Trail Blazers",141,12666,""
+"1984-11-24","","Utah Jazz",123,"San Antonio Spurs",117,8164,""
+"1984-11-24","","Detroit Pistons",106,"Washington Bullets",112,14431,""
+"1984-11-25","","Atlanta Hawks",111,"Cleveland Cavaliers",118,3630,""
+"1984-11-25","","Phoenix Suns",109,"Los Angeles Clippers",114,6134,""
+"1984-11-25","","Seattle SuperSonics",105,"Los Angeles Lakers",94,12270,""
+"1984-11-27","","Portland Trail Blazers",115,"Cleveland Cavaliers",106,3605,""
+"1984-11-27","","Boston Celtics",114,"Dallas Mavericks",99,17007,""
+"1984-11-27","","Los Angeles Clippers",110,"Denver Nuggets",139,6715,""
+"1984-11-27","","Chicago Bulls",103,"Golden State Warriors",109,13295,""
+"1984-11-27","","Milwaukee Bucks",105,"Indiana Pacers",126,7550,""
+"1984-11-27","","Atlanta Hawks",96,"New York Knicks",97,9480,""
+"1984-11-27","","Utah Jazz",102,"Phoenix Suns",115,9621,""
+"1984-11-27","","Houston Rockets",114,"San Antonio Spurs",97,11930,""
+"1984-11-27","","Kansas City Kings",96,"Seattle SuperSonics",104,5160,""
+"1984-11-27","","Philadelphia 76ers",93,"Washington Bullets",89,14210,""
+"1984-11-28","","Milwaukee Bucks",83,"Atlanta Hawks",95,2172,"at New Orleans, LA"
+"1984-11-28","","Portland Trail Blazers",113,"Detroit Pistons",120,10269,""
+"1984-11-28","","Boston Celtics",110,"Houston Rockets",100,16016,""
+"1984-11-28","","Seattle SuperSonics",90,"Los Angeles Clippers",106,6261,""
+"1984-11-28","","New York Knicks",96,"New Jersey Nets",111,15271,""
+"1984-11-28","","Indiana Pacers",101,"Philadelphia 76ers",122,9581,""
+"1984-11-28","","Los Angeles Lakers",114,"Utah Jazz",109,11331,""
+"1984-11-29","","Kansas City Kings",107,"Golden State Warriors",110,3782,""
+"1984-11-29","","Chicago Bulls",95,"Phoenix Suns",100,12713,""
+"1984-11-29","","Dallas Mavericks",116,"San Antonio Spurs",124,7069,""
+"1984-11-30","","Houston Rockets",116,"Atlanta Hawks",102,14357,""
+"1984-11-30","","Seattle SuperSonics",98,"Dallas Mavericks",108,16725,""
+"1984-11-30","","Washington Bullets",114,"Detroit Pistons",106,12399,""
+"1984-11-30","","Chicago Bulls",104,"Los Angeles Clippers",100,14366,""
+"1984-11-30","","Kansas City Kings",121,"Los Angeles Lakers",130,12766,""
+"1984-11-30","","New York Knicks",100,"Milwaukee Bucks",118,9975,""
+"1984-11-30","","Indiana Pacers",100,"New Jersey Nets",123,10833,""
+"1984-11-30","","Portland Trail Blazers",116,"Philadelphia 76ers",126,14785,""
+"1984-11-30","","Denver Nuggets",97,"Utah Jazz",116,8326,""

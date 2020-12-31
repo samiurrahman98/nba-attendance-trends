@@ -1,12 +1,12 @@
-Date,Visitor/Neutral,PTS_1,Home/Neutral,PTS_2,_1,_2,Attend.,Notes
-"Wed, Jun 1, 1988",Detroit Pistons,102,Boston Celtics,96,Box Score,OT,"14,890",
-"Thu, Jun 2, 1988",Los Angeles Lakers,103,Dallas Mavericks,105,Box Score,,"17,007",
-"Fri, Jun 3, 1988",Boston Celtics,90,Detroit Pistons,95,Box Score,,"38,912",
-"Sat, Jun 4, 1988",Dallas Mavericks,102,Los Angeles Lakers,117,Box Score,,"17,505",
-"Tue, Jun 7, 1988",Detroit Pistons,105,Los Angeles Lakers,93,Box Score,,"17,505",
-"Thu, Jun 9, 1988",Detroit Pistons,96,Los Angeles Lakers,108,Box Score,,"17,505",
-"Sun, Jun 12, 1988",Los Angeles Lakers,99,Detroit Pistons,86,Box Score,,"39,188",
-"Tue, Jun 14, 1988",Los Angeles Lakers,86,Detroit Pistons,111,Box Score,,"34,297",
-"Thu, Jun 16, 1988",Los Angeles Lakers,94,Detroit Pistons,104,Box Score,,"41,732",
-"Sun, Jun 19, 1988",Detroit Pistons,102,Los Angeles Lakers,103,Box Score,,"17,505",
-"Tue, Jun 21, 1988",Detroit Pistons,105,Los Angeles Lakers,108,Box Score,,"17,505",
+"Date","Start (ET)","Visitor/Neutral","Visitor/Neutral PTS","Home/Neutral","Home/Neutral PTS","Attendance","Notes"
+"1988-06-01","","Detroit Pistons",102,"Boston Celtics",96,14890,""
+"1988-06-02","","Los Angeles Lakers",103,"Dallas Mavericks",105,17007,""
+"1988-06-03","","Boston Celtics",90,"Detroit Pistons",95,38912,""
+"1988-06-04","","Dallas Mavericks",102,"Los Angeles Lakers",117,17505,""
+"1988-06-07","","Detroit Pistons",105,"Los Angeles Lakers",93,17505,""
+"1988-06-09","","Detroit Pistons",96,"Los Angeles Lakers",108,17505,""
+"1988-06-12","","Los Angeles Lakers",99,"Detroit Pistons",86,39188,""
+"1988-06-14","","Los Angeles Lakers",86,"Detroit Pistons",111,34297,""
+"1988-06-16","","Los Angeles Lakers",94,"Detroit Pistons",104,41732,""
+"1988-06-19","","Detroit Pistons",102,"Los Angeles Lakers",103,17505,""
+"1988-06-21","","Detroit Pistons",105,"Los Angeles Lakers",108,17505,""

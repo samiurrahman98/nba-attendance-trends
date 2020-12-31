@@ -1,11 +1,11 @@
-Date,Visitor/Neutral,PTS_1,Home/Neutral,PTS_2,_1,_2,Attend.,Notes
-"Wed, Jun 1, 1994",Indiana Pacers,93,New York Knicks,86,Box Score,,,
-"Fri, Jun 3, 1994",New York Knicks,98,Indiana Pacers,91,Box Score,,"16,529",
-"Sun, Jun 5, 1994",Indiana Pacers,90,New York Knicks,94,Box Score,,"19,763",
-"Wed, Jun 8, 1994",New York Knicks,78,Houston Rockets,85,Box Score,,"16,611",
-"Fri, Jun 10, 1994",New York Knicks,91,Houston Rockets,83,Box Score,,"16,611",
-"Sun, Jun 12, 1994",Houston Rockets,93,New York Knicks,89,Box Score,,"19,763",
-"Wed, Jun 15, 1994",Houston Rockets,82,New York Knicks,91,Box Score,,"19,763",
-"Fri, Jun 17, 1994",Houston Rockets,84,New York Knicks,91,Box Score,,"19,763",
-"Sun, Jun 19, 1994",New York Knicks,84,Houston Rockets,86,Box Score,,"16,611",
-"Wed, Jun 22, 1994",New York Knicks,84,Houston Rockets,90,Box Score,,"16,611",
+"Date","Start (ET)","Visitor/Neutral","Visitor/Neutral PTS","Home/Neutral","Home/Neutral PTS","Attendance","Notes"
+"1994-06-01","","Indiana Pacers",93,"New York Knicks",86,"",""
+"1994-06-03","","New York Knicks",98,"Indiana Pacers",91,16529,""
+"1994-06-05","","Indiana Pacers",90,"New York Knicks",94,19763,""
+"1994-06-08","","New York Knicks",78,"Houston Rockets",85,16611,""
+"1994-06-10","","New York Knicks",91,"Houston Rockets",83,16611,""
+"1994-06-12","","Houston Rockets",93,"New York Knicks",89,19763,""
+"1994-06-15","","Houston Rockets",82,"New York Knicks",91,19763,""
+"1994-06-17","","Houston Rockets",84,"New York Knicks",91,19763,""
+"1994-06-19","","New York Knicks",84,"Houston Rockets",86,16611,""
+"1994-06-22","","New York Knicks",84,"Houston Rockets",90,16611,""

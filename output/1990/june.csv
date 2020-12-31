@@ -1,8 +1,8 @@
-Date,Visitor/Neutral,PTS_1,Home/Neutral,PTS_2,_1,_2,Attend.,Notes
-"Fri, Jun 1, 1990",Detroit Pistons,91,Chicago Bulls,109,Box Score,,"18,676",
-"Sun, Jun 3, 1990",Chicago Bulls,74,Detroit Pistons,93,Box Score,,"21,454",
-"Tue, Jun 5, 1990",Portland Trail Blazers,99,Detroit Pistons,105,Box Score,,"21,454",
-"Thu, Jun 7, 1990",Portland Trail Blazers,106,Detroit Pistons,105,Box Score,OT,"21,454",
-"Sun, Jun 10, 1990",Detroit Pistons,121,Portland Trail Blazers,106,Box Score,,"12,884",
-"Tue, Jun 12, 1990",Detroit Pistons,112,Portland Trail Blazers,109,Box Score,,"12,642",
-"Thu, Jun 14, 1990",Detroit Pistons,92,Portland Trail Blazers,90,Box Score,,"12,642",
+"Date","Start (ET)","Visitor/Neutral","Visitor/Neutral PTS","Home/Neutral","Home/Neutral PTS","Attendance","Notes"
+"1990-06-01","","Detroit Pistons",91,"Chicago Bulls",109,18676,""
+"1990-06-03","","Chicago Bulls",74,"Detroit Pistons",93,21454,""
+"1990-06-05","","Portland Trail Blazers",99,"Detroit Pistons",105,21454,""
+"1990-06-07","","Portland Trail Blazers",106,"Detroit Pistons",105,21454,""
+"1990-06-10","","Detroit Pistons",121,"Portland Trail Blazers",106,12884,""
+"1990-06-12","","Detroit Pistons",112,"Portland Trail Blazers",109,12642,""
+"1990-06-14","","Detroit Pistons",92,"Portland Trail Blazers",90,12642,""

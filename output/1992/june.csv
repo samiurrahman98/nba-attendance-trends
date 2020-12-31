@@ -1,7 +1,7 @@
-Date,Visitor/Neutral,PTS_1,Home/Neutral,PTS_2,_1,_2,Attend.,Notes
-"Wed, Jun 3, 1992",Portland Trail Blazers,89,Chicago Bulls,122,Box Score,,"18,676",
-"Fri, Jun 5, 1992",Portland Trail Blazers,115,Chicago Bulls,104,Box Score,OT,"18,676",
-"Sun, Jun 7, 1992",Chicago Bulls,94,Portland Trail Blazers,84,Box Score,,"12,888",
-"Wed, Jun 10, 1992",Chicago Bulls,88,Portland Trail Blazers,93,Box Score,,"12,888",
-"Fri, Jun 12, 1992",Chicago Bulls,119,Portland Trail Blazers,106,Box Score,,"12,888",
-"Sun, Jun 14, 1992",Portland Trail Blazers,93,Chicago Bulls,97,Box Score,,"18,678",
+"Date","Start (ET)","Visitor/Neutral","Visitor/Neutral PTS","Home/Neutral","Home/Neutral PTS","Attendance","Notes"
+"1992-06-03","","Portland Trail Blazers",89,"Chicago Bulls",122,18676,""
+"1992-06-05","","Portland Trail Blazers",115,"Chicago Bulls",104,18676,""
+"1992-06-07","","Chicago Bulls",94,"Portland Trail Blazers",84,12888,""
+"1992-06-10","","Chicago Bulls",88,"Portland Trail Blazers",93,12888,""
+"1992-06-12","","Chicago Bulls",119,"Portland Trail Blazers",106,12888,""
+"1992-06-14","","Portland Trail Blazers",93,"Chicago Bulls",97,18678,""

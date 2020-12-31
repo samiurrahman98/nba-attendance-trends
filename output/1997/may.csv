@@ -1,43 +1,43 @@
-Date,Visitor/Neutral,PTS_1,Home/Neutral,PTS_2,_1,_2,Attend.,Notes
-"Thu, May 1, 1997",Seattle SuperSonics,122,Phoenix Suns,115,Box Score,OT,"19,023",
-"Thu, May 1, 1997",Miami Heat,91,Orlando Magic,99,Box Score,,"16,555",
-"Fri, May 2, 1997",Los Angeles Lakers,95,Portland Trail Blazers,91,Box Score,,"21,538",
-"Fri, May 2, 1997",Atlanta Hawks,94,Detroit Pistons,82,Box Score,,"21,454",
-"Sat, May 3, 1997",Phoenix Suns,92,Seattle SuperSonics,116,Box Score,,"17,072",
-"Sun, May 4, 1997",Detroit Pistons,79,Atlanta Hawks,84,Box Score,,"16,378",
-"Sun, May 4, 1997",Orlando Magic,83,Miami Heat,91,Box Score,,"15,200",
-"Sun, May 4, 1997",Los Angeles Lakers,77,Utah Jazz,93,Box Score,,"19,911",
-"Mon, May 5, 1997",Seattle SuperSonics,102,Houston Rockets,112,Box Score,,"16,285",
-"Tue, May 6, 1997",Atlanta Hawks,97,Chicago Bulls,100,Box Score,,"24,397",
-"Tue, May 6, 1997",Los Angeles Lakers,101,Utah Jazz,103,Box Score,,"19,911",
-"Wed, May 7, 1997",Seattle SuperSonics,106,Houston Rockets,101,Box Score,,"16,285",
-"Wed, May 7, 1997",New York Knicks,88,Miami Heat,79,Box Score,,"14,870",
-"Thu, May 8, 1997",Atlanta Hawks,103,Chicago Bulls,95,Box Score,,"24,544",
-"Thu, May 8, 1997",Utah Jazz,84,Los Angeles Lakers,104,Box Score,,"17,505",
-"Fri, May 9, 1997",New York Knicks,84,Miami Heat,88,Box Score,,"14,870",
-"Fri, May 9, 1997",Houston Rockets,97,Seattle SuperSonics,93,Box Score,,"17,072",
-"Sat, May 10, 1997",Chicago Bulls,100,Atlanta Hawks,80,Box Score,,"16,378",
-"Sat, May 10, 1997",Utah Jazz,110,Los Angeles Lakers,95,Box Score,,"17,505",
-"Sun, May 11, 1997",Houston Rockets,110,Seattle SuperSonics,106,Box Score,OT,"17,072",
-"Sun, May 11, 1997",Chicago Bulls,89,Atlanta Hawks,80,Box Score,,"16,378",
-"Sun, May 11, 1997",Miami Heat,73,New York Knicks,77,Box Score,,"19,763",
-"Mon, May 12, 1997",Miami Heat,76,New York Knicks,89,Box Score,,"19,763",
-"Mon, May 12, 1997",Los Angeles Lakers,93,Utah Jazz,98,Box Score,OT,"19,911",
-"Tue, May 13, 1997",Atlanta Hawks,92,Chicago Bulls,107,Box Score,,"24,544",
-"Tue, May 13, 1997",Seattle SuperSonics,100,Houston Rockets,94,Box Score,,"16,285",
-"Wed, May 14, 1997",New York Knicks,81,Miami Heat,96,Box Score,,"14,782",
-"Thu, May 15, 1997",Houston Rockets,96,Seattle SuperSonics,99,Box Score,,"17,072",
-"Fri, May 16, 1997",Miami Heat,95,New York Knicks,90,Box Score,,"19,763",
-"Sat, May 17, 1997",Seattle SuperSonics,91,Houston Rockets,96,Box Score,,"16,285",
-"Sun, May 18, 1997",New York Knicks,90,Miami Heat,101,Box Score,,"14,870",
-"Mon, May 19, 1997",Houston Rockets,86,Utah Jazz,101,Box Score,,"19,911",
-"Tue, May 20, 1997",Miami Heat,77,Chicago Bulls,84,Box Score,,"24,544",
-"Wed, May 21, 1997",Houston Rockets,92,Utah Jazz,104,Box Score,,"19,911",
-"Thu, May 22, 1997",Miami Heat,68,Chicago Bulls,75,Box Score,,"24,544",
-"Fri, May 23, 1997",Utah Jazz,100,Houston Rockets,118,Box Score,,"16,285",
-"Sat, May 24, 1997",Chicago Bulls,98,Miami Heat,74,Box Score,,"14,720",
-"Sun, May 25, 1997",Utah Jazz,92,Houston Rockets,95,Box Score,,"16,285",
-"Mon, May 26, 1997",Chicago Bulls,80,Miami Heat,87,Box Score,,"14,720",
-"Tue, May 27, 1997",Houston Rockets,91,Utah Jazz,96,Box Score,,"19,911",
-"Wed, May 28, 1997",Miami Heat,87,Chicago Bulls,100,Box Score,,"24,544",
-"Thu, May 29, 1997",Utah Jazz,103,Houston Rockets,100,Box Score,,"16,285",
+"Date","Start (ET)","Visitor/Neutral","Visitor/Neutral PTS","Home/Neutral","Home/Neutral PTS","Attendance","Notes"
+"1997-05-01","","Seattle SuperSonics",122,"Phoenix Suns",115,19023,""
+"1997-05-01","","Miami Heat",91,"Orlando Magic",99,16555,""
+"1997-05-02","","Los Angeles Lakers",95,"Portland Trail Blazers",91,21538,""
+"1997-05-02","","Atlanta Hawks",94,"Detroit Pistons",82,21454,""
+"1997-05-03","","Phoenix Suns",92,"Seattle SuperSonics",116,17072,""
+"1997-05-04","","Detroit Pistons",79,"Atlanta Hawks",84,16378,""
+"1997-05-04","","Orlando Magic",83,"Miami Heat",91,15200,""
+"1997-05-04","","Los Angeles Lakers",77,"Utah Jazz",93,19911,""
+"1997-05-05","","Seattle SuperSonics",102,"Houston Rockets",112,16285,""
+"1997-05-06","","Atlanta Hawks",97,"Chicago Bulls",100,24397,""
+"1997-05-06","","Los Angeles Lakers",101,"Utah Jazz",103,19911,""
+"1997-05-07","","Seattle SuperSonics",106,"Houston Rockets",101,16285,""
+"1997-05-07","","New York Knicks",88,"Miami Heat",79,14870,""
+"1997-05-08","","Atlanta Hawks",103,"Chicago Bulls",95,24544,""
+"1997-05-08","","Utah Jazz",84,"Los Angeles Lakers",104,17505,""
+"1997-05-09","","New York Knicks",84,"Miami Heat",88,14870,""
+"1997-05-09","","Houston Rockets",97,"Seattle SuperSonics",93,17072,""
+"1997-05-10","","Chicago Bulls",100,"Atlanta Hawks",80,16378,""
+"1997-05-10","","Utah Jazz",110,"Los Angeles Lakers",95,17505,""
+"1997-05-11","","Houston Rockets",110,"Seattle SuperSonics",106,17072,""
+"1997-05-11","","Chicago Bulls",89,"Atlanta Hawks",80,16378,""
+"1997-05-11","","Miami Heat",73,"New York Knicks",77,19763,""
+"1997-05-12","","Miami Heat",76,"New York Knicks",89,19763,""
+"1997-05-12","","Los Angeles Lakers",93,"Utah Jazz",98,19911,""
+"1997-05-13","","Atlanta Hawks",92,"Chicago Bulls",107,24544,""
+"1997-05-13","","Seattle SuperSonics",100,"Houston Rockets",94,16285,""
+"1997-05-14","","New York Knicks",81,"Miami Heat",96,14782,""
+"1997-05-15","","Houston Rockets",96,"Seattle SuperSonics",99,17072,""
+"1997-05-16","","Miami Heat",95,"New York Knicks",90,19763,""
+"1997-05-17","","Seattle SuperSonics",91,"Houston Rockets",96,16285,""
+"1997-05-18","","New York Knicks",90,"Miami Heat",101,14870,""
+"1997-05-19","","Houston Rockets",86,"Utah Jazz",101,19911,""
+"1997-05-20","","Miami Heat",77,"Chicago Bulls",84,24544,""
+"1997-05-21","","Houston Rockets",92,"Utah Jazz",104,19911,""
+"1997-05-22","","Miami Heat",68,"Chicago Bulls",75,24544,""
+"1997-05-23","","Utah Jazz",100,"Houston Rockets",118,16285,""
+"1997-05-24","","Chicago Bulls",98,"Miami Heat",74,14720,""
+"1997-05-25","","Utah Jazz",92,"Houston Rockets",95,16285,""
+"1997-05-26","","Chicago Bulls",80,"Miami Heat",87,14720,""
+"1997-05-27","","Houston Rockets",91,"Utah Jazz",96,19911,""
+"1997-05-28","","Miami Heat",87,"Chicago Bulls",100,24544,""
+"1997-05-29","","Utah Jazz",103,"Houston Rockets",100,16285,""
